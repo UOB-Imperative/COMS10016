@@ -42,14 +42,14 @@ var categories = [
 var activities = [
 
 //WEEK 01
-["1", "Tue 28/09/21<br/>03:00pm<br/>CHEM LT1", "WELCOME &amp INTRODUCTION",  "", "imperative/week01/COMS10016_Welcome.pdf", "21", "4"],
+["1", "Tue 28/09/21<br/>03:00pm<br/>CHEM LT1", "WELCOME &amp INTRODUCTION",  "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/tuesday.html", "imperative/week01/COMS10016_Welcome.pdf", "21", "4"],
 ["5", "in your own time",   "GET YOUR PC READY",               "http://people.cs.bris.ac.uk/~burghard/setup/index.html", "", "0", "0"],
 ["5", "in your own time",   "THE LINUX TUTORIAL",              "https://seis.bristol.ac.uk/~sh1670/LinTut.pdf", "", "0", "0"],
-["11","Wed 29/09/21<br/>10:00am<br/>MVB2.11", "Join Session",                "", "", "0", "0"],
+["11","Wed 29/09/21<br/>10:00am<br/>MVB2.11", "Join Session",  "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/wednesday.html", "", "0", "0"],
 ["9", "",                   "",                                "", "", "0", "0"],
 ["5", "in your own time",   "UNDERSTAND UNIT MARKING",         "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/week01/marking.html", "", "0", "0"],
 ["5", "in your own time",   "KNOW ABOUT PLAGIARISM",           "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/week01/plagiarism.html", "", "0", "0"],
-["11","Wed 29/09/21<br/>11:30am<br/>MVB2.11", "Join Session",    "", "", "0", "0"],
+["11","Wed 29/09/21<br/>11:30am<br/>MVB2.11", "Join Session",  "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/wednesday.html", "", "0", "0"],
 
 //WEEK 02 - WRITING SIMPLE C PROGRAMS
 ["1", "Tue 05/10/21  | 3pm<br/>CHEM LT1 + Teams", "PROGRAMS &amp; COMPUTATION",      "", "imperative/week02/COMS10016_Computing.pdf", "29", "2"],
