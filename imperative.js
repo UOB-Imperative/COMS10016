@@ -20,7 +20,7 @@ var extendCatNum2 = 10;                        // number of one category that ha
 //CATEGORY NUM, CATEGORY TITLE, COLOUR, COUNTER?, SLIDES LINK, MATERIAL LINK
 var categories = [
 ["0", "Lecture",             "#CCCFFF","1","Slides",    "Code",          ],
-["1", "Live Session",        "#DDE3FC","0","Slides",    "Info",     ],
+["1", "Live Session",        "#DDE3FC","0","",    "",     ],
 ["2", "Teams Q&amp;A",       "#CCDFFF","1","Slides",    "Code",          ],
 ["3", "Hybrid Lab",          "#EEDFCF","1","",          "",              ],
 ["4", "Optional Exercises",  "#D8CCFF","1","",          "Sample Solutions",],
