@@ -55,7 +55,7 @@ var activities = [
 ["9", "",                   "",                                "", "", "0", "1"],
 ["9", "",                   "",                                "", "", "0", "1"],
 //WEEK 02
-["1",  "12/10/20 | 04:30pm", "Organisation", "https://teams.microsoft.com/l/meetup-join/19%3a77ce564b4bc243f280777bcb2842a9c4%40thread.tacv2/1601742740341?context=%7b%22Tid%22%3a%22b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b%22%2c%22Oid%22%3a%229858a91d-80ab-4cbc-81ee-a630d01eb6f2%22%7d", "functional/org.pptx", "0", "0"],
+["1",  "12/10/20 | 04:30pm", "Organisation", "", "functional/org.pptx", "0", "0"],
 ["15", "in your own time",   "Introduction", "https://mediasite.bris.ac.uk/Mediasite/Play/7aebc67b88544693a67bd13e75063ec61d", "functional/intro.pptx",    "0", "0"],
 ["0",  "in your own time",   "Datatypes",    "https://mediasite.bris.ac.uk/Mediasite/Play/f608c6f1ea994e68a580d048f51e16c11d", "functional/datatypes.pptx", "0", "1"],
 ["12", "",                   "",             "", "", "0", "0"],
@@ -64,16 +64,16 @@ var activities = [
 ["13", "in your own time",   "",             "", "", "9", "5"],
 ["12", "",                   "",             "", "", "0", "0"],
 //WEEK 03
-["14", "19/10/20 | 04:30pm", "Q&A",            "https://teams.microsoft.com/l/meetup-join/19%3a77ce564b4bc243f280777bcb2842a9c4%40thread.tacv2/1602847522866?context=%7b%22Tid%22%3a%22b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b%22%2c%22Oid%22%3a%22ebaf26f0-1612-4422-b9ad-e7a9c03f1358%22%7d", "", "0", "0"],
+["14", "19/10/20 | 04:30pm", "Q&A",            "", "", "0", "0"],
 ["15", "in your own time",   "Evaluation",     "https://mediasite.bris.ac.uk/Mediasite/Play/414c3f30ea7640128553df9124ca84091d", "functional/evaluation.pptx", "0", "0"],
 ["15", "in your own time",   "Currying",       "https://mediasite.bris.ac.uk/Mediasite/Play/52ceaba7371a483aa9b60df27fdb35991d", "functional/currying.pptx", "0", "0"],
-["3",  "22/10/20 | 03:00pm", "SHEET ONE",      "https://teams.microsoft.com/l/team/19%3a77ce564b4bc243f280777bcb2842a9c4%40thread.tacv2/conversations?groupId=007c9238-1db7-4d79-84e0-3ef797092b64&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b", "", "14", "2"],
+["3",  "22/10/20 | 03:00pm", "SHEET ONE",      "", "", "14", "2"],
 ["9",  "",                   "",               "", "", "0", "1"],
 ["15", "in your own time",   "Case and Recursion",       "https://mediasite.bris.ac.uk/Mediasite/Play/056c02fa85cc4f4290edbf8f2a8ae36c1d", "functional/case&recursion.pptx", "0", "0"],
 ["13", "in your own time",   "",                                "", "", "16", "3"],
 ["9",  "",                   "",           "", "", "", ""],
 //WEEK 04
-["14", "26/10/20 | 04:30pm", "Q&A",                    "https://teams.microsoft.com/l/meetup-join/19%3a77ce564b4bc243f280777bcb2842a9c4%40thread.tacv2/1603360057605?context=%7b%22Tid%22%3a%22b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b%22%2c%22Oid%22%3a%22ebaf26f0-1612-4422-b9ad-e7a9c03f1358%22%7d", "", "0", "0"],
+["14", "26/10/20 | 04:30pm", "Q&A",                    "", "", "0", "0"],
 ["0", "in your own time",   "Modelling&Datatypes",       "https://mediasite.bris.ac.uk/Mediasite/Play/b1707b1a799d441980f7d6f349a261d91d", "functional/modelling&datatypes.pptx", "2", "1"],
 ["0", "in your own time",   "Pattern Matching",       "https://mediasite.bris.ac.uk/Mediasite/Play/649bb5f1efc14f589866d27d91faf5fc1d", "functional/pattern matching.pptx", "2", "1"],
 ["3", "29/10/20 | 03:00pm",                   "SHEET TWO",                                "", "", "19", "2"],
@@ -82,7 +82,7 @@ var activities = [
 ["13", "in your own time",                   "",                                "", "", "21", "1"],
 ["9", "",                   "",                                "", "", "0", "1"],
 //WEEK 05
-["14", "02/11/20 | 04:30pm", "Q&A",                    "https://teams.microsoft.com/l/meetup-join/19%3a77ce564b4bc243f280777bcb2842a9c4%40thread.tacv2/1603360057605?context=%7b%22Tid%22%3a%22b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b%22%2c%22Oid%22%3a%22ebaf26f0-1612-4422-b9ad-e7a9c03f1358%22%7d", "", "0", "0"],
+["14", "02/11/20 | 04:30pm", "Q&A",                    "", "", "0", "0"],
 ["15", "view by 09/11/20",   "Lists",       "https://mediasite.bris.ac.uk/Mediasite/Play/6a4a3816dc0c40f3bb7aec6b05de2b091d", "functional/lists.zip", "2", "1"],
 ["0", "view by 09/11/20",   "Functions on lists",       "https://mediasite.bris.ac.uk/Mediasite/Play/df8d5226ad3145b683f32590d1f859511d", "functional/functions on lists.zip", "3", "1"],
 ["3", "05/11/20 | 03:00pm",                   "SHEET THREE",                                "", "", "22", "2"],
@@ -91,7 +91,7 @@ var activities = [
 ["13", "in your own time", "",           "", "", "24", "2"],
 ["9", "",                   "",                                "", "", "0", "1"],
 //WEEK 06
-["14", "09/11/20 | 04:30pm", "Q&A",                         "https://teams.microsoft.com/l/meetup-join/19%3a77ce564b4bc243f280777bcb2842a9c4%40thread.tacv2/1603360057605?context=%7b%22Tid%22%3a%22b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b%22%2c%22Oid%22%3a%22ebaf26f0-1612-4422-b9ad-e7a9c03f1358%22%7d", "", "0", "0"],
+["14", "09/11/20 | 04:30pm", "Q&A",                         "", "", "0", "0"],
 ["15", "view by 16/11/20",   "HO function",                 "https://mediasite.bris.ac.uk/Mediasite/Play/fcbf2a224b344ccf9a6a31629ee699741d", "functional/HO function.zip", "", ""],
 ["0",  "view by 16/11/20",   "foldr",                       "https://mediasite.bris.ac.uk/Mediasite/Play/02ba4aefcd214153bbfc9840f7776c871d", "functional/foldr.zip", "4", "1"],
 ["3",  "12/11/20 | 03:00pm", "SHEET FOUR",                  "", "", "26", "2"],
@@ -100,7 +100,7 @@ var activities = [
 ["13", "in your own time",   "",                            "", "", "37", "5"],
 ["17", "(optional)",         "Structural Inductive Proofs", "", "", "42", "3"],
 //WEEK 07
-["14", "16/11/20 | 04:30pm", "Q&A",                         "https://teams.microsoft.com/l/meetup-join/19%3a77ce564b4bc243f280777bcb2842a9c4%40thread.tacv2/1603360057605?context=%7b%22Tid%22%3a%22b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b%22%2c%22Oid%22%3a%22ebaf26f0-1612-4422-b9ad-e7a9c03f1358%22%7d", "", "0", "0"],
+["14", "16/11/20 | 04:30pm", "Q&A",                         "", "", "0", "0"],
 ["16","",                   "",           "", ""],
 ["16","",                   "",           "", ""],
 ["3", "19/11/20 | 03:00pm", "SHEET FIVE", "", "", "28", "2"],
@@ -109,7 +109,7 @@ var activities = [
 ["10","",                   "",           "", ""],
 ["17", "(optional)",        "Sudoku",     "", "", "46", "1"],
 //WEEK 08
-["14", "23/11/20 | 04:30pm", "Q&A",                         "https://teams.microsoft.com/l/meetup-join/19%3a77ce564b4bc243f280777bcb2842a9c4%40thread.tacv2/1603360057605?context=%7b%22Tid%22%3a%22b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b%22%2c%22Oid%22%3a%22ebaf26f0-1612-4422-b9ad-e7a9c03f1358%22%7d", "", "0", "0"],
+["14", "23/11/20 | 04:30pm", "Q&A",                         "", "", "0", "0"],
 ["15", "view by 30/11/20",   "Design w. HO functions",                 "https://mediasite.bris.ac.uk/Mediasite/Play/2a7c3b77e49b4f24b61a707fca1d53e91d", "functional/design w HO.zip", "", ""],
 ["15", "view by 30/11/20",   "Type classes",                 "https://mediasite.bris.ac.uk/Mediasite/Play/b56703cfd8484e3e9d36e1980515da711d", "functional/type classes.zip", "", ""],
 ["3", "26/11/20 | 03:00pm", "SHEET FIVE",                  "", "", "28", "2"],
@@ -118,7 +118,7 @@ var activities = [
 ["13", "in your own time",  "",                            "", "", "47", "2"],
 ["17", "(optional)",        "Monoids",                     "", "", "49", "3"],
 //WEEK 09
-["14", "30/11/20 | 04:30pm", "Q&A",                         "https://teams.microsoft.com/l/meetup-join/19%3a77ce564b4bc243f280777bcb2842a9c4%40thread.tacv2/1603360057605?context=%7b%22Tid%22%3a%22b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b%22%2c%22Oid%22%3a%22ebaf26f0-1612-4422-b9ad-e7a9c03f1358%22%7d", "", "0", "0"],
+["14", "30/11/20 | 04:30pm", "Q&A",                         "", "", "0", "0"],
 ["0",  "view by 07/12/20",   "IO",                       "https://mediasite.bris.ac.uk/Mediasite/Play/3cd46d621c9f412b83426dd5fbc25e021d", "functional/IO.zip", "5", "1"],
 ["15", "view by 07/12/20",   "QC Generator",                 "https://mediasite.bris.ac.uk/Mediasite/Play/d916544af76e4f20a1638fb20b6c96971d", "functional/QC Generator.zip", "", ""],
 //["15", "view by 7/12/20",   "IO",                 "", "", "", ""],
@@ -129,7 +129,7 @@ var activities = [
 ["13", "in your own time",  "",                                "", "", "52",  "2"],
 ["17", "(optional)",        "Tetris",                          "", "", "54", "1"],
 //WEEK 10
-["14", "07/12/20 | 04:30pm", "Q&A",                         "https://teams.microsoft.com/l/meetup-join/19%3a77ce564b4bc243f280777bcb2842a9c4%40thread.tacv2/1603360057605?context=%7b%22Tid%22%3a%22b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b%22%2c%22Oid%22%3a%22ebaf26f0-1612-4422-b9ad-e7a9c03f1358%22%7d", "", "0", "0"],
+["14", "07/12/20 | 04:30pm", "Q&A",                         "", "", "0", "0"],
 ["18", "view by 14/12/20","Trees","https://mediasite.bris.ac.uk/Mediasite/Play/b3fcbbfaf52a4ea0a850d131b088c8ac1d", "", "69",  "1"],
 ["18", "view by 14/12/20","Words in a Novel","https://mediasite.bris.ac.uk/Mediasite/Play/3ac8c04df60b443597c1d82eebfbf8d91d", "", "70",  "1"],
 ["3", "10/12/20 | 03:00pm", "SHEET SEVEN",                     "", "", "34", "3"],
@@ -138,7 +138,7 @@ var activities = [
 ["13", "in your own time",  "",                                "", "", "65",  "1"],
 ["17", "(optional)",        "Data.Map and Tries",              "", "", "55", "7"],
 //WEEK 11
-["14", "14/12/20 | 04:30pm", "Q&A",                         "https://teams.microsoft.com/l/meetup-join/19%3a77ce564b4bc243f280777bcb2842a9c4%40thread.tacv2/1603360057605?context=%7b%22Tid%22%3a%22b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b%22%2c%22Oid%22%3a%22ebaf26f0-1612-4422-b9ad-e7a9c03f1358%22%7d", "", "0", "0"],
+["14", "14/12/20 | 04:30pm", "Q&A",                         "", "", "0", "0"],
 ["18", "",                   "Reasoning about Programs I", "https://mediasite.bris.ac.uk/Mediasite/Play/dd2ddc538cdd411aac7c91aea80a13291d", "", "72", "1"],
 ["18", "",                   "Reasoning about Programs II", "https://mediasite.bris.ac.uk/Mediasite/Play/d0025ea23ae14c22ac01c4b0b76f1b241d", "", "73", "1"],
 ["3", "17/12/20 | 03:00pm", "SHEET EIGHT",                     "", "", "62", "3"],
@@ -234,5 +234,5 @@ var files = [
 [  "72", "functional/ReasoningI.lhs", "ReasoningI.hs"],
 [  "73", "functional/ReasoningII.lhs", "ReasoningII.hs"],
 [  "74", "functional/Sample.pdf", "Sample.pdf"],
-[  "75", "https://www.ole.bris.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_5106854_1&course_id=_222169_1&mode=reset&courseTocLabel=Bristol+Quiz+%28exams+practice%29", "Exam Format Demo"],
+[  "75", "functional/Sample.pdf", "Sample / Exam Format Demo"],
 ];
