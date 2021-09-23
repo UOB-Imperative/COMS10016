@@ -46,13 +46,13 @@ var activities = [
 //CATEGORY NUM, DATE|TIME, ACTIVITY TITLE, ACTIVITY URL, SLIDES URL, MATERIAL START, MATERIAL RANGE
 
 //WEEK 01
-["5", "in your own time",   "GET YOUR PC READY",               "http://people.cs.bris.ac.uk/~burghard/setup/index.html", "", "0", "0"],
+["9", "",                   "",                                "", "", "0", "1"],
 ["5", "in your own time",   "GET STARTED WITH HASKELL",        "https://mediasite.bris.ac.uk/Mediasite/Play/ed9419f3296a4b5c9c37398b077563481d", "", "0", "0"],
 ["15", "before Thu",   "Introduction", "https://mediasite.bris.ac.uk/Mediasite/Play/7aebc67b88544693a67bd13e75063ec61d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/intro.pptx",    "0", "0"],
 ["11","Thu 30/09/21<br/>01:00pm<br/>MVB2.11", "Join Session",  "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/thursday.html", "", "0", "0"],
+["9", "",                   "",                                "", "", "0", "1"],
 ["0",  "before Thu",   "Datatypes",    "https://mediasite.bris.ac.uk/Mediasite/Play/f608c6f1ea994e68a580d048f51e16c11d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/datatypes.pptx", "0", "1"],
 ["0",  "before Thu",   "Functions",    "https://mediasite.bris.ac.uk/Mediasite/Play/30f33a32f25f424981cc78f36fa2de7b1d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/functions.pptx", "1", "1"],
-["9", "",                   "",                                "", "", "0", "1"],
 ["11","Thu 30/09/21<br/>01:00pm<br/>MVB2.11", "Join Session",  "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/thursday.html", "", "0", "0"],
 //WEEK 02
 ["1",  "12/10/20 | 04:30pm", "Organisation", "", "functional/org.pptx", "0", "0"],
