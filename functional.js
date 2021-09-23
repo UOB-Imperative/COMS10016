@@ -19,12 +19,12 @@ var extendCatNum2 = 10;                        // number of one category that ha
 //ACTIVITY CATEGORIES (up to 35 allowed)
 //CATEGORY NUM, CATEGORY TITLE, COLOUR, COUNTER?, SLIDES LINK, MATERIAL LINK
 var categories = [
-["0", "Lecture",             "#CCCFFF","0","Slides",    "Code",     ],
+["0", "Lecture:",             "#CCCFFF","0","Slides",    "Code",     ],
 ["1", "Teams Session",       "#DDE3FC","1","Slides",    "Code",     ],
 ["2", "Teams Q&amp;A",       "#CCDFFF","1","",          "",              ],
 ["3", "Teams Lab",           "#EEDFCF","1","",          "Materials",              ],
 ["4", "Exercises",           "#D8CCFF","1","","Code",          ],
-["5", "PrepTask 5",           "#DDDDDD","0","",          "",              ],
+["5", "PrepTask 5:",           "#DDDDDD","0","",          "",              ],
 ["6", "Formative Coursework","#EEEEDD","1","",          "Materials",     ],
 ["7", "Summative Coursework","#EEEEDD","1","",          "Materials",     ],
 ["8",  "",                   "#EEEEDD","0","",          "",              ], // multi-week coursework
