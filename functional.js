@@ -30,7 +30,7 @@ var categories = [
 ["8",  "",                   "#EEEEDD","0","",          "",              ], // multi-week coursework
 ["9",  "",                   "#CCCCCC","0","",          "",              ], // empty slot
 ["10", "",                   "#CCCCCC","0","",          "",              ], // multi-week empty
-["11", "Setup Lab",          "#E0CFCF","0","",          "",              ],
+["11", "Setup Lab:",          "#E0CFCF","0","",          "",              ],
 ["12", "No Lab this Week",   "#CCCCCC","0","",          "",              ], // week off
 ["13", "Notes ft. <br> Extra Examples <br> + Explanations",      "#94e5bf","0","",          "Notes",         ],
 ["14", "Q&A",                "#94e5bf","0","",          "",              ],
