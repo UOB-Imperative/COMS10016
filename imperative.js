@@ -42,14 +42,14 @@ var categories = [
 var activities = [
 
 //WEEK 01
-["1", "Tue 28/09/21 | 3pm<br/>CHEM LT1 + Teams", "WELCOME &amp INTRODUCTION",  "", "imperative/week01/COMS10016_Welcome.pdf", "21", "4"],
+["1", "Tue 28/09/21<br/>03:00pm<br/>CHEM LT1 + Teams", "WELCOME &amp INTRODUCTION",  "", "imperative/week01/COMS10016_Welcome.pdf", "21", "4"],
 ["5", "in your own time",   "GET YOUR PC READY",               "http://people.cs.bris.ac.uk/~burghard/setup/index.html", "", "0", "0"],
 ["5", "in your own time",   "COMPREHEND THE LINUX TUTORIAL",   "https://seis.bristol.ac.uk/~sh1670/LinTut.pdf", "", "0", "0"],
-["11","Wed 29/09/21 | 10:00am", "SETUP HELP",                  "", "", "0", "0"],
+["11","Wed 29/09/21<br/>10:00am", "SETUP HELP",                "", "", "0", "0"],
 ["9", "",                   "",                                "", "", "0", "0"],
 ["5", "in your own time",   "UNDERSTAND UNIT MARKING",         "imperative/week01/marking.html", "", "0", "0"],
 ["5", "in your own time",   "KNOW THE PLAGIARISM RULES",       "imperative/week01/plagiarism.html", "", "0", "0"],
-["11","Wed 29/09/21 | 11:30pm", "SETUP HELP",                  "", "", "0", "0"],
+["11","Wed 29/09/21<br/>11:30am", "SETUP HELP",                "", "", "0", "0"],
 
 //WEEK 02 - WRITING SIMPLE C PROGRAMS
 ["1", "Tue 05/10/21  | 3pm<br/>CHEM LT1 + Teams", "PROGRAMS &amp; COMPUTATION",      "", "imperative/week02/COMS10016_Computing.pdf", "29", "2"],
