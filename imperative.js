@@ -19,7 +19,7 @@ var extendCatNum2 = 10;                        // number of one category that ha
 //ACTIVITY CATEGORIES (up to 35 allowed)
 //CATEGORY NUM, CATEGORY TITLE, COLOUR, COUNTER?, SLIDES LINK, MATERIAL LINK
 var categories = [
-["0", "Lecture",             "#CCCFFF","1","Slides",    "Code",          ],
+["0", "Lecture",             "#CCCFFF","1","",    "Code",          ],
 ["1", "Live Session:",        "#DDE3FC","0","",    "",     ],
 ["2", "Teams Q&amp;A",       "#CCDFFF","1","Slides",    "Code",          ],
 ["3", "Hybrid Lab",          "#EEDFCF","1","",          "",              ],
@@ -48,7 +48,7 @@ var activities = [
 ["11","Wed 29/09/21<br/>10:00am<br/>MVB2.11", "Join Session",  "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/wednesday.html", "", "0", "0"],
 ["9", "",                   "",                                "", "", "0", "0"],
 ["5", "in your own time",   "UNDERSTAND UNIT MARKING",         "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/week01/marking.html", "", "0", "0"],
-["5", "in your own time",   "KNOW ABOUT PLAGIARISM",           "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/week01/plagiarism.html", "", "0", "0"],
+["0", "watch anytime",      "PROCEDURES &amp; PROGRAMS",       "https://mediasite.bris.ac.uk/Mediasite/Play/91d05240456c424a922dd1c8db97569d1d", "", "0", "2"],
 ["11","Wed 29/09/21<br/>11:30am<br/>MVB2.11", "Join Session",  "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/wednesday.html", "", "0", "0"],
 
 //WEEK 02 - WRITING SIMPLE C PROGRAMS
@@ -165,8 +165,8 @@ var activities = [
 
 //UNIT RESOURCES & MATERIALS
 var files = [
-[  "0", "imperative/minimal.c",                 "minimal.c"],
-[  "1", "imperative/hello.c",                   "hello.c"],
+[  "0", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/minimal.c",                 "minimal.c"],
+[  "1", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/hello.c",                   "hello.c"],
 [  "2", "imperative/paint.c",                   "paint.c"],
 [  "3", "imperative/paintvar.c",                "paintvar.c"],
 [  "4", "imperative/fullpaint.c",               "fullpaint.c"],
