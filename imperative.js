@@ -51,6 +51,16 @@ var activities = [
 ["0", "watch after Tue",      "PROCEDURES &amp; PROGRAMS",       "https://mediasite.bris.ac.uk/Mediasite/Play/91d05240456c424a922dd1c8db97569d1d", "", "0", "2"],
 ["11","Wed 29/09/21<br/>11:30am<br/>MVB2.11", "Join Session",  "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/wednesday.html", "", "0", "0"],
 
+ //buffer
+ ["9", "",                     "",                                "", "", "0", "0"],
+ ["9", "",                     "",                                "", "", "0", "0"],
+ ["9", "",                     "",                                "", "", "0", "0"],
+ ["9", "",                     "",                                "", "", "0", "0"],
+ ["9", "",                     "",                                "", "", "0", "0"],
+ ["9", "",                     "",                                "", "", "0", "0"],
+ ["9", "",                     "",                                "", "", "0", "0"],
+ ["9", "",                     "",                                "", "", "0", "0"],
+ 
 //WEEK 02 - WRITING SIMPLE C PROGRAMS
 ["1", "Tue 05/10/21  | 3pm<br/>CHEM LT1 + Teams", "PROGRAMS &amp; COMPUTATION",      "", "imperative/week02/COMS10016_Computing.pdf", "29", "2"],
 ["0", "watch before Wed",     "PROCEDURES &amp; PROGRAMS",       "https://mediasite.bris.ac.uk/Mediasite/Play/91d05240456c424a922dd1c8db97569d1d", "imperative/COMS10016_01.pdf", "0", "2"],
