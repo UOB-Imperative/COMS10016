@@ -1,0 +1,131 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb">
+
+<head>
+<meta name="style" content="cs" />
+<title>University of Bristol - Computer Science - COMS10016: Imperative and Functional Programming</title>
+<link rel="stylesheet" type="text/css" href="corporate.css">
+<link rel="stylesheet" type="text/css" href="uob.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/highlight.js/9.9.0/styles/xcode.min.css"/>
+<script src="https://cdn.jsdelivr.net/highlight.js/9.9.0/highlight.min.js"></script>
+<script src="https://cdn.jsdelivr.net/highlight.js/9.9.0/languages/cpp.min.js"></script>
+<script>
+  addEventListener('load', start);
+  function start() {
+    var pres = document.querySelectorAll("pre");
+    for (var i in pres) hljs.highlightBlock(pres[i]);
+  }
+</script>
+<style>
+  body { font-size: 120%; }
+  pre, .indent { margin-left: 40px; }
+  details[open] { background-color: #cfc; }
+  body { counter-reset: step; }
+  h2::before { counter-increment: step; content: "Step " counter(step) ": "; }
+</style>
+</head>
+<body bgcolor="#EEEEFF" style="margin:0; padding:30px;">
+
+<div align="center"><img src="osx.jpg" width="100px"><br/>COMS10016 | Week 01 | Preparation<br/><h1>SYSTEM SETUP FOR OSX</h1></div>
+
+This is a brief tutorial on how to setup your personal Apple/Mac/OSX system to be ready for the COMS10016 unit. 
+The below steps represent one out of many ways of setting up your system for the unit. Many of the steps can be shortened 
+and they are outlined as is for clarity. Before you start make sure your system is up-to-date with respect to updates and features. 
+It is your responsibility to keep your personal system and passwords safe.
+To ensure your Mac user has the required permissions, go to "System Preferences &gt; Users &amp; Groups". 
+Ensure that your user account is listed as 'Admin', otherwise log in with an Admin account.
+
+
+<h2>INSTALL THE CLANG COMPILER</h2>
+<ol>
+<li>Open the Terminal (Mac command prompt). For example, press <b>CMD + Space</b> and type: <code>Terminal</code> then select <b>Terminal.app</b> - a Terminal window will open.</li>
+<li>Type: <code>clang --version</code> to see if the C compiler is already available.<br />You should get ONE of the following responses:</li>
+<ul>
+<li>Information shown such as 'Apple LLVM version 10.0.1 (...)'.<br />The compiler is already installed, move on to Installing the Atom Editor.</li>
+<li><i>OR: </i>A dialogue box pops up suggesting you install the Command Line Developer Tools.<br />Select <b>Install</b> and follow the wizard steps to install these Tools.<br />After this is complete, again type: <code>clang --version</code><br />You should now get output as above, move on to Installing the Atom Editor.</li>
+<li><i>OR: </i>An error showing that the command is not found.<br />Enter: <code>xcode-select --install</code> to start the Command Line Developer Tools install dialogue - follow instructions as above.</li>
+</ul>
+If the above fails install 'Xcode12' and 'Command Line Tools for Xcode 12' from <a href="https://developer.apple.com/download/more" target="_blank">https://developer.apple.com/download/more</a>.
+</ol>
+
+<h2>INSTALL THE ATOM EDITOR</h2>
+Note that Atom is the recommended text editor for this unit, but you can substitute it with your preferred editor/IDE if you wish.
+<ol>
+<li>In your web browser, navigate to: <a href="https://atom.io/" target="_blank">https://atom.io</a></li>
+<li>Click <b>Download</b> to download the zip file (approx. size: 160MB)</li>
+<li>In the Finder file browser, double-click the downloaded zip file to unzip it.</li>
+<li>Drag the <b>Atom.app</b> file into your Applications folder (drop it on the <b>Applications</b> shortcut on the left of the Finder window).</li>
+<li>Start the Atom app. For example, press <b>CMD + Space</b> and type: <code>Atom</code> then select <b>Atom.app</b> - click <b>Open</b> at the security prompt. </li>
+<li>Command line access:</li>
+<ul>
+<li>Close Atom if it is open. At a Terminal command prompt, type: <code>atom test.c</code></li>
+<li>The Atom editor should open with a new blank test.c file.<br />
+If a 'command not found' error is shown in Terminal:</li>
+<ul>
+<li>Open Atom in the GUI as above.</li>
+<li>In the Atom menu select <b>Atom</b> &gt; <b>Install Shell Commands</b>.</li>
+<li>Close Atom, close and reopen the Terminal and try again.</li>
+</ul>
+<li><i>Note 1: </i>You can also open a complete directory in Atom, for example to open the current working directory type: <code>atom .</code></li>
+<li><i>Note 2: </i>Installing shell commands can add further automation options to Atom, see: <a href="https://atom.io/packages/atom-shell-commands" target="_blank">Atom Shell Commands Package</a>.</li>
+</ul>
+</ol>
+
+<h2>INSTALL HASKELL AND QUICKCHECK</h2>
+<ul>
+<li>right-click on the desktop and click on "Open Terminal", a Linux terminal window will open</li>
+<li>type "curl -sSL https://get.haskellstack.org/ | sh", then press enter and the update process will begin</li>
+<li>Note: you will be asked for your root password for sudo purposes (approx. 2 times)</li><hr/>
+<li>Note: after the installation, you may need to add "~/.local/bin" to your PATH variable. You can do this with the following terminal command: "PATH=$PATH:~/.local/bin"</li>
+<li>Note: if you out of disk space, try deleting ".stack". This is a hidden file that you can see using "ls -a", and delete using "rm -fr .stack"</li>
+<li>Note: if you have any further installation issues, try checking these <a href="https://docs.haskellstack.org/en/stable/faq/" target="_blank">FAQs</a>. The Teaching Assistants (TAs) will be there in the first lab to help you with this in the setup labs.</li>
+<hr/>
+<li>after a successful installation, you can run the haskell GHCi interpreter by typing "stack ghci" in the terminal and pressing enter</li>
+<li>after a successful installation, you can run the haskell GHCi interpreter with the QuickCheck package by typing "stack ghci --package QuickCheck" in the terminal and pressing enter</li>
+<li>after a successful installation, you can interpret haskell files (such as a file "File.hs") by adding the file as a final argument to your stack command like "stack ghci --package QuickCheck File.hs" in the terminal and pressing enter</li>
+<li>after a successful installation, you can compile haskell files (such as a file "File.hs") by adding the file as a final argument to your stack command like "stack ghc --package QuickCheck File.hs" in the terminal and pressing enter</li>
+<hr/>
+<li>Note: once you verify that GHCi is running, you can use the :q command to exit it and go back to the command prompt.</li>
+<hr/>
+<b>IMPORTANT NOTE:</b> If the Haskell installation does not work for you then hold on and use the setup labs during week 1 to get help from a TA. 
+Only if after asking TAs for help you have not been able to install Haskell successfully, then consider looking into more complicated <a href="haskellextra.html" target="_blank">alternatives</a>.
+</ul>
+
+At this point your system is ready for most of the COMS10016 unit and you are ready to start programming in C and Haskell. Further installations
+are optional at the beginning of the unit. However, during the last part of the unit we will use graphics, and for this we will need the SDL2 graphics libraries 
+and a Linux desktop environment...
+
+<h2>INSTALL THE SDL2 DEVELOPMENT PACKAGE</h2>
+<ol>
+<li>Open the Terminal if not already open (see the first few steps above for how).</li>
+<li>The simplest (but not only) way to install SDL2 on a Mac is to use the <a href="https://brew.sh" target="_blank">HomeBrew</a> package manager:</li>
+<ul>
+<li>Type: <code>brew</code> to check if it's installed.<br />
+If a 'command not found' error is shown, run the following command to install brew and follow the instructions (installation takes several minutes):<br />
+<code>/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"</code></li>
+If you encounter a permissions issue on your device you may want to check out this <a href="https://gist.github.com/irazasyed/7732946" target="_blank">discussion</a>.
+<li>Type: <code>brew update</code></li>
+<li>To install SDL2, type: <code>brew install sdl2</code></li>
+</ul>
+<li>Ensure SDL2 is installed by typing: <code>sdl2-config --version</code> (version information should be displayed, such as 2.0.10).</li>
+</ol>
+
+<h2>CHECK SDL2 GRAPHICS</h2>
+<ol>
+<li>Download the program <a href="hellosdl.c" target="_blank">hellosdl.c</a> to your current working directory (or change directory in the Terminal to the location of the downloaded file).</li>
+<li>Compile and run the program:</li>
+<ul>
+<li>Use the following command to compile the program:<br />
+     <code>clang -std=c11 -Wall -lSDL2 hellosdl.c -o hellosdl</code><br />
+     <i>OR</i> if this fails with a clang 'ld' linker error, try compiling with static (not dynamic) libraries using this command:<br />
+     <code>clang -std=c11 -Wall `sdl2-config --static-libs` hellosdl.c -o hellosdl</code>
+<li>If the compilation was sucessful, you will see the new executable file <b>hellosdl</b> in the current directory.</li>
+<li>Run this program by typing: <code>./hellosdl</code></li>
+</ul>
+<li>If you see a sky blue 'HelloSDL' window appear then SDL2 is working properly.<br />
+Setup is complete!</li>
+<li>Note that some ports of the SDL library unfortunately have memory leaks, which may be reported back to the terminal...you have to live with it.</li>
+</ol>
+</body>
+</html>
