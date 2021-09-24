@@ -24,7 +24,7 @@ var categories = [
 ["2", "Teams Q&amp;A",       "#CCDFFF","1","",          "",              ],
 ["3", "Teams Lab",           "#EEDFCF","1","",          "Materials",              ],
 ["4", "Exercises",           "#D8CCFF","1","","Code",          ],
-["5", "PrepTask 5:",           "#DDDDDD","0","",          "",              ],
+["5", "PrepTask 4:",           "#DDDDDD","0","",          "",              ],
 ["6", "Formative Coursework","#EEEEDD","1","",          "Materials",     ],
 ["7", "Summative Coursework","#EEEEDD","1","",          "Materials",     ],
 ["8",  "",                   "#EEEEDD","0","",          "",              ], // multi-week coursework
