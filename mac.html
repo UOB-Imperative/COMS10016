@@ -75,16 +75,16 @@ If a 'command not found' error is shown in Terminal:</li>
 <h2>INSTALL HASKELL AND QUICKCHECK</h2>
 <ul>
 <li>right-click on the desktop and click on "Open Terminal", a Linux terminal window will open</li>
-<li>type "curl -sSL https://get.haskellstack.org/ | sh", then press enter and the update process will begin</li>
-<li>Note: you will be asked for your root password for sudo purposes (approx. 2 times)</li><hr/>
+<li>type "curl -sSL https://get.haskellstack.org/ | sh", then press enter and the update process will begin</li><hr/>
+<li>Note: you will be asked for your root password for sudo purposes (approx. 2 times)</li>
 <li>Note: after the installation, you may need to add "~/.local/bin" to your PATH variable. You can do this with the following terminal command: "PATH=$PATH:~/.local/bin"</li>
 <li>Note: if you out of disk space, try deleting ".stack". This is a hidden file that you can see using "ls -a", and delete using "rm -fr .stack"</li>
 <li>Note: if you have any further installation issues, try checking these <a href="https://docs.haskellstack.org/en/stable/faq/" target="_blank">FAQs</a>. The Teaching Assistants (TAs) will be there in the first lab to help you with this in the setup labs.</li>
 <hr/>
-<li>after a successful installation, you can run the haskell GHCi interpreter by typing "stack ghci" in the terminal and pressing enter</li>
-<li>after a successful installation, you can run the haskell GHCi interpreter with the QuickCheck package by typing "stack ghci --package QuickCheck" in the terminal and pressing enter</li>
-<li>after a successful installation, you can interpret haskell files (such as a file "File.hs") by adding the file as a final argument to your stack command like "stack ghci --package QuickCheck File.hs" in the terminal and pressing enter</li>
-<li>after a successful installation, you can compile haskell files (such as a file "File.hs") by adding the file as a final argument to your stack command like "stack ghc --package QuickCheck File.hs" in the terminal and pressing enter</li>
+<li>after a successful installation, you can run the Haskell GHCi interpreter by typing "stack ghci" in the terminal and pressing enter</li>
+<li>after a successful installation, you can run the Haskell GHCi interpreter with the QuickCheck package by typing "stack ghci --package QuickCheck" in the terminal and pressing enter</li>
+<li>after a successful installation, you can interpret Haskell files (such as a file "File.hs") by adding the file as a final argument to your stack command like "stack ghci --package QuickCheck File.hs" in the terminal and pressing enter</li>
+<li>after a successful installation, you can compile Haskell files (such as a file "File.hs") by adding the file as a final argument to your stack command like "stack ghc --package QuickCheck File.hs" in the terminal and pressing enter</li>
 <hr/>
 <li>Note: once you verify that GHCi is running, you can use the :q command to exit it and go back to the command prompt.</li>
 <hr/>
