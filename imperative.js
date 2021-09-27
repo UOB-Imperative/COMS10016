@@ -48,7 +48,7 @@ var activities = [
 ["11","Wed 29/09/21<br/>10:00am<br/>MVB2.11", "Join Session",  "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/wednesday.html", "", "0", "0"],
 ["9", "",                   "",                                "", "", "0", "0"],
 ["5", "in your own time",   "UNDERSTAND UNIT MARKING",         "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/week01/marking.html", "", "0", "0"],
-["0", "watch after Tue",      "PROCEDURES &amp; PROGRAMS",       "https://mediasite.bris.ac.uk/Mediasite/Play/91d05240456c424a922dd1c8db97569d1d", "", "0", "2"],
+["0", "watch after Tue",      "PROCEDURES &amp; PROGRAMS",       "https://mediasite.bris.ac.uk/Mediasite/Play/91d05240456c424a922dd1c8db97569d1d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_01.pdf", "0", "2"],
 ["11","Wed 29/09/21<br/>11:30am<br/>MVB2.11", "Join Session",  "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/wednesday.html", "", "0", "0"],
 
  //buffer
