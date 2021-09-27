@@ -19,7 +19,7 @@ var extendCatNum2 = 10;                        // number of one category that ha
 //ACTIVITY CATEGORIES (up to 35 allowed)
 //CATEGORY NUM, CATEGORY TITLE, COLOUR, COUNTER?, SLIDES LINK, MATERIAL LINK
 var categories = [
-["0", "Lecture:",             "#CCCFFF","0","Slides",    "Code",     ],
+["0", "Lecture:",             "#CCCFFF","0","Slides with Voice",    "Code",     ],
 ["1", "Teams Session",       "#DDE3FC","1","Slides",    "Code",     ],
 ["2", "Teams Q&amp;A",       "#CCDFFF","1","",          "",              ],
 ["3", "Teams Lab",           "#EEDFCF","1","",          "Materials",              ],
@@ -34,7 +34,7 @@ var categories = [
 ["12", "No Lab this Week",   "#CCCCCC","0","",          "",              ], // week off
 ["13", "Notes ft. <br> Extra Examples <br> + Explanations",      "#94e5bf","0","",          "Notes",         ],
 ["14", "Q&A",                "#94e5bf","0","",          "",              ],
-["15", "Lecture",            "#CCCFFF","0","Slides",    "",     ],
+["15", "Lecture",            "#CCCFFF","0","Slides with Voice",    "",     ],
 ["16", "<br/><div align='center' style='color:#777777'>LECTURE-FREE WEEK</div>",   "#CCCCCC","0","",          "",              ], // empty slot
 ["17", "Bonus Bounty",       "#EEEEDD","1","",    "Materials",     ],
 ["18", "Lecture",             "#CCCFFF","0","",    "Code",     ],
