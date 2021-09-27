@@ -20,7 +20,7 @@ var extendCatNum2 = 10;                        // number of one category that ha
 //CATEGORY NUM, CATEGORY TITLE, COLOUR, COUNTER?, SLIDES LINK, MATERIAL LINK
 var categories = [
 ["0", "Lecture",             "#CCCFFF","1","",    "Code",          ],
-["1", "Live Session:",        "#DDE3FC","0","",    "",     ],
+["1", "Live Session:",        "#DDE3FC","0","Slides",    "",     ],
 ["2", "Teams Q&amp;A",       "#CCDFFF","1","Slides",    "Code",          ],
 ["3", "Hybrid Lab",          "#EEDFCF","1","",          "",              ],
 ["4", "Optional Exercises",  "#D8CCFF","1","",          "Sample Solutions",],
@@ -42,7 +42,7 @@ var categories = [
 var activities = [
 
 //WEEK 01
-["1", "Tue 28/09/21<br/>03:00pm<br/>CHEM LT1", "WELCOME &amp INTRODUCTION",  "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/tuesday.html", "imperative/week01/COMS10016_Welcome.pdf", "21", "4"],
+["1", "Tue 28/09/21<br/>03:00pm<br/>CHEM LT1", "WELCOME &amp INTRODUCTION",  "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/tuesday.html", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_00.pdf", "21", "4"],
 ["5", "in your own time",   "GET YOUR PC READY",               "http://people.cs.bris.ac.uk/~burghard/setup/index.html", "", "0", "0"],
 ["5", "in your own time",   "THE LINUX TUTORIAL",              "https://seis.bristol.ac.uk/~sh1670/LinTut.pdf", "", "0", "0"],
 ["11","Wed 29/09/21<br/>10:00am<br/>MVB2.11", "Join Session",  "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/wednesday.html", "", "0", "0"],
