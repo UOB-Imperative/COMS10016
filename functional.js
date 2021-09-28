@@ -22,7 +22,7 @@ var categories = [
 ["0", "Lecture:",             "#CCCFFF","0","Slides with Voice",    "Code",     ],
 ["1", "Teams Session",       "#DDE3FC","1","Slides",    "Code",     ],
 ["2", "Teams Q&amp;A",       "#CCDFFF","1","",          "",              ],
-["3", "Lab",           "#EEDFCF","1","",          "Materials",              ],
+["3", "Hybrid Lab",           "#EEDFCF","1","",          "Materials",              ],
 ["4", "Exercises",           "#D8CCFF","1","","Code",          ],
 ["5", "PrepTask 4:",           "#DDDDDD","0","",          "",              ],
 ["6", "Formative Coursework","#EEEEDD","1","",          "Materials",     ],
