@@ -59,7 +59,7 @@ var activities = [
  ["9", "",                     "",                                 "", "", "0", "0"],
  ["0", "watch before Tue",     "LITERALS, ENUMS &amp; CONSTANTS",  "https://mediasite.bris.ac.uk/Mediasite/Play/87f3017862004a37ae1ac8b3fbdab33a1d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_04.pdf", "31", "2"],
  ["4", "in your own time",     "HAIL &amp; THUNDER",               "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_Task01.pdf", "", "11", "2"],
- ["9", "",                     "",                                "", "", "0", "0"],
+ ["6", "during weekly labs",   "BIG INTEGER CHALLENGE",            "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/week02/index.html", "", "13", "8"],
 
   //buffer
  ["9", "",                     "",                                "", "", "0", "0"],
