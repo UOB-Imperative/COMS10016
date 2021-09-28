@@ -50,7 +50,16 @@ var activities = [
 ["5", "in your own time",   "UNDERSTAND UNIT MARKING",         "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/week01/marking.html", "", "0", "0"],
 ["0", "watch after Tue",    "PROCEDURES &amp; PROGRAMS",       "https://mediasite.bris.ac.uk/Mediasite/Play/91d05240456c424a922dd1c8db97569d1d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_01.pdf", "0", "2"],
 ["9", "",                   "",                                "", "", "0", "0"],
- 
+
+ //WEEK 02 - WRITING SIMPLE C PROGRAMS
+ ["1", "Tue 05/10/21<br/>03:00pm<br/>CHEM LT1", "BASIC PROGRAMS",  "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/tuesday.html", "", "0", "0"],
+ ["0", "watch before Tue",     "TYPES, VARIABLES &amp; SCOPE",     "https://mediasite.bris.ac.uk/Mediasite/Play/0015df077d4d4287892c1e7563a68da71d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_02.pdf", "2", "4"],
+ ["0", "watch before Tue",     "DECISIONS &amp; RECURSION",        "https://mediasite.bris.ac.uk/Mediasite/Play/142dc3fec056475caa68332b17666b701d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_03.pdf", "6", "5"],
+ ["3", "Wed 06/10/21<br/>10am-1pm<br/>MVB2.11", "BIG INTEGER CHALLENGE", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/wednesday.html", "", "0", "0"],
+ ["9", "",                     "",                                "", "", "0", "0"],
+ ["9", "",                     "",                                "", "", "0", "0"],
+ ["9", "",                     "",                                "", "", "0", "0"],
+ ["9", "",                     "",                                "", "", "0", "0"],
 
   //buffer
  ["9", "",                     "",                                "", "", "0", "0"],
