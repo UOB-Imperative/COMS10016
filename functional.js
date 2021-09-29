@@ -59,8 +59,8 @@ var activities = [
 ["15", "watch after Tue",   "Evaluation", "https://mediasite.bris.ac.uk/Mediasite/Play/414c3f30ea7640128553df9124ca84091d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/slides/evaluation.zip",    "0", "0"],
 ["15", "watch after Tue",   "Currying", "https://mediasite.bris.ac.uk/Mediasite/Play/52ceaba7371a483aa9b60df27fdb35991d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/slides/currying.zip",    "0", "0"],
 ["3",  "07/10/21<br/>1pm-4pm<br/>MVB2.11", "Join Session Virtually", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/thursday.html", "", "10", "3"],
-["15", "watch after Tue",   "Case and Recursion", "https://mediasite.bris.ac.uk/Mediasite/Play/056c02fa85cc4f4290edbf8f2a8ae36c1d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/slides/cases&recursion.zip",    "0", "0"],
 ["9", "",                   "",             "", "", "0", "0"],
+["15", "watch after Tue",   "Case and Recursion", "https://mediasite.bris.ac.uk/Mediasite/Play/056c02fa85cc4f4290edbf8f2a8ae36c1d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/slides/cases&recursion.zip",    "0", "0"],
 ["13", "in your own time",  "",             "", "", "2", "8"],
 ["9", "",                   "",             "", "", "0", "0"],
 //WEEK 03
