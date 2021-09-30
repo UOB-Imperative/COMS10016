@@ -53,7 +53,7 @@ var activities = [
 ["9", "",                   "",                                "", "", "0", "1"],
 ["0",  "watch after Tue",   "Datatypes",    "https://mediasite.bris.ac.uk/Mediasite/Play/f608c6f1ea994e68a580d048f51e16c11d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/slides/datatypes.zip", "0", "1"],
 ["0",  "watch after Tue",   "Functions",    "https://mediasite.bris.ac.uk/Mediasite/Play/30f33a32f25f424981cc78f36fa2de7b1d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/slides/functions.zip", "1", "1"],
-["9", "",                   "",                                "", "", "0", "1"],
+["9", "",                   "",             "", "", "0", "0"],
 //WEEK 02
 ["9", "",                   "",             "", "", "0", "0"],
 ["9", "",                   "",             "", "", "0", "0"],
@@ -62,7 +62,7 @@ var activities = [
 ["9", "",                   "",             "", "", "0", "0"],
 ["9", "",                   "",             "", "", "0", "0"],
 ["13", "in your own time",  "",             "", "", "2", "8"],
-["9", "",                   "",             "", "", "0", "0"],
+["17", "(optional)",         "History of Haskell",              "", "", "26", "2"],
 //WEEK 03
 ["9", "",                   "",             "", "", "0", "0"],
 ["9", "",                   "",             "", "", "0", "0"],
@@ -106,7 +106,7 @@ var activities = [
 ["3", "19/11/20 | 03:00pm", "SHEET FIVE", "", "", "28", "2"],
 ["9", "",                   "",           "", "", "0", "1"],
 ["10","",                   "",           "", ""],
-["10","",                   "",           "", ""],
+["10","",                   "",           "", ""], // TODO when you provide recipe note, also provide copro.pdf
 ["17", "(optional)",        "Sudoku",     "", "", "46", "1"],
 //WEEK 08
 ["14", "23/11/20 | 04:30pm", "Q&A",                         "", "", "0", "0"],
@@ -184,6 +184,8 @@ var files = [
 [  "22", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Practicals/Power/PowerInstrsDyslexic.pdf", "Instructions (Dyslexic Friendly)"],
 [  "23", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Practicals/Power/Power.hs", "Power.hs"],
 [  "24", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Practicals/Power/MeasureTime.hs", "MeasureTime.hs"],
+[  "25", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Notes/HistoryOfHaskell.pdf", "HistoryOfHaskell.pdf"],
+[  "26", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Notes/HowFPMattered.pdf", "HowFPMattered.pdf"],
 // file list from last year:
 // [  "2", "functional/card.hs",             "card.hs"],
 // [  "3", "functional/lists.hs",          "lists.hs"],
