@@ -120,6 +120,8 @@ If you encounter a permissions issue on your device you may want to check out th
      <code>clang -std=c11 -Wall -lSDL2 hellosdl.c -o hellosdl</code><br />
      <i>OR</i> if this fails with a clang 'ld' linker error, try compiling with static (not dynamic) libraries using this command:<br />
      <code>clang -std=c11 -Wall `sdl2-config --static-libs` hellosdl.c -o hellosdl</code>
+     <i>OR</i> if this fails for M1s try:
+     <code>clang -std=c11 -Wall -o hellosdl hellosdl.c -lSDL2 -L/opt/homebrew/Cellar/sdl2/2.0.16/lib -I/opt/homebrew/Cellar/sdl2/2.0.16/include</code>
 <li>If the compilation was sucessful, you will see the new executable file <b>hellosdl</b> in the current directory.</li>
 <li>Run this program by typing: <code>./hellosdl</code></li>
 </ul>
