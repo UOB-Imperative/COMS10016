@@ -62,7 +62,7 @@ var activities = [
 ["9", "",                   "",             "", "", "0", "0"],
 ["15", "watch after Tue",   "Case and Recursion", "https://mediasite.bris.ac.uk/Mediasite/Play/056c02fa85cc4f4290edbf8f2a8ae36c1d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/slides/cases&recursion.zip",    "0", "0"],
 ["13", "in your own time",  "",             "", "", "2", "8"],
-["17", "(optional)",         "History of Haskell",              "", "", "26", "2"],
+["17", "(optional)",         "History of Haskell",              "", "", "25", "2"],
 //WEEK 03
 ["9", "",                   "",             "", "", "0", "0"],
 ["9", "",                   "",             "", "", "0", "0"],
