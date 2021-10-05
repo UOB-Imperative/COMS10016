@@ -20,7 +20,7 @@ var extendCatNum2 = 10;                        // number of one category that ha
 //CATEGORY NUM, CATEGORY TITLE, COLOUR, COUNTER?, SLIDES LINK, MATERIAL LINK
 var categories = [
 ["0", "Lecture",             "#CCCFFF","1","Slides",    "Code",          ],
-["1", "Live Session:",        "#DDE3FC","0","Slides",    "",     ],
+["1", "Live Session:",        "#DDE3FC","0","Slides",    "Info",     ],
 ["2", "Teams Q&amp;A",       "#CCDFFF","1","Slides",    "Code",          ],
 ["3", "Hybrid C Lab",          "#EEDFCF","1","",          "",              ],
 ["4", "Optional Exercises",  "#D8CCFF","1","",          "Sample Solutions",],
@@ -53,7 +53,7 @@ var activities = [
 ["9", "",                   "",                                "", "", "0", "0"],
 
  //WEEK 02 - WRITING SIMPLE C PROGRAMS
- ["16", "Tue 05/10/21<br/>03:00pm<br/>CHEM LT1", "BASIC PROGRAMS",  "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/tuesday.html", "", "0", "0"],
+ ["1", "Tue 05/10/21<br/>03:00pm<br/>CHEM LT1", "BASIC PROGRAMS",  "https://web.microsoftstream.com/video/b0d5668b-7a3b-4f1c-b86d-92e355fc8d90", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_Week02.pdf", "158", "1"],
  ["0", "watch before Tue<br/>30min",     "TYPES, VARIABLES &amp; SCOPE",     "https://mediasite.bris.ac.uk/Mediasite/Play/0015df077d4d4287892c1e7563a68da71d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_02.pdf", "2", "4"],
  ["0", "watch before Tue<br/>31min",     "DECISIONS &amp; RECURSION",        "https://mediasite.bris.ac.uk/Mediasite/Play/142dc3fec056475caa68332b17666b701d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_03.pdf", "6", "5"],
  ["3", "Wed 06/10/21<br/>10am-1pm<br/>MVB2.11", "BIG INTEGER CHALLENGE", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/wednesday.html", "", "0", "0"],
@@ -345,4 +345,5 @@ var files = [
 [ "155","imperative/signals.c",                   "signals.c"],
 [ "156","imperative/catchsignal.c",               "catchsignal.c"],
 [ "157","imperative/volatile.c",                  "volatile.c"],
+[ "158","https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_Week02f.pdf", "Functional Slides"],
 ];
