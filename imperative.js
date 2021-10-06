@@ -69,8 +69,8 @@ var activities = [
  ["3", "Wed 13/10/21<br/>10am-1pm<br/>MVB2.11", "GRADE CHALLENGE", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/wednesday.html", "", "0", "0"],
  ["9", "",                     "",                                 "", "", "0", "0"],
  ["0", "watch before Tue<br/>28min",     "STRINGS &amp; SEARCHING",  "https://web.microsoftstream.com/video/2b1a31a0-1afa-4379-877e-faeae2f5e6ab", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_07.pdf", "37", "6"],
- ["4", "in your own time",     "TOWERS OF HANOI",               "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_Task02.pdf", "", "11", "2"],
- ["6", "during weekly labs",   "GRADE CHALLENGE",            "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/week03/index.html", "", "13", "8"],
+ ["4", "in your own time",     "TOWERS OF HANOI",               "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_Task02.pdf", "", "48", "2"],
+ ["6", "during weekly labs",   "GRADE CHALLENGE",            "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/week03/index.html", "", "25", "4"],
 
   //buffer
  ["9", "",                     "",                                "", "", "0", "0"],
