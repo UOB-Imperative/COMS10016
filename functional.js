@@ -65,11 +65,11 @@ var activities = [
 ["17", "(optional)",         "History of Haskell",              "", "", "25", "2"],
 //WEEK 03
 ["9", "",                   "",             "", "", "0", "0"],
-["9", "",                   "",             "", "", "0", "0"],
-["9", "",                   "",             "", "", "0", "0"],
+["0", "watch before Tue",   "Modelling&Datatypes",       "https://mediasite.bris.ac.uk/Mediasite/Play/b1707b1a799d441980f7d6f349a261d91d", "functional/slides/modelling&datatypes.zip", "2", "1"],
+["0", "watch before Tue",   "Pattern Matching",       "https://mediasite.bris.ac.uk/Mediasite/Play/649bb5f1efc14f589866d27d91faf5fc1d", "functional/slides/pattern matching.zip", "2", "1"],
 ["3",  "14/10/21<br/>1pm-4pm<br/>MVB2.11", "Join Session Virtually", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/thursday.html", "", "16", "3"],
 ["9", "",                   "",             "", "", "0", "0"],
-["9", "",                   "",             "", "", "0", "0"],
+["0", "watch before Tue",   "Recursive Datatypes",       "https://mediasite.bris.ac.uk/Mediasite/Play/dd1ad32f76084b35a99cbd7673ac371c1d", "functional/slides/recursive datatypes.zip", "2", "1"],
 ["13", "in your own time",  "",             "", "", "15", "1"],
 ["17", "(optional)",        "Power",        "", "", "21", "4"],
 //WEEK 04
