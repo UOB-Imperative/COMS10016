@@ -177,7 +177,7 @@ var files = [
 [  "24", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Practicals/Power/MeasureTime.hs", "MeasureTime.hs"],
 [  "25", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Notes/HistoryOfHaskell.pdf", "HistoryOfHaskell.pdf"],
 [  "26", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Notes/HowFPMattered.pdf", "HowFPMattered.pdf"],
-[  "27", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/functions.hs",             "card.hs"],
+[  "27", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/card.hs",             "card.hs"],
 // file list from last year:
 // [  "2", "functional/card.hs",             "card.hs"],
 // [  "3", "functional/lists.hs",          "lists.hs"],
