@@ -73,15 +73,6 @@ var activities = [
 ["13", "in your own time",  "",             "", "", "15", "1"],
 ["17", "(optional)",        "Power",        "", "", "21", "4"],
 //WEEK 04
-["14", "26/10/20 | 04:30pm", "Q&A",                    "", "", "0", "0"],
-["0", "in your own time",   "Modelling&Datatypes",       "https://mediasite.bris.ac.uk/Mediasite/Play/b1707b1a799d441980f7d6f349a261d91d", "functional/modelling&datatypes.pptx", "2", "1"],
-["0", "in your own time",   "Pattern Matching",       "https://mediasite.bris.ac.uk/Mediasite/Play/649bb5f1efc14f589866d27d91faf5fc1d", "functional/pattern matching.pptx", "2", "1"],
-["3", "29/10/20 | 03:00pm",                   "SHEET TWO",                                "", "", "19", "2"],
-["9", "",                   "",                                "", "", "0", "1"],
-["0", "in your own time",   "Recursive Datatypes",       "https://mediasite.bris.ac.uk/Mediasite/Play/dd1ad32f76084b35a99cbd7673ac371c1d", "functional/recursive datatypes.pptx", "2", "1"],
-["13", "in your own time",                   "",                                "", "", "21", "1"],
-["9", "",                   "",                                "", "", "0", "1"],
-//WEEK 05
 ["14", "02/11/20 | 04:30pm", "Q&A",                    "", "", "0", "0"],
 ["15", "view by 09/11/20",   "Lists",       "https://mediasite.bris.ac.uk/Mediasite/Play/6a4a3816dc0c40f3bb7aec6b05de2b091d", "functional/lists.zip", "2", "1"],
 ["0", "view by 09/11/20",   "Functions on lists",       "https://mediasite.bris.ac.uk/Mediasite/Play/df8d5226ad3145b683f32590d1f859511d", "functional/functions on lists.zip", "3", "1"],
@@ -90,7 +81,7 @@ var activities = [
 ["9", "",                   "",                                "", "", "0", "1"],
 ["13", "in your own time", "",           "", "", "24", "2"],
 ["9", "",                   "",                                "", "", "0", "1"],
-//WEEK 06
+//WEEK 05
 ["14", "09/11/20 | 04:30pm", "Q&A",                         "", "", "0", "0"],
 ["15", "view by 16/11/20",   "HO function",                 "https://mediasite.bris.ac.uk/Mediasite/Play/fcbf2a224b344ccf9a6a31629ee699741d", "functional/HO function.zip", "", ""],
 ["0",  "view by 16/11/20",   "foldr",                       "https://mediasite.bris.ac.uk/Mediasite/Play/02ba4aefcd214153bbfc9840f7776c871d", "functional/foldr.zip", "4", "1"],
@@ -99,7 +90,7 @@ var activities = [
 ["0",  "view by 16/11/20",   "More HO functions",           "https://mediasite.bris.ac.uk/Mediasite/Play/919dfd46f7bb4812856b31e803608ebe1d", "functional/more HO functions.zip", "4", "1"],
 ["13", "in your own time",   "",                            "", "", "37", "5"],
 ["17", "(optional)",         "Structural Inductive Proofs", "", "", "42", "3"],
-//WEEK 07
+//WEEK 06
 ["14", "16/11/20 | 04:30pm", "Q&A",                         "", "", "0", "0"],
 ["16","",                   "",           "", ""],
 ["16","",                   "",           "", ""],
@@ -108,7 +99,7 @@ var activities = [
 ["10","",                   "",           "", ""],
 ["10","",                   "",           "", ""], // TODO when you provide recipe note, also provide copro.pdf
 ["17", "(optional)",        "Sudoku",     "", "", "46", "1"],
-//WEEK 08
+//WEEK 07
 ["14", "23/11/20 | 04:30pm", "Q&A",                         "", "", "0", "0"],
 ["15", "view by 30/11/20",   "Design w. HO functions",                 "https://mediasite.bris.ac.uk/Mediasite/Play/2a7c3b77e49b4f24b61a707fca1d53e91d", "functional/design w HO.zip", "", ""],
 ["15", "view by 30/11/20",   "Type classes",                 "https://mediasite.bris.ac.uk/Mediasite/Play/b56703cfd8484e3e9d36e1980515da711d", "functional/type classes.zip", "", ""],
@@ -117,7 +108,7 @@ var activities = [
 ["9", "",                   "",                            "", "", "0",  "1"],
 ["13", "in your own time",  "",                            "", "", "47", "2"],
 ["17", "(optional)",        "Monoids",                     "", "", "49", "3"],
-//WEEK 09
+//WEEK 08
 ["14", "30/11/20 | 04:30pm", "Q&A",                         "", "", "0", "0"],
 ["0",  "view by 07/12/20",   "IO",                       "https://mediasite.bris.ac.uk/Mediasite/Play/3cd46d621c9f412b83426dd5fbc25e021d", "functional/IO.zip", "5", "1"],
 ["15", "view by 07/12/20",   "QC Generator",                 "https://mediasite.bris.ac.uk/Mediasite/Play/d916544af76e4f20a1638fb20b6c96971d", "functional/QC Generator.zip", "", ""],
@@ -128,7 +119,7 @@ var activities = [
 ["9", "",                   "",                                "", "", "0",  "1"],
 ["13", "in your own time",  "",                                "", "", "52",  "2"],
 ["17", "(optional)",        "Tetris",                          "", "", "54", "1"],
-//WEEK 10
+//WEEK 09
 ["14", "07/12/20 | 04:30pm", "Q&A",                         "", "", "0", "0"],
 ["18", "view by 14/12/20","Trees","https://mediasite.bris.ac.uk/Mediasite/Play/b3fcbbfaf52a4ea0a850d131b088c8ac1d", "", "69",  "1"],
 ["18", "view by 14/12/20","Words in a Novel","https://mediasite.bris.ac.uk/Mediasite/Play/3ac8c04df60b443597c1d82eebfbf8d91d", "", "70",  "1"],
