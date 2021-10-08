@@ -82,16 +82,16 @@ var activities = [
 ["13", "in your own time", "",           "", "", "33", "2"],
 ["17", "(optional)", "Structural Inductive Proofs", "", "", "35", "4"],
 //WEEK 05
-// TODO (Sam) fill out
 ["14", "09/11/20 | 04:30pm", "Q&A",                         "", "", "0", "0"],
 ["15", "view by 16/11/20",   "HO function",                 "https://mediasite.bris.ac.uk/Mediasite/Play/fcbf2a224b344ccf9a6a31629ee699741d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/HO function.zip", "", ""],
 ["0",  "view by 16/11/20",   "foldr",                       "https://mediasite.bris.ac.uk/Mediasite/Play/02ba4aefcd214153bbfc9840f7776c871d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/foldr.zip", "4", "1"],
-["3",  "28/10/21<br/>1pm-4pm<br/>MVB2.11", "Join Session Virtually",                  "", "", "26", "2"],
+["3",  "28/10/21<br/>1pm-4pm<br/>MVB2.11", "Join Session Virtually", "", "", "41", "3"],
 ["9",  "",                   "",                            "", "", "0", "1"],
 ["0",  "view by 16/11/20",   "More HO functions",           "https://mediasite.bris.ac.uk/Mediasite/Play/919dfd46f7bb4812856b31e803608ebe1d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/more HO functions.zip", "4", "1"],
-["13", "in your own time",   "",                            "", "", "37", "5"],
-["17", "(optional)",         "Structural Inductive Proofs", "", "", "42", "3"],
+["13", "in your own time",   "",                            "", "", "46", "5"],
+["17", "(optional)",         "Sudoku", "", "", "51", "5"],
 //WEEK 06 - reading week
+// TODO (Sam) fill out
 ["14", "16/11/20 | 04:30pm", "Q&A",                         "", "", "0", "0"],
 ["16","",                   "",           "", ""],
 ["16","",                   "",           "", ""],
@@ -201,6 +201,21 @@ var files = [
 [  "38", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Sheets/codeBonus1.hs", "Bonus Code One"],
 [  "39", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Sheets/answerBonus1.pdf", "Bonus Sheet One - Answers"],
 [  "40", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Sheets/answerBonus1Dyslexic.pdf", "Bonus Sheet One - Answers (Dyslexic Friendly)"],
+[  "41", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Sheets/sheet04.pdf", "Sheet Four"],
+[  "42", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Sheets/sheet04Dyslexic.pdf", "Sheet Four (Dyslexic Friendly)"],
+[  "43", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Sheets/code04.hs", "Code Four"],
+[  "44", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Sheets/answer04.pdf", "Sheet Four - Answers"],
+[  "45", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Sheets/answer04Dyslexic.pdf", "Sheet Four - Answers (Dyslexic Friendly)"],
+[  "46", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Notes/UniversalQuantification.pdf", "Universal Quantification"],
+[  "47", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Notes/HigherOrderFunctions.pdf", "Higher Order Functions"],
+[  "48", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Notes/Map.pdf", "Map"],
+[  "49", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Notes/Folds.pdf", "Folds"],
+[  "50", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Notes/RecordSyntax.pdf", "Record Syntax"],
+[  "51", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Practicals/Sudoku/SudokuInstrs.pdf", "Instructions"],
+[  "52", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Practicals/Sudoku/SudokuInstrsDyslexic.pdf", "Instructions (Dyslexic Friendly)"],
+[  "53", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Practicals/Sudoku/Sudoku.hs", "Sudoku.hs"],
+[  "54", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Practicals/Sudoku/hard.txt", "hard.txt"],
+
 
 // file list from last year:
 // [  "2", "functional/card.hs",             "card.hs"],
