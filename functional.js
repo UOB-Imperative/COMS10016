@@ -74,9 +74,9 @@ var activities = [
 ["17", "(optional)",        "Power",        "", "", "21", "4"],
 //WEEK 04
 ["9", "", "",                    "", "", "0", "0"],
-["15", "watch before Tue",   "Lists",       "https://mediasite.bris.ac.uk/Mediasite/Play/6a4a3816dc0c40f3bb7aec6b05de2b091d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/lists.zip", "2", "1"],
-["0", "watch before Tue",   "Functions on lists",       "https://mediasite.bris.ac.uk/Mediasite/Play/df8d5226ad3145b683f32590d1f859511d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/functions on lists.zip", "55", "1"],
-["3", "21/10/21<br/>1pm-4pm<br/>MVB2.11", "Join Session Virtually", "", "", "28", "3"],
+["15", "watch before Tue",   "Lists",       "https://mediasite.bris.ac.uk/Mediasite/Play/6a4a3816dc0c40f3bb7aec6b05de2b091d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/slides/lists.zip", "2", "1"],
+["0", "watch before Tue",   "Functions on lists",       "https://mediasite.bris.ac.uk/Mediasite/Play/df8d5226ad3145b683f32590d1f859511d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/slides/functions on lists.zip", "55", "1"],
+["3", "21/10/21<br/>1pm-4pm<br/>MVB2.11", "Join Session Virtually", "", "", "28", "2"],
 ["9", "",                   "",                                "", "", "0", "1"],
 ["9", "",                   "",                                "", "", "0", "1"],
 ["13", "in your own time", "",           "", "", "33", "2"],
