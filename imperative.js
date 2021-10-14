@@ -74,12 +74,12 @@ var activities = [
 
 //WEEK 04 - SEARCHING, BITS, POINTERS
 ["16", "Tue 19/10/21<br/>03:00pm<br/>CHEM LT1", "SEARCHING, BITS, POINTERS",  "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/tuesday.html", "", "0", "0"],
-["0", "in your own time",   "SEARCHING",                       "https://mediasite.bris.ac.uk/Mediasite/Play/ead7ce2e083945a380347d8bd0559ac01d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_08.pdf", "43", "1"],
-["0", "in your own time",   "RUNTIME COMPLEXITY",              "https://web.microsoftstream.com/video/b8b1a4e5-02de-4bd2-a031-7ed76f65bbee", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_09.pdf", "43", "1"],
+["0", "watch before Tue<br/>10min",   "SEARCHING",                       "https://mediasite.bris.ac.uk/Mediasite/Play/ead7ce2e083945a380347d8bd0559ac01d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_08.pdf", "43", "1"],
+["0", "watch before Tue<br/>9min",   "RUNTIME COMPLEXITY",              "https://web.microsoftstream.com/video/b8b1a4e5-02de-4bd2-a031-7ed76f65bbee", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_09.pdf", "43", "1"],
 ["3", "Wed 20/10/21<br/>10am-1pm<br/>MVB2.11", "TRIANGLE CHALLENGE 1/2", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/wednesday.html", "", "0", "0"],
 ["4", "in your own time",   "PRIME SUSPECT",                   "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_Task03.pdf", "", "53", "1"],
-["0", "in your own time",   "BITS",                            "https://mediasite.bris.ac.uk/Mediasite/Play/a3533af3bc4e4fc0906e5ca4f2133dcf1d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_10.pdf", "56", "1"],
-["0", "in your own time",   "POINTERS",                        "https://mediasite.bris.ac.uk/Mediasite/Play/388e5402b8404f5d8dc76f2115f16cb31d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_11.pdf", "57", "2"],
+["0", "watch before Tue<br/>52min",   "BITS",                            "https://mediasite.bris.ac.uk/Mediasite/Play/a3533af3bc4e4fc0906e5ca4f2133dcf1d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_10.pdf", "56", "1"],
+["0", "watch before Tue<br/>32min",   "POINTERS",                        "https://mediasite.bris.ac.uk/Mediasite/Play/388e5402b8404f5d8dc76f2115f16cb31d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_11.pdf", "57", "2"],
 ["6", "during weekly labs", "TRIANGLE CHALLENGE",              "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/week04/index.html", "", "44", "4"],
 
  
