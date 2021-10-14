@@ -1,5 +1,5 @@
 //LAYOUT CUSTOMIZATION
-var currentWeek   = 3;                        // current week [releases content fully visible up to this week]
+var currentWeek   = 4;                        // current week [releases content fully visible up to this week]
 var activityNum   = 8;                         // number of activities per week (empty slots possible)
 var columnNum     = 4;                         // desired columns per week (yet, autofitted to max 2 rows per week)
 var title         = "FUNCTIONAL PROGRAMMING";  // content title (different to unitName since multiple content streams maybe in one unit)
@@ -67,15 +67,15 @@ var activities = [
 ["9", "",                   "",             "", "", "0", "0"],
 ["0", "watch before Tue",   "Modelling&Datatypes",       "https://mediasite.bris.ac.uk/Mediasite/Play/b1707b1a799d441980f7d6f349a261d91d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/slides/modelling&datatypes.zip", "27", "1"],
 ["0", "watch before Tue",   "Pattern Matching",       "https://mediasite.bris.ac.uk/Mediasite/Play/649bb5f1efc14f589866d27d91faf5fc1d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/slides/pattern matching.zip", "27", "1"],
-["3",  "14/10/21<br/>1pm-4pm<br/>MVB2.11", "Join Session Virtually", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/thursday.html", "", "16", "3"],
+["3",  "14/10/21<br/>1pm-4pm<br/>MVB2.11", "Join Session Virtually", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/thursday.html", "", "16", "5"],
 ["9", "",                   "",             "", "", "0", "0"],
 ["0", "watch before Tue",   "Recursive Datatypes",       "https://mediasite.bris.ac.uk/Mediasite/Play/dd1ad32f76084b35a99cbd7673ac371c1d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/slides/recursive datatypes.zip", "27", "1"],
 ["13", "in your own time",  "",             "", "", "15", "1"],
 ["17", "(optional)",        "Power",        "", "", "21", "4"],
 //WEEK 04
-["14", "02/11/20 | 04:30pm", "Q&A",                    "", "", "0", "0"],
-["15", "view by 09/11/20",   "Lists",       "https://mediasite.bris.ac.uk/Mediasite/Play/6a4a3816dc0c40f3bb7aec6b05de2b091d", "functional/lists.zip", "2", "1"],
-["0", "view by 09/11/20",   "Functions on lists",       "https://mediasite.bris.ac.uk/Mediasite/Play/df8d5226ad3145b683f32590d1f859511d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/functions on lists.zip", "3", "1"],
+["9", "", "",                    "", "", "0", "0"],
+["15", "watch before Tue",   "Lists",       "https://mediasite.bris.ac.uk/Mediasite/Play/6a4a3816dc0c40f3bb7aec6b05de2b091d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/lists.zip", "2", "1"],
+["0", "watch before Tue",   "Functions on lists",       "https://mediasite.bris.ac.uk/Mediasite/Play/df8d5226ad3145b683f32590d1f859511d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/functions on lists.zip", "55", "1"],
 ["3", "21/10/21<br/>1pm-4pm<br/>MVB2.11", "Join Session Virtually", "", "", "28", "3"],
 ["9", "",                   "",                                "", "", "0", "1"],
 ["9", "",                   "",                                "", "", "0", "1"],
@@ -215,6 +215,7 @@ var files = [
 [  "52", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Practicals/Sudoku/SudokuInstrsDyslexic.pdf", "Instructions (Dyslexic Friendly)"],
 [  "53", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Practicals/Sudoku/Sudoku.hs", "Sudoku.hs"],
 [  "54", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Practicals/Sudoku/hard.txt", "hard.txt"],
+[  "55", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/lists.hs",             "lists.hs"],
 
 
 // file list from last year:
