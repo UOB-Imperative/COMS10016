@@ -70,7 +70,7 @@ var activities = [
 ["9", "",                     "",                                 "", "", "0", "0"],
 ["0", "watch before Tue<br/>38min",     "STRINGS",  "https://web.microsoftstream.com/video/2b1a31a0-1afa-4379-877e-faeae2f5e6ab", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_07.pdf", "37", "6"],
 ["4", "in your own time",     "TOWERS OF HANOI",               "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_Task02.pdf", "", "48", "2"],
-["6", "during weekly labs",   "GRADE CHALLENGE<br/><a target='_blank' href='imperative/week03/sample/grade.c'>(Grade Sample Solution)</a>",            "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/week03/index.html", "", "25", "4"],
+["6", "during weekly labs",   "GRADE CHALLENGE<br/><a target='_blank' href='https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/week03/sample/grade.c'>(Grade Sample Solution)</a>",            "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/week03/index.html", "", "25", "4"],
 
 //WEEK 04 - SEARCHING, BITS, POINTERS
 ["16", "Tue 19/10/21<br/>03:00pm<br/>CHEM LT1", "SEARCHING, BITS, POINTERS",  "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/tuesday.html", "", "0", "0"],
