@@ -52,26 +52,37 @@ var activities = [
 ["0", "watch after Tue<br/>24min",    "PROCEDURES &amp; PROGRAMS",       "https://mediasite.bris.ac.uk/Mediasite/Play/91d05240456c424a922dd1c8db97569d1d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_01.pdf", "0", "2"],
 ["9", "",                   "",                                "", "", "0", "0"],
 
- //WEEK 02 - WRITING SIMPLE C PROGRAMS AND RECURSION
- ["1", "Tue 05/10/21<br/>03:00pm<br/>CHEM LT1", "BASIC PROGRAMS",  "https://web.microsoftstream.com/video/b0d5668b-7a3b-4f1c-b86d-92e355fc8d90", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_Week02.pdf", "159", "1"],
- ["0", "watch before Tue<br/>30min",     "TYPES, VARIABLES &amp; SCOPE",     "https://mediasite.bris.ac.uk/Mediasite/Play/0015df077d4d4287892c1e7563a68da71d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_02.pdf", "2", "4"],
- ["0", "watch before Tue<br/>31min",     "DECISIONS &amp; RECURSION",        "https://mediasite.bris.ac.uk/Mediasite/Play/142dc3fec056475caa68332b17666b701d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_03.pdf", "6", "5"],
- ["3", "Wed 06/10/21<br/>10am-1pm<br/>MVB2.11", "BIG INTEGER CHALLENGE", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/wednesday.html", "", "0", "0"],
- ["9", "",                     "",                                 "", "", "0", "0"],
- ["0", "watch before Tue<br/>28min",     "LITERALS, ENUMS &amp; CONSTANTS",  "https://mediasite.bris.ac.uk/Mediasite/Play/87f3017862004a37ae1ac8b3fbdab33a1d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_04.pdf", "31", "2"],
- ["4", "in your own time",     "HAIL &amp; THUNDER",               "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_Task01.pdf", "", "11", "2"],
- ["6", "during weekly labs",   "BIG INTEGER CHALLENGE",            "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/week02/index.html", "", "13", "8"],
+//WEEK 02 - WRITING SIMPLE C PROGRAMS AND RECURSION
+["1", "Tue 05/10/21<br/>03:00pm<br/>CHEM LT1", "BASIC PROGRAMS",  "https://web.microsoftstream.com/video/b0d5668b-7a3b-4f1c-b86d-92e355fc8d90", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_Week02.pdf", "159", "1"],
+["0", "watch before Tue<br/>30min",     "TYPES, VARIABLES &amp; SCOPE",     "https://mediasite.bris.ac.uk/Mediasite/Play/0015df077d4d4287892c1e7563a68da71d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_02.pdf", "2", "4"],
+["0", "watch before Tue<br/>31min",     "DECISIONS &amp; RECURSION",        "https://mediasite.bris.ac.uk/Mediasite/Play/142dc3fec056475caa68332b17666b701d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_03.pdf", "6", "5"],
+["3", "Wed 06/10/21<br/>10am-1pm<br/>MVB2.11", "BIG INTEGER CHALLENGE", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/wednesday.html", "", "0", "0"],
+["9", "",                     "",                                 "", "", "0", "0"],
+["0", "watch before Tue<br/>28min",     "LITERALS, ENUMS &amp; CONSTANTS",  "https://mediasite.bris.ac.uk/Mediasite/Play/87f3017862004a37ae1ac8b3fbdab33a1d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_04.pdf", "31", "2"],
+["4", "in your own time",     "HAIL &amp; THUNDER",               "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_Task01.pdf", "", "11", "2"],
+["6", "during weekly labs",   "BIG INTEGER CHALLENGE",            "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/week02/index.html", "", "13", "8"],
 
- //WEEK 03 - LOOPS, ARRAYS, STRINGS
- ["16", "Tue 12/10/21<br/>03:00pm<br/>CHEM LT1", "RECURSION, LOOPS &amp; ARRAYS",  "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/tuesday.html", "", "0", "0"],
- ["0", "watch before Tue<br/>29min",     "LOOPS &amp; JUMPS",     "https://mediasite.bris.ac.uk/Mediasite/Play/ecad33ee4d3f4d6889d4a0993c8c64fc1d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_05.pdf", "33", "2"],
- ["0", "watch before Tue<br/>27min",     "ARRAYS",        "https://mediasite.bris.ac.uk/Mediasite/Play/6fc2ef02c0cf4c14946695028ed6d8921d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_06.pdf", "35", "3"],
- ["3", "Wed 13/10/21<br/>10am-1pm<br/>MVB2.11", "GRADE CHALLENGE", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/wednesday.html", "", "0", "0"],
- ["9", "",                     "",                                 "", "", "0", "0"],
- ["0", "watch before Tue<br/>38min",     "STRINGS",  "https://web.microsoftstream.com/video/2b1a31a0-1afa-4379-877e-faeae2f5e6ab", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_07.pdf", "37", "6"],
- ["4", "in your own time",     "TOWERS OF HANOI",               "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_Task02.pdf", "", "48", "2"],
- ["6", "during weekly labs",   "GRADE CHALLENGE",            "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/week03/index.html", "", "25", "4"],
+//WEEK 03 - LOOPS, ARRAYS, STRINGS
+["1", "Tue 12/10/21<br/>03:00pm<br/>CHEM LT1", "RECURSION, LOOPS &amp; ARRAYS",  "https://web.microsoftstream.com/video/2c68c3e6-4d28-42e9-b280-2a23ecfa22b6", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_Week03.pdf", "160", "1"],
+["0", "watch before Tue<br/>29min",     "LOOPS &amp; JUMPS",     "https://mediasite.bris.ac.uk/Mediasite/Play/ecad33ee4d3f4d6889d4a0993c8c64fc1d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_05.pdf", "33", "2"],
+["0", "watch before Tue<br/>27min",     "ARRAYS",        "https://mediasite.bris.ac.uk/Mediasite/Play/6fc2ef02c0cf4c14946695028ed6d8921d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_06.pdf", "35", "3"],
+["3", "Wed 13/10/21<br/>10am-1pm<br/>MVB2.11", "GRADE CHALLENGE", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/wednesday.html", "", "0", "0"],
+["9", "",                     "",                                 "", "", "0", "0"],
+["0", "watch before Tue<br/>38min",     "STRINGS",  "https://web.microsoftstream.com/video/2b1a31a0-1afa-4379-877e-faeae2f5e6ab", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_07.pdf", "37", "6"],
+["4", "in your own time",     "TOWERS OF HANOI",               "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_Task02.pdf", "", "48", "2"],
+["6", "during weekly labs",   "GRADE CHALLENGE",            "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/week03/index.html", "", "25", "4"],
 
+//WEEK 04 - SEARCHING, BITS, POINTERS
+["16", "Tue 19/10/21<br/>03:00pm<br/>CHEM LT1", "SEARCHING, BITS, POINTERS",  "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/tuesday.html", "", "0", "0"],
+["0", "in your own time",   "SEARCHING",                       "https://mediasite.bris.ac.uk/Mediasite/Play/ead7ce2e083945a380347d8bd0559ac01d", "imperative/COMS10016_08.pdf", "43", "1"],
+["0", "in your own time",   "RUNTIME COMPLEXITY",              "https://mediasite.bris.ac.uk/Mediasite/Play/27eebe8e4c7c496ea8431bb5a7aaf7b21d", "imperative/COMS10016_09.pdf", "43", "1"],
+["3", "Wed 20/10/21<br/>10am-1pm<br/>MVB2.11", "TRIANGLE CHALLENGE 1/2", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/wednesday.html", "", "0", "0"],
+["4", "in your own time",   "PRIME SUSPECT",                   "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_Task03.pdf", "", "53", "1"],
+["0", "in your own time",   "BITS",                            "https://mediasite.bris.ac.uk/Mediasite/Play/a3533af3bc4e4fc0906e5ca4f2133dcf1d", "imperative/COMS10016_10.pdf", "56", "1"],
+["0", "in your own time",   "POINTERS",                        "https://mediasite.bris.ac.uk/Mediasite/Play/388e5402b8404f5d8dc76f2115f16cb31d", "imperative/COMS10016_11.pdf", "57", "2"],
+["6", "during weekly labs", "TRIANGLE CHALLENGE",              "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/week04/index.html", "", "44", "4"],
+
+ 
   //buffer
  ["9", "",                     "",                                "", "", "0", "0"],
  ["9", "",                     "",                                "", "", "0", "0"],
@@ -356,4 +367,5 @@ var files = [
 [ "156","imperative/catchsignal.c",               "catchsignal.c"],
 [ "157","imperative/volatile.c",                  "volatile.c"],
 [ "158","https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_Week02f.pdf", "Functional Slides"],
+[ "159","https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_Week03f.pdf", "Functional Slides"],
 ];
