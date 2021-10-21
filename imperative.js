@@ -85,9 +85,9 @@ var activities = [
 //WEEK 05 - WORKING WITH POINTERS
 ["16", "Tue 26/10/21<br/>03:00pm<br/>CHEM LT1", "DYNAMIC STRUCTURES",  "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/tuesday.html", "", "0", "0"],
 ["0", "watch before Tue<br/>22min",   "STRUCTURES &amp; USER TYPES",     "https://mediasite.bris.ac.uk/Mediasite/Play/7d3fe970d51b4ce69c1de4f69a99629a1d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_12.pdf", "59", "2"],
-["0", "in your own time",   "DYNAMIC DATA",                    "https://mediasite.bris.ac.uk/Mediasite/Play/b3e7616c4a134cb692a0fc4644aaddf51d", "imperative/COMS10016_13.pdf", "81", "5"],
+["0", "in your own time",   "DYNAMIC DATA",                    "https://web.microsoftstream.com/video/1c746e39-efab-4eea-9d42-35dfa9a876f9", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_13.pdf", "81", "5"],
 ["8", "",                   "",        "", ""],["4", "in your own time",   "BITS &amp; POINTERS",             "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_Task04.pdf", "", "54", "2"],
-["0", "watch before Tue<br/>52min",   "STACKS",                          "https://mediasite.bris.ac.uk/Mediasite/Play/dc1d983afb4e47a98548bf55cfad60271d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_14.pdf", "79", "2"],
+["0", "watch before Tue<br/>52min",   "STACKS",                          "https://web.microsoftstream.com/video/125300f5-3aec-4318-a1ad-b80bc0aad486", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_14.pdf", "79", "2"],
 ["0", "watch before Tue<br/>52min",   "LISTS",                           "https://mediasite.bris.ac.uk/Mediasite/Play/a8ba8ec547f44e7c8d0e8f59addad7801d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_15.pdf", "86", "2"],
 ["3", "Wed 27/10/21<br/>10am-1pm<br/>MVB2.11", "TRIANGLE CHALLENGE 2/2", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/wednesday.html", "", "0", "0"],
  
