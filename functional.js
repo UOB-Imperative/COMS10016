@@ -97,7 +97,7 @@ var activities = [
 ["3", "reading week<br/>(attached is next week's sheet)", "Reading Week", "", "", "56", "3"],
 ["9", "",                   "",           "", "", "0", "1"],
 ["10","",                   "",           "", ""],
-["13", "in your own time",   "",                            "", "", "61", "8"],
+["13", "in your own time",   "",                            "", "", "66", "3"],
 ["17", "(optional)",        "Monoids",     "", "", "69", "4"],
 //WEEK 07
 // TODO (Sam) fill out
@@ -221,11 +221,6 @@ var files = [
 [  "58", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Sheets/code05.hs", "Code Five"],
 [  "59", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Sheets/answer05.pdf", "Sheet Five - Answers"],
 [  "60", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Sheets/answer05Dyslexic.pdf", "Sheet Five - Answers (Dyslexic Friendly)"],
-[  "61", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Notes/UniversalQuantification.pdf", "Universal Quantification"],
-[  "62", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Notes/HigherOrderFunctions.pdf", "Higher Order Functions"],
-[  "63", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Notes/Map.pdf", "Map"],
-[  "64", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Notes/Folds.pdf", "Folds"],
-[  "65", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Notes/RecordSyntax.pdf", "Record Syntax"],
 [  "66", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Notes/FunctionRecipe.pdf", "Recipe for Writing Functions"],
 [  "67", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Notes/copro.pdf", "How to Design \"Co\"-Programs"],
 [  "68", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Notes/PreludeFunctionsCheatsheet.pdf", "Functions Cheatsheet"],
