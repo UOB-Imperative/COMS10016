@@ -109,25 +109,25 @@ var activities = [
 ["13", "in your own time",  "",                            "", "", "66", "3"],
 ["17", "(optional)",        "Monoids",                     "", "", "69", "4"],
 //WEEK 08
-// TODO (Sam) fill out
 ["14", "30/11/20 | 04:30pm", "Q&A",                         "", "", "0", "0"],
 ["0",  "view by 07/12/20",   "IO",                       "https://mediasite.bris.ac.uk/Mediasite/Play/3cd46d621c9f412b83426dd5fbc25e021d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/IO.zip", "5", "1"],
 ["15", "view by 07/12/20",   "QC Generator",                 "https://mediasite.bris.ac.uk/Mediasite/Play/d916544af76e4f20a1638fb20b6c96971d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/QC Generator.zip", "", ""],
 //["15", "view by 7/12/20",   "IO",                 "", "", "", ""],
 //["15", "view by 7/12/20",   "QC Generator",                 "", "", "", ""],
-["3", "18/11/21<br/>1pm-4pm<br/>MVB2.11", "Join Session Virtually",                       "", "", "30", "4"],
+["3", "18/11/21<br/>1pm-4pm<br/>MVB2.11", "Join Session Virtually",                       "", "", "76", "3"],
 ["9", "",                   "",                                "", "", "0",  "1"],
 ["9", "",                   "",                                "", "", "0",  "1"],
-["13", "in your own time",  "",                                "", "", "52",  "2"],
-["17", "(optional)",        "Tetris",                          "", "", "54", "1"],
+["9", "",                   "",                                "", "", "0",  "1"],
+["17", "(optional)",        "Blackjack",                          "", "", "81", "3"],
 //WEEK 09
+// TODO (Sam) fill out
 ["14", "07/12/20 | 04:30pm", "Q&A",                         "", "", "0", "0"],
 ["18", "view by 14/12/20","Trees","https://mediasite.bris.ac.uk/Mediasite/Play/b3fcbbfaf52a4ea0a850d131b088c8ac1d", "", "69",  "1"],
 ["18", "view by 14/12/20","Words in a Novel","https://mediasite.bris.ac.uk/Mediasite/Play/3ac8c04df60b443597c1d82eebfbf8d91d", "", "70",  "1"],
 ["3", "25/11/21<br/>1pm-4pm<br/>MVB2.11", "Join Session Virtually",                     "", "", "34", "3"],
 ["9", "",                   "",                                "", "", "0",  "1"],
 ["18", "view by 14/12/20","Arithmetical Expressions","https://mediasite.bris.ac.uk/Mediasite/Play/07d9b659879b4d7289eb13130f68b4191d", "", "71",  "1"],
-["13", "in your own time",  "",                                "", "", "65",  "1"],
+["9", "",                   "",                                "", "", "0",  "1"],
 ["17", "(optional)",        "Data.Map and Tries",              "", "", "55", "7"],
 //WEEK 10
 ["14", "14/12/20 | 04:30pm", "Q&A",                         "", "", "0", "0"],
@@ -230,6 +230,15 @@ var files = [
 [  "73", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Sheets/codeBonus2.hs", "Bonus Code Two"],
 [  "74", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Sheets/answerBonus2.pdf", "Bonus Sheet Two - Answers"],
 [  "75", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Sheets/answerBonus2Dyslexic.pdf", "Bonus Sheet Two - Answers (Dyslexic Friendly)"],
+[  "76", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Sheets/sheet06.pdf", "Sheet Six"],
+[  "77", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Sheets/sheet06Dyslexic.pdf", "Sheet Six (Dyslexic Friendly)"],
+[  "78", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Sheets/code06.hs", "Code Six"],
+[  "79", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Sheets/answer06.pdf", "Sheet Six - Answers"],
+[  "80", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Sheets/answer06Dyslexic.pdf", "Sheet Six - Answers (Dyslexic Friendly)"],
+[  "81", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Practicals/Blackjack/BlackjackInstrs.pdf", "Instructions"],
+[  "82", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Practicals/Blackjack/BlackjackInstrsDyslexic.pdf", "Instructions (Dyslexic Friendly)"],
+[  "83", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Practicals/Blackjack/Cards.hs", "Cards.hs"],
+[  "84", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Practicals/Blackjack/RunGame.hs", "RunGame.hs"],
 
 // file list from last year:
 // [  "2", "functional/card.hs",             "card.hs"],
