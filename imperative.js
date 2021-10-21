@@ -73,7 +73,7 @@ var activities = [
 ["6", "during weekly labs",   "GRADE CHALLENGE<br/><a target='_blank' href='https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/week03/sample/grade.c'>(Grade Sample Solution)</a>",            "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/week03/index.html", "", "25", "4"],
 
 //WEEK 04 - SEARCHING, BITS, POINTERS
-["16", "Tue 19/10/21<br/>03:00pm<br/>CHEM LT1", "SEARCHING, BITS, POINTERS",  "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/tuesday.html", "", "0", "0"],
+["1", "Tue 19/10/21<br/>03:00pm<br/>CHEM LT1", "SEARCHING, BITS, POINTERS",  "https://web.microsoftstream.com/video/fc3203b2-4e3b-452c-83eb-280515c063c9", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_Week03.pdf", "161", "1"],
 ["0", "watch before Tue<br/>10min",   "SEARCHING",                       "https://mediasite.bris.ac.uk/Mediasite/Play/ead7ce2e083945a380347d8bd0559ac01d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_08.pdf", "43", "1"],
 ["0", "watch before Tue<br/>9min",   "RUNTIME COMPLEXITY",              "https://web.microsoftstream.com/video/b8b1a4e5-02de-4bd2-a031-7ed76f65bbee", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_09.pdf", "43", "1"],
 ["3", "Wed 20/10/21<br/>10am-1pm<br/>MVB2.11", "TRIANGLE CHALLENGE 1/2", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/wednesday.html", "", "0", "0"],
@@ -84,7 +84,7 @@ var activities = [
 
 //WEEK 05 - WORKING WITH POINTERS
 ["16", "Tue 26/10/21<br/>03:00pm<br/>CHEM LT1", "DYNAMIC STRUCTURES",  "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/tuesday.html", "", "0", "0"],
-["0", "watch before Tue<br/>52min",   "STRUCTURES &amp; USER TYPES",     "https://mediasite.bris.ac.uk/Mediasite/Play/7d3fe970d51b4ce69c1de4f69a99629a1d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_12.pdf", "59", "2"],
+["0", "watch before Tue<br/>22min",   "STRUCTURES &amp; USER TYPES",     "https://mediasite.bris.ac.uk/Mediasite/Play/7d3fe970d51b4ce69c1de4f69a99629a1d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_12.pdf", "59", "2"],
 ["0", "in your own time",   "DYNAMIC DATA",                    "https://mediasite.bris.ac.uk/Mediasite/Play/b3e7616c4a134cb692a0fc4644aaddf51d", "imperative/COMS10016_13.pdf", "81", "5"],
 ["8", "",                   "",        "", ""],["4", "in your own time",   "BITS &amp; POINTERS",             "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_Task04.pdf", "", "54", "2"],
 ["0", "watch before Tue<br/>52min",   "STACKS",                          "https://mediasite.bris.ac.uk/Mediasite/Play/dc1d983afb4e47a98548bf55cfad60271d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_14.pdf", "79", "2"],
@@ -346,4 +346,5 @@ var files = [
 [ "157","imperative/volatile.c",                  "volatile.c"],
 [ "158","https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_Week02f.pdf", "Functional Slides"],
 [ "159","https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_Week03f.pdf", "Functional Slides"],
+[ "160","https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_Week04f.pdf", "Functional Slides"],
 ];
