@@ -58,7 +58,7 @@ var activities = [
 ["9", "",                   "",                                "", "", "0", "1"],
 ["15", "watch before Tue",   "Evaluation", "https://mediasite.bris.ac.uk/Mediasite/Play/414c3f30ea7640128553df9124ca84091d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/slides/evaluation.zip",    "0", "0"],
 ["15", "watch before Tue",   "Currying", "https://mediasite.bris.ac.uk/Mediasite/Play/52ceaba7371a483aa9b60df27fdb35991d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/slides/currying.zip",    "0", "0"],
-["3",  "07/10/21<br/>1pm-4pm<br/>MVB2.11", "Join Session Virtually", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/thursday.html", "", "10", "3"],
+["3",  "07/10/21<br/>1pm-4pm<br/>MVB2.11", "Join Session Virtually", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/thursday.html", "", "10", "5"],
 ["9", "",                   "",             "", "", "0", "0"],
 ["15", "watch before Tue",   "Case and Recursion", "https://mediasite.bris.ac.uk/Mediasite/Play/056c02fa85cc4f4290edbf8f2a8ae36c1d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/slides/case&recursion.zip",    "0", "0"],
 ["13", "in your own time",  "",             "", "", "2", "8"],
@@ -91,16 +91,16 @@ var activities = [
 ["13", "in your own time",   "",                            "", "", "46", "5"],
 ["17", "(optional)",         "Sudoku", "", "", "51", "5"],
 //WEEK 06 - reading week
-// TODO (Sam) fill out
 ["14", "16/11/20 | 04:30pm", "Q&A",                         "", "", "0", "0"],
 ["16","",                   "",           "", ""],
 ["16","",                   "",           "", ""],
-["3", "reading week<br/>(attached is next week's sheet)", "Reading Week", "", "", "28", "2"],
+["3", "reading week<br/>(attached is next week's sheet)", "Reading Week", "", "", "56", "3"],
 ["9", "",                   "",           "", "", "0", "1"],
 ["10","",                   "",           "", ""],
-["10","",                   "",           "", ""], // TODO when you provide recipe note, also provide copro.pdf
-["17", "(optional)",        "Sudoku",     "", "", "46", "1"],
+["13", "in your own time",   "",                            "", "", "61", "8"],
+["17", "(optional)",        "Monoids",     "", "", "69", "4"],
 //WEEK 07
+// TODO (Sam) fill out
 ["14", "23/11/20 | 04:30pm", "Q&A",                         "", "", "0", "0"],
 ["15", "view by 30/11/20",   "Design w. HO functions",                 "https://mediasite.bris.ac.uk/Mediasite/Play/2a7c3b77e49b4f24b61a707fca1d53e91d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/design w HO.zip", "", ""],
 ["15", "view by 30/11/20",   "Type classes",                 "https://mediasite.bris.ac.uk/Mediasite/Play/b56703cfd8484e3e9d36e1980515da711d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/type classes.zip", "", ""],
@@ -216,7 +216,25 @@ var files = [
 [  "53", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Practicals/Sudoku/Sudoku.hs", "Sudoku.hs"],
 [  "54", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Practicals/Sudoku/hard.txt", "hard.txt"],
 [  "55", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/lists.hs",             "lists.hs"],
-
+[  "56", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Sheets/sheet05.pdf", "Sheet Five"],
+[  "57", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Sheets/sheet05Dyslexic.pdf", "Sheet Five (Dyslexic Friendly)"],
+[  "58", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Sheets/code05.hs", "Code Five"],
+[  "59", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Sheets/answer05.pdf", "Sheet Five - Answers"],
+[  "60", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Sheets/answer05Dyslexic.pdf", "Sheet Five - Answers (Dyslexic Friendly)"],
+[  "61", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Notes/UniversalQuantification.pdf", "Universal Quantification"],
+[  "62", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Notes/HigherOrderFunctions.pdf", "Higher Order Functions"],
+[  "63", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Notes/Map.pdf", "Map"],
+[  "64", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Notes/Folds.pdf", "Folds"],
+[  "65", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Notes/RecordSyntax.pdf", "Record Syntax"],
+[  "66", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Notes/FunctionRecipe.pdf", "Recipe for Writing Functions"],
+[  "67", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Notes/copro.pdf", "How to Design \"Co\"-Programs"],
+[  "68", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Notes/PreludeFunctionsCheatsheet.pdf", "Functions Cheatsheet"],
+[  "69", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Notes/Monoids.pdf", "Monoids"],
+[  "71", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Sheets/sheetBonus2.pdf", "Bonus Sheet Two"],
+[  "72", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Sheets/sheetBonus2Dyslexic.pdf", "Bonus Sheet Two (Dyslexic Friendly)"],
+[  "73", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Sheets/codeBonus2.hs", "Bonus Code Two"],
+[  "74", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Sheets/answerBonus2.pdf", "Bonus Sheet Two - Answers"],
+[  "75", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Sheets/answerBonus2Dyslexic.pdf", "Bonus Sheet Two - Answers (Dyslexic Friendly)"],
 
 // file list from last year:
 // [  "2", "functional/card.hs",             "card.hs"],
