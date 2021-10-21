@@ -82,6 +82,15 @@ var activities = [
 ["0", "watch before Tue<br/>32min",   "POINTERS",                        "https://mediasite.bris.ac.uk/Mediasite/Play/388e5402b8404f5d8dc76f2115f16cb31d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_11.pdf", "57", "2"],
 ["6", "during weekly labs", "TRIANGLE CHALLENGE",              "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/week04/index.html", "", "44", "4"],
 
+//WEEK 05 - WORKING WITH POINTERS
+["16", "Tue 26/10/21<br/>03:00pm<br/>CHEM LT1", "DYNAMIC STRUCTURES",  "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/tuesday.html", "", "0", "0"],
+["0", "watch before Tue<br/>52min",   "STRUCTURES &amp; USER TYPES",     "https://mediasite.bris.ac.uk/Mediasite/Play/7d3fe970d51b4ce69c1de4f69a99629a1d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_12.pdf", "59", "2"],
+["0", "in your own time",   "DYNAMIC DATA",                    "https://mediasite.bris.ac.uk/Mediasite/Play/b3e7616c4a134cb692a0fc4644aaddf51d", "imperative/COMS10016_13.pdf", "81", "5"],
+["3", "Wed 20/10/21<br/>10am-1pm<br/>MVB2.11", "TRIANGLE CHALLENGE 1/2", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/wednesday.html", "", "0", "0"],
+["4", "in your own time",   "BITS &amp; POINTERS",             "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_Task04.pdf", "", "54", "2"],
+["0", "watch before Tue<br/>52min",   "STACKS",                          "https://mediasite.bris.ac.uk/Mediasite/Play/dc1d983afb4e47a98548bf55cfad60271d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_14.pdf", "79", "2"],
+["0", "watch before Tue<br/>52min",   "LISTS",                           "https://mediasite.bris.ac.uk/Mediasite/Play/a8ba8ec547f44e7c8d0e8f59addad7801d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_15.pdf", "86", "2"],
+["6", "during weekly labs", "TRIANGLE CHALLENGE",              "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/week04/index.html", "", "44", "4"],
  
   //buffer
  ["9", "",                     "",                                "", "", "0", "0"],
@@ -93,36 +102,6 @@ var activities = [
  ["9", "",                     "",                                "", "", "0", "0"],
  ["9", "",                     "",                                "", "", "0", "0"],
  
-//WEEK 02 - WRITING SIMPLE C PROGRAMS
-["1", "Tue 05/10/21  | 3pm<br/>CHEM LT1 + Teams", "PROGRAMS &amp; COMPUTATION",      "", "imperative/week02/COMS10016_Computing.pdf", "29", "2"],
-["0", "watch before Wed",     "PROCEDURES &amp; PROGRAMS",       "https://mediasite.bris.ac.uk/Mediasite/Play/91d05240456c424a922dd1c8db97569d1d", "imperative/COMS10016_01.pdf", "0", "2"],
-["0", "watch before Wed",     "TYPES, VARIABLES &amp; SCOPE",    "https://mediasite.bris.ac.uk/Mediasite/Play/0015df077d4d4287892c1e7563a68da71d", "imperative/COMS10016_02.pdf", "2", "4"],
-["3", "Wed 06/10/20 | 10am",  "BIG INTEGER CHALLENGE",           "", "", "0", "0"],
-["9", "",                     "",                                "", "", "0", "0"],
-["0", "watch before Wed",     "DECISIONS &amp; RECURSION",       "https://mediasite.bris.ac.uk/Mediasite/Play/142dc3fec056475caa68332b17666b701d", "imperative/COMS10016_03.pdf", "6", "5"],
-["4", "in your own time",   "HAIL &amp; THUNDER",                "imperative/COMS10016_Task01.pdf", "", "11", "2"],
-["6", "during weekly labs", "BIG INTEGER CHALLENGE",             "imperative/week02/index.html", "", "13", "8"],
- 
-//WEEK 03 - HANDLING RECURSION, LOOPS AND ARRAYS
-["1", "", "ITERATION &amp; CO.",             "", "imperative/week03/COMS10016_Loops.pdf", "50", "2"],
-["0", "in your own time",   "LITERALS, ENUMS &amp; CONSTANTS", "https://mediasite.bris.ac.uk/Mediasite/Play/87f3017862004a37ae1ac8b3fbdab33a1d", "imperative/COMS10016_04.pdf", "31", "2"],
-["0", "in your own time",   "LOOPS &amp; JUMPS",               "https://mediasite.bris.ac.uk/Mediasite/Play/ecad33ee4d3f4d6889d4a0993c8c64fc1d", "imperative/COMS10016_05.pdf", "33", "2"],
-["3", "", "GRADE CHALLENGE",                                   "", "", "0", "0"],
-["2", "", "LOOPS, ARRAYS, STRINGS",                            "", "imperative/week03/COMS10016_LoopsArraysStrings.pdf", "69", "4"],
-["0", "in your own time",   "ARRAYS",                          "https://mediasite.bris.ac.uk/Mediasite/Play/6fc2ef02c0cf4c14946695028ed6d8921d", "imperative/COMS10016_06.pdf", "35", "3"],
-["0", "in your own time",   "STRINGS",                         "https://mediasite.bris.ac.uk/Mediasite/Play/d034f70b96754765acbe77fe15ff966b1d", "imperative/COMS10016_07.pdf", "37", "6"],
-["6", "during weekly labs", "GRADE CHALLENGE",                 "imperative/week03/index.html", "", "25", "4"],
-
-//WEEK 04 - UNDERSTANDING STRINGS AND SEARCH
-["1", "26/10/20 | 04:00pm", "SEARCH &amp; CO.",                "", "imperative/week04/COMS10016_Search.pdf", "52", "1"],
-["0", "in your own time",   "SEARCHING",                       "https://mediasite.bris.ac.uk/Mediasite/Play/ead7ce2e083945a380347d8bd0559ac01d", "imperative/COMS10016_08.pdf", "43", "1"],
-["0", "in your own time",   "RUNTIME COMPLEXITY",              "https://mediasite.bris.ac.uk/Mediasite/Play/27eebe8e4c7c496ea8431bb5a7aaf7b21d", "imperative/COMS10016_09.pdf", "43", "1"],
-["3", "28/10/20 | 10:30am", "TRIANGLE CHALLENGE 1/2",          "", "", "0", "0"],
-["2", "28/10/20 | 10:00am", "SEARCH &amp; COMPLEXITY",         "", "imperative/week04/COMS10016_SearchComplexity.pdf", "43", "1"],
-["4", "in your own time",   "THE TOWERS OF HANOI",             "imperative/COMS10016_Task02.pdf", "", "48", "2"],
-["4", "in your own time",   "PRIME SUSPECT",                   "imperative/COMS10016_Task03.pdf", "", "53", "1"],
-["6", "during weekly labs", "TRIANGLE CHALLENGE<br/><a target='_blank' href='imperative/week04/sample/triangle.c'>(Triangle Sample Solution)</a><br/><a target='_blank' href='imperative/week04/sample/strings.c'>(Strings Sample Solution)</a>",              "imperative/week04/index.html", "", "44", "4"],
-
 //WEEK 05 - WORKING WITH POINTERS
 ["1", "02/11/20 | 04:00pm", "STRINGS &amp; POINTERS",          "", "imperative/week05/COMS10016_StringsPointers.pdf", "61", "4"],
 ["0", "in your own time",   "BITS",                            "https://mediasite.bris.ac.uk/Mediasite/Play/a3533af3bc4e4fc0906e5ca4f2133dcf1d", "imperative/COMS10016_10.pdf", "56", "1"],
