@@ -100,16 +100,16 @@ var activities = [
 ["13", "in your own time",   "",                            "", "", "66", "3"],
 ["17", "(optional)",        "Monoids",     "", "", "69", "4"],
 //WEEK 07
-// TODO (Sam) fill out
 ["14", "23/11/20 | 04:30pm", "Q&A",                         "", "", "0", "0"],
 ["15", "view by 30/11/20",   "Design w. HO functions",                 "https://mediasite.bris.ac.uk/Mediasite/Play/2a7c3b77e49b4f24b61a707fca1d53e91d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/design w HO.zip", "", ""],
 ["15", "view by 30/11/20",   "Type classes",                 "https://mediasite.bris.ac.uk/Mediasite/Play/b56703cfd8484e3e9d36e1980515da711d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/type classes.zip", "", ""],
-["3", "11/11/21 (Remembrance Day)<br/>1pm-4pm<br/>MVB2.11", "Join Session Virtually",                  "", "", "28", "2"],
+["3", "11/11/21 (Remembrance Day)<br/>1pm-4pm<br/>MVB2.11", "Join Session Virtually",                  "", "", "56", "3"],
 ["9", "",                   "",                            "", "", "0",  "1"],
 ["9", "",                   "",                            "", "", "0",  "1"],
-["13", "in your own time",  "",                            "", "", "47", "2"],
-["17", "(optional)",        "Monoids",                     "", "", "49", "3"],
+["13", "in your own time",  "",                            "", "", "66", "3"],
+["17", "(optional)",        "Monoids",                     "", "", "69", "4"],
 //WEEK 08
+// TODO (Sam) fill out
 ["14", "30/11/20 | 04:30pm", "Q&A",                         "", "", "0", "0"],
 ["0",  "view by 07/12/20",   "IO",                       "https://mediasite.bris.ac.uk/Mediasite/Play/3cd46d621c9f412b83426dd5fbc25e021d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/IO.zip", "5", "1"],
 ["15", "view by 07/12/20",   "QC Generator",                 "https://mediasite.bris.ac.uk/Mediasite/Play/d916544af76e4f20a1638fb20b6c96971d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/QC Generator.zip", "", ""],
