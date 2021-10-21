@@ -82,16 +82,16 @@ var activities = [
 ["13", "in your own time", "",           "", "", "33", "2"],
 ["17", "(optional)", "Structural Inductive Proofs", "", "", "35", "4"],
 //WEEK 05
-["14", "09/11/20 | 04:30pm", "Q&A",                         "", "", "0", "0"],
-["15", "view by 16/11/20",   "HO function",                 "https://mediasite.bris.ac.uk/Mediasite/Play/fcbf2a224b344ccf9a6a31629ee699741d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/HO function.zip", "", ""],
-["0",  "view by 16/11/20",   "foldr",                       "https://mediasite.bris.ac.uk/Mediasite/Play/02ba4aefcd214153bbfc9840f7776c871d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/foldr.zip", "4", "1"],
+["9", "", "",                         "", "", "0", "0"],
+["15", "watch before Tue",   "HO function",                 "https://mediasite.bris.ac.uk/Mediasite/Play/fcbf2a224b344ccf9a6a31629ee699741d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/slides/HO function.zip", "", ""],
+["0",  "watch before Tue",   "foldr",                       "https://mediasite.bris.ac.uk/Mediasite/Play/02ba4aefcd214153bbfc9840f7776c871d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/slides/foldr.zip", "107", "1"],
 ["3",  "28/10/21<br/>1pm-4pm<br/>MVB2.11", "Join Session Virtually", "", "", "41", "3"],
 ["9",  "",                   "",                            "", "", "0", "1"],
-["0",  "view by 16/11/20",   "More HO functions",           "https://mediasite.bris.ac.uk/Mediasite/Play/919dfd46f7bb4812856b31e803608ebe1d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/more HO functions.zip", "4", "1"],
+["0",  "watch before Tue",   "More HO functions",           "https://mediasite.bris.ac.uk/Mediasite/Play/919dfd46f7bb4812856b31e803608ebe1d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/slides/more HO functions.zip", "107", "1"],
 ["13", "in your own time",   "",                            "", "", "46", "5"],
 ["17", "(optional)",         "Sudoku", "", "", "51", "5"],
 //WEEK 06 - reading week
-["14", "16/11/20 | 04:30pm", "Q&A",                         "", "", "0", "0"],
+["9", "", "",                         "", "", "0", "0"],
 ["16","",                   "",           "", ""],
 ["16","",                   "",           "", ""],
 ["3", "reading week<br/>(attached is next week's sheet)", "Reading Week", "", "", "56", "3"],
@@ -259,6 +259,7 @@ var files = [
 [  "104", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Sheets/answerBonus4Dyslexic.pdf", "Sheet of Death - Answers (Dyslexic Friendly)"],
 [  "105", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Practicals/Famous/FamousInstrs.pdf", "Instructions"],
 [  "106", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Practicals/Famous/FamousInstrsDyslexic.pdf", "Instructions (Dyslexic Friendly)"],
+[  "107", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/HO.hs", "HO.hs"],
 
 
 // file list from last year:
