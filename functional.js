@@ -88,8 +88,8 @@ var activities = [
 //["3",  "28/10/21<br/>1pm-4pm<br/>MVB2.11", "Join Session Virtually", "", "", "41", "3"],
 //["9",  "",                   "",                            "", "", "0", "1"],
 //["0",  "watch before Tue",   "More HO functions",           "https://mediasite.bris.ac.uk/Mediasite/Play/919dfd46f7bb4812856b31e803608ebe1d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/slides/more HO functions.zip", "107", "1"],
-//["13", "in your own time",   "",                            "", "", "46", "5"],
-//["17", "(optional)",         "Sudoku", "", "", "51", "5"],
+["13", "in your own time",   "",                            "", "", "46", "5"],
+["17", "(optional)",         "Sudoku", "", "", "51", "5"],
 //WEEK 06 - reading week
 ["9", "", "",                         "", "", "0", "0"],
 ["16","",                   "",           "", ""],
