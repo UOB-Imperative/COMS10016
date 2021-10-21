@@ -138,24 +138,23 @@ var activities = [
 ["9", "",                   "",                                "", "", "0", "1"],
 ["17", "(optional)",        "Simplify",                  "", "", "95", "4"],
 //WEEK 11
-// TODO (Sam) fill out
 ["9",  "",                   "",                            "", "", "0", "1"],
 ["9",  "",                   "",                            "", "", "0", "1"],
 ["9",  "",                   "",                            "", "", "0", "1"],
-["3",  "09/12/21<br/>1pm-4pm<br/>MVB2.11", "Join Session Virtually",                    "", "", "0", "0"],
+["3",  "09/12/21<br/>1pm-4pm<br/>MVB2.11", "Join Session Virtually",                    "", "", "0", "0"], // TODO waiting on sheet from Sam
 ["9",  "",                   "",                            "", "", "0", "1"],
 ["9",  "",                   "",                            "", "", "0", "1"],
 ["9",  "",                   "",                            "", "", "0", "1"],
-["9",  "",                   "",                            "", "", "0", "1"],
+["9",  "",                   "",                            "", "", "0", "1"], //TODO tetris
 //WEEK 12
 ["9",  "",                   "",                            "", "", "0", "1"],
 ["9",  "",                   "",                            "", "", "0", "1"],
 ["9",  "",                   "",                            "", "", "0", "1"],
-["3",  "16/12/21<br/>1pm-4pm<br/>MVB2.11", "Join Session Virtually",                    "", "", "0", "0"],
+["3",  "16/12/21<br/>1pm-4pm<br/>MVB2.11", "Join Session Virtually",                    "", "", "0", "0"], // TODO waiting on sheet from W
 ["9",  "",                   "",                            "", "", "0", "1"],
 ["9",  "",                   "",                            "", "", "0", "1"],
 ["9",  "",                   "",                            "", "", "0", "1"],
-["9",  "",                   "",                            "", "", "0", "1"],
+["17",  "(optional)",        "Practical and Sheet",         "", "", "0", "1"],
 ];
 
 //UNIT RESOURCES & MATERIALS
@@ -253,6 +252,13 @@ var files = [
 [  "96", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Practicals/Simplify/SimplifyInstrsDyslexic.pdf", "Instructions (Dyslexic Friendly)"],
 [  "97", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Practicals/Simplify/Simplify.hs", "Simplify.hs"],
 [  "98", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Practicals/Simplify/Poly.hs", "Poly.hs"],
+[  "100", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Sheets/sheetBonus4.pdf", "Sheet of Death"],
+[  "101", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Sheets/sheetBonus4Dyslexic.pdf", "Sheet of Death (Dyslexic Friendly)"],
+[  "102", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Sheets/codeBonus4.hs", "Bonus Code Three"],
+[  "103", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Sheets/answerBonus4.pdf", "Sheet of Death - Answers"],
+[  "104", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Sheets/answerBonus4Dyslexic.pdf", "Sheet of Death - Answers (Dyslexic Friendly)"],
+[  "105", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Practicals/Famous/FamousInstrs.pdf", "Instructions"],
+[  "106", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Practicals/Famous/FamousInstrsDyslexic.pdf", "Instructions (Dyslexic Friendly)"],
 
 
 // file list from last year:
