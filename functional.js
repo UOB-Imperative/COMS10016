@@ -1,5 +1,5 @@
 //LAYOUT CUSTOMIZATION
-var currentWeek   = 6;                        // current week [releases content fully visible up to this week]
+var currentWeek   = 7;                        // current week [releases content fully visible up to this week]
 var activityNum   = 8;                         // number of activities per week (empty slots possible)
 var columnNum     = 4;                         // desired columns per week (yet, autofitted to max 2 rows per week)
 var title         = "FUNCTIONAL PROGRAMMING";  // content title (different to unitName since multiple content streams maybe in one unit)
@@ -100,9 +100,9 @@ var activities = [
 ["13", "in your own time",   "",                            "", "", "66", "3"],
 ["17", "(optional)",        "Monoids",     "", "", "69", "4"],
 //WEEK 07
-["14", "23/11/20 | 04:30pm", "Q&A",                         "", "", "0", "0"],
-["15", "view by 30/11/20",   "Design w. HO functions",                 "https://mediasite.bris.ac.uk/Mediasite/Play/2a7c3b77e49b4f24b61a707fca1d53e91d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/design w HO.zip", "", ""],
-["15", "view by 30/11/20",   "Type classes",                 "https://mediasite.bris.ac.uk/Mediasite/Play/b56703cfd8484e3e9d36e1980515da711d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/type classes.zip", "", ""],
+["9", "", "",                         "", "", "0", "0"],
+["15", "watch before Tue",   "Design w. HO functions",                 "https://mediasite.bris.ac.uk/Mediasite/Play/2a7c3b77e49b4f24b61a707fca1d53e91d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/design w HO.zip", "", ""],
+["15", "watch before Tue",   "Type classes",                 "https://mediasite.bris.ac.uk/Mediasite/Play/b56703cfd8484e3e9d36e1980515da711d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/type classes.zip", "", ""],
 ["3", "11/11/21 (Remembrance Day)<br/>1pm-4pm<br/>MVB2.11", "Join Session Virtually",                  "", "", "56", "3"],
 ["9", "",                   "",                            "", "", "0",  "1"],
 ["9", "",                   "",                            "", "", "0",  "1"],
