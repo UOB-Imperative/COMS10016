@@ -105,7 +105,7 @@ var activities = [
 ["15", "watch before Tue",   "Type classes",                 "https://mediasite.bris.ac.uk/Mediasite/Play/b56703cfd8484e3e9d36e1980515da711d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/slides/type classes.zip", "", ""],
 ["3", "11/11/21 (Remembrance Day)<br/>1pm-4pm<br/>MVB2.11", "Join Session Virtually",                  "", "", "56", "3"],
 ["9", "",                   "",                            "", "", "0",  "1"],
-["18", "view before Tue","Trees","https://mediasite.bris.ac.uk/Mediasite/Play/b3fcbbfaf52a4ea0a850d131b088c8ac1d", "", "103",  "1"],
+["18", "view before Tue","Trees","https://mediasite.bris.ac.uk/Mediasite/Play/b3fcbbfaf52a4ea0a850d131b088c8ac1d", "", "102",  "1"],
 ["13", "in your own time",  "",                            "", "", "66", "3"],
 ["17", "(optional)",        "Monoids",                     "", "", "69", "4"],
 //WEEK 08
