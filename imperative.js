@@ -99,7 +99,7 @@ var activities = [
 ["12","",                   "",        "", ""],
 ["12","",                   "",        "", ""],
 ["7", "in your own time and during labs", "LIST ASSIGNMENT<hr/>", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/week06/index.html", "", "91", "3"],
-["18", "Online on Teams", "TA Help Slots (TBA)",  "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/teamslink.html", "", "0", "0"],
+["18", "Online on Teams", "TA Help Slots:<br/>29/10/21|2-3<br/>01/11/21|10-12<br/>03/11/21|11-12<br/>05/11/21|10-11<br/>further slots TBA",  "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/teamslink.html", "", "0", "0"],
 ["10", "",                  "",        "", ""],
 ["10", "",                  "",        "", ""],
 ["8", "Submission Deadline:<br/>Fri 12/11/21<br/>01:00pm UK time",                   "",        "", ""],
