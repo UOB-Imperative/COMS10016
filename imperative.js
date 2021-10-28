@@ -36,6 +36,7 @@ var categories = [
 ["14", "Teams Q&amp;A",       "#CCDFFF","0","",    "",     ],
 ["15", "<br/><div align='center' style='color:#777777'>REDUCED LECTURE LOAD</div>",   "#CCCCCC","0","",          "",              ], // empty slot
 ["16", "Live Session:",        "#DDE3FC","0","",    "",     ],
+["17", "Optional Session:", "#DDE3FC","0","",    "",     ],
 ];
 
 //WEEKLY ACTIVITIES
@@ -86,10 +87,21 @@ var activities = [
 ["16", "Tue 26/10/21<br/>03:00pm<br/>CHEM LT1", "DYNAMIC STRUCTURES",  "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/tuesday.html", "", "0", "0"],
 ["0", "watch before Tue<br/>22min",   "STRUCTURES &amp; USER TYPES",     "https://mediasite.bris.ac.uk/Mediasite/Play/7d3fe970d51b4ce69c1de4f69a99629a1d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_12.pdf", "59", "2"],
 ["0", "in your own time",   "DYNAMIC DATA",                    "https://web.microsoftstream.com/video/1c746e39-efab-4eea-9d42-35dfa9a876f9", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_13.pdf", "81", "5"],
-["8", "",                   "",        "", ""],["4", "in your own time",   "BITS &amp; POINTERS",             "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_Task04.pdf", "", "54", "2"],
+["8", "",                   "",        "", ""],
+["4", "in your own time",   "BITS &amp; POINTERS",             "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_Task04.pdf", "", "54", "2"],
 ["0", "watch before Tue<br/>52min",   "STACKS",                          "https://web.microsoftstream.com/video/125300f5-3aec-4318-a1ad-b80bc0aad486", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_14.pdf", "79", "2"],
 ["0", "watch before Tue<br/>52min",   "LISTS",                           "https://web.microsoftstream.com/video/40263cce-c988-4df7-9a24-1d28dc34b659", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_15.pdf", "86", "2"],
 ["3", "Wed 27/10/21<br/>10am-1pm<br/>MVB2.11", "TRIANGLE CHALLENGE 2/2", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/wednesday.html", "", "0", "0"],
+
+//WEEK 06 - READING WEEK
+["17", "Mon 01/11/21<br/>04:00pm<br/>MVB2.11", "Pointer Surgery",  "", "", "0", "0"],
+["12","",                   "",        "", ""],
+["12","",                   "",        "", ""],
+["7", "", "LIST ASSIGNMENT",              "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/week06/index.html", "", "91", "3"],
+["9", "",                   "",        "", ""],
+["10", "",                  "",        "", ""],
+["10", "",                  "",        "", ""],
+["8", "",                   "",        "", ""],
  
   //buffer
  ["9", "",                     "",                                "", "", "0", "0"],
@@ -275,10 +287,10 @@ var files = [
 [ "87", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/arraylist.c",                 "arraylist.c"],
 [ "88", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/110.c",                       "110.c"],
 [ "89", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/stringcmp.c",                 "stringcmp.c"],
-[ "90", "imperative/linkedlist.c",                "linkedlist.c"],
-[ "91", "imperative/week06/list.c",               "list.c"],
-[ "92", "imperative/week06/list.h",               "list.h"],
-[ "93", "imperative/week06/Makefile",             "Makefile"],
+[ "90", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/linkedlist.c",                "linkedlist.c"],
+[ "91", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/week06/list.c",               "list.c"],
+[ "92", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/week06/list.h",               "list.h"],
+[ "93", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/week06/Makefile",             "Makefile"],
 [ "94", "imperative/tree.c",                      "tree.c"],
 [ "95", "imperative/bubble.c",                    "bubble.c"],
 [ "96", "imperative/week08/text.c",               "text.c"],
