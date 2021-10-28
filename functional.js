@@ -87,7 +87,7 @@ var activities = [
 ["0",  "watch before Tue",   "foldr",                       "https://mediasite.bris.ac.uk/Mediasite/Play/02ba4aefcd214153bbfc9840f7776c871d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/slides/foldr.zip", "101", "1"],
 ["3",  "28/10/21<br/>1pm-4pm<br/>MVB2.11", "Join Session Virtually", "", "", "41", "3"],
 ["9",  "",                   "",                            "", "", "0", "1"],
-["0",  "watch before Tue",   "More HO functions",           "https://mediasite.bris.ac.uk/Mediasite/Play/919dfd46f7bb4812856b31e803608ebe1d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/slides/more HO functions.zip", "101", "0"],
+["0",  "watch before Tue",   "More HO functions",           "https://mediasite.bris.ac.uk/Mediasite/Play/919dfd46f7bb4812856b31e803608ebe1d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/slides/more HO functions.zip", "101", "1"],
 ["13", "in your own time",   "",                            "", "", "46", "5"],
 ["17", "(optional)",         "Sudoku", "", "", "51", "5"],
 //WEEK 06 - reading week
@@ -105,7 +105,7 @@ var activities = [
 ["15", "watch before Tue",   "Type classes",                 "https://mediasite.bris.ac.uk/Mediasite/Play/b56703cfd8484e3e9d36e1980515da711d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/slides/type classes.zip", "", ""],
 ["3", "11/11/21 (Remembrance Day)<br/>1pm-4pm<br/>MVB2.11", "Join Session Virtually",                  "", "", "56", "3"],
 ["9", "",                   "",                            "", "", "0",  "1"],
-["18", "view before Tue","Trees","https://mediasite.bris.ac.uk/Mediasite/Play/b3fcbbfaf52a4ea0a850d131b088c8ac1d", "", "102",  "0"],
+["18", "view before Tue","Trees","https://mediasite.bris.ac.uk/Mediasite/Play/b3fcbbfaf52a4ea0a850d131b088c8ac1d", "", "103",  "1"],
 ["13", "in your own time",  "",                            "", "", "66", "3"],
 ["17", "(optional)",        "Monoids",                     "", "", "69", "4"],
 //WEEK 08
@@ -267,7 +267,7 @@ var files = [
 //[  "106", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Practicals/Famous/FamousInstrsDyslexic.pdf", "Instructions (Dyslexic Friendly)"],
 [  "101", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/HO.hs", "HO.hs"],
 [  "102", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/HO.hs", "HO.hs"],
-[  "108", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/BinaryTrees.hs", "BinaryTrees.hs"],
+[  "103", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/BinaryTrees.hs", "BinaryTrees.hs"],
 [  "109", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Practicals/Famous/FamousInstrsDyslexic.pdf", "Instructions (Dyslexic Friendly)"],
 
 
