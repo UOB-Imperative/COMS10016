@@ -26,7 +26,7 @@ var categories = [
 ["4", "Optional Exercises",  "#D8CCFF","1","",          "Sample Solutions",],
 ["5", "PrepTask",            "#DDDDDD","1","",          "",              ],
 ["6", "Formative Coursework","#EEEEDD","1","",          "Materials",     ],
-["7", "Individual Summative Coursework","#EEEEDD","0","",          "Materials",     ],
+["7", "Individual Summative Coursework","#EEEEDD","1","",          "",     ],
 ["8",  "",                   "#EEEEDD","0","",          "",              ], // multi-week coursework
 ["9",  "",                   "#CCCCCC","0","",          "",              ], // empty slot
 ["10", "",                   "#CCCCCC","0","",          "",              ], // multi-week empty
@@ -97,7 +97,7 @@ var activities = [
 ["17", "Mon 01/11/21<br/>04:00pm<br/>MVB2.11", "Pointer Surgery",  "", "", "0", "0"],
 ["12","",                   "",        "", ""],
 ["12","",                   "",        "", ""],
-["7", "in your own time and during labs", "LIST ASSIGNMENT",              "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/week06/index.html", "", "91", "3"],
+["7", "in your own time and during labs", "LIST ASSIGNMENT<hr/>Submission Deadline:<br/>12/11/21 | 1pm UK time",              "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/week06/index.html", "", "91", "3"],
 ["9", "",                   "",        "", ""],
 ["10", "",                  "",        "", ""],
 ["10", "",                  "",        "", ""],
