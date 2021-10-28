@@ -26,7 +26,7 @@ var categories = [
 ["4", "Optional Exercises",  "#D8CCFF","1","",          "Sample Solutions",],
 ["5", "PrepTask",            "#DDDDDD","1","",          "",              ],
 ["6", "Formative Coursework","#EEEEDD","1","",          "Materials",     ],
-["7", "Summative Coursework","#EEEEDD","1","",          "Materials",     ],
+["7", "Individual Summative Coursework","#EEEEDD","0","",          "Materials",     ],
 ["8",  "",                   "#EEEEDD","0","",          "",              ], // multi-week coursework
 ["9",  "",                   "#CCCCCC","0","",          "",              ], // empty slot
 ["10", "",                   "#CCCCCC","0","",          "",              ], // multi-week empty
@@ -36,7 +36,7 @@ var categories = [
 ["14", "Teams Q&amp;A",       "#CCDFFF","0","",    "",     ],
 ["15", "<br/><div align='center' style='color:#777777'>REDUCED LECTURE LOAD</div>",   "#CCCCCC","0","",          "",              ], // empty slot
 ["16", "Live Session:",        "#DDE3FC","0","",    "",     ],
-["17", "Optional Session:", "#DDE3FC","0","",    "",     ],
+["17", "Optional Help Session:", "#DDE3FC","0","",    "",     ],
 ];
 
 //WEEKLY ACTIVITIES
@@ -81,7 +81,7 @@ var activities = [
 ["4", "in your own time",   "PRIME SUSPECT",                   "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_Task03.pdf", "", "53", "1"],
 ["0", "watch before Tue<br/>52min",   "BITS",                            "https://mediasite.bris.ac.uk/Mediasite/Play/a3533af3bc4e4fc0906e5ca4f2133dcf1d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_10.pdf", "56", "1"],
 ["0", "watch before Tue<br/>32min",   "POINTERS",                        "https://mediasite.bris.ac.uk/Mediasite/Play/388e5402b8404f5d8dc76f2115f16cb31d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_11.pdf", "57", "2"],
-["6", "during weekly labs", "TRIANGLE CHALLENGE",              "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/week04/index.html", "", "44", "4"],
+["6", "during weekly labs", "TRIANGLE CHALLENGE<br/><a target='_blank' href='https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/week04/sample/triangle.c'>(Triangle Sample Solution)</a><br/><a target='_blank' href='https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/week04/sample/strings.c'>(Strings Sample Solution)</a>",              "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/week04/index.html", "", "44", "4"],
 
 //WEEK 05 - WORKING WITH POINTERS
 ["16", "Tue 26/10/21<br/>03:00pm<br/>CHEM LT1", "DYNAMIC STRUCTURES",  "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/tuesday.html", "", "0", "0"],
@@ -97,7 +97,7 @@ var activities = [
 ["17", "Mon 01/11/21<br/>04:00pm<br/>MVB2.11", "Pointer Surgery",  "", "", "0", "0"],
 ["12","",                   "",        "", ""],
 ["12","",                   "",        "", ""],
-["7", "", "LIST ASSIGNMENT",              "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/week06/index.html", "", "91", "3"],
+["7", "in your own time and during labs", "LIST ASSIGNMENT",              "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/week06/index.html", "", "91", "3"],
 ["9", "",                   "",        "", ""],
 ["10", "",                  "",        "", ""],
 ["10", "",                  "",        "", ""],
@@ -107,11 +107,11 @@ var activities = [
  ["9", "",                     "",                                "", "", "0", "0"],
  ["9", "",                     "",                                "", "", "0", "0"],
  ["9", "",                     "",                                "", "", "0", "0"],
+ ["8", "",                   "",        "", ""],
  ["9", "",                     "",                                "", "", "0", "0"],
  ["9", "",                     "",                                "", "", "0", "0"],
  ["9", "",                     "",                                "", "", "0", "0"],
- ["9", "",                     "",                                "", "", "0", "0"],
- ["9", "",                     "",                                "", "", "0", "0"],
+ ["8", "",                   "",        "", ""],
  
 //WEEK 05 - WORKING WITH POINTERS
 ["1", "02/11/20 | 04:00pm", "STRINGS &amp; POINTERS",          "", "imperative/week05/COMS10016_StringsPointers.pdf", "61", "4"],
