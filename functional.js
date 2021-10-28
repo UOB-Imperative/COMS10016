@@ -1,5 +1,5 @@
 //LAYOUT CUSTOMIZATION
-var currentWeek   = 5;                        // current week [releases content fully visible up to this week]
+var currentWeek   = 6;                        // current week [releases content fully visible up to this week]
 var activityNum   = 8;                         // number of activities per week (empty slots possible)
 var columnNum     = 4;                         // desired columns per week (yet, autofitted to max 2 rows per week)
 var title         = "FUNCTIONAL PROGRAMMING";  // content title (different to unitName since multiple content streams maybe in one unit)
@@ -76,11 +76,11 @@ var activities = [
 ["9", "", "",                    "", "", "0", "0"],
 ["15", "watch before Tue",   "Lists",       "https://mediasite.bris.ac.uk/Mediasite/Play/6a4a3816dc0c40f3bb7aec6b05de2b091d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/slides/lists.zip", "2", "1"],
 ["0", "watch before Tue",   "Functions on lists",       "https://mediasite.bris.ac.uk/Mediasite/Play/df8d5226ad3145b683f32590d1f859511d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/slides/functions on lists.zip", "55", "1"],
-["3", "21/10/21<br/>1pm-4pm<br/>MVB2.11", "Join Session Virtually", "", "", "28", "2"],
+["3", "21/10/21<br/>1pm-4pm<br/>MVB2.11", "Join Session Virtually", "", "", "28", "5"],
 ["9", "",                   "",                                "", "", "0", "1"],
 ["9", "",                   "",                                "", "", "0", "1"],
 ["13", "in your own time", "",           "", "", "33", "2"],
-["17", "(optional)", "Structural Inductive Proofs", "", "", "35", "4"],
+["17", "(optional)", "Structural Inductive Proofs", "", "", "35", "6"],
 //WEEK 05
 ["14", "09/11/20 | 04:30pm", "Q&A",                         "", "", "0", "0"],
 ["15", "view by 16/11/20",   "HO function",                 "https://mediasite.bris.ac.uk/Mediasite/Play/fcbf2a224b344ccf9a6a31629ee699741d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/HO function.zip", "", ""],
