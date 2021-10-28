@@ -87,7 +87,7 @@ var activities = [
 //WEEK 05 - WORKING WITH POINTERS
 ["1", "Tue 26/10/21<br/>03:00pm<br/>CHEM LT1", "DYNAMIC STRUCTURES",  "https://web.microsoftstream.com/video/27b32d65-ce56-4530-9a89-b6758ceb4074", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_Week05.pdf", "162", "1"],
 ["0", "watch before Tue<br/>22min",   "STRUCTURES &amp; USER TYPES",     "https://mediasite.bris.ac.uk/Mediasite/Play/7d3fe970d51b4ce69c1de4f69a99629a1d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_12.pdf", "59", "2"],
-["0", "in your own time",   "DYNAMIC DATA",                    "https://web.microsoftstream.com/video/1c746e39-efab-4eea-9d42-35dfa9a876f9", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_13.pdf", "81", "5"],
+["0", "watch before Tue<br/>38min",   "DYNAMIC DATA",                    "https://web.microsoftstream.com/video/1c746e39-efab-4eea-9d42-35dfa9a876f9", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_13.pdf", "81", "5"],
 ["8", "",                   "",        "", ""],
 ["4", "in your own time",   "BITS &amp; POINTERS",             "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_Task04.pdf", "", "54", "2"],
 ["0", "watch before Tue<br/>52min",   "STACKS",                          "https://web.microsoftstream.com/video/125300f5-3aec-4318-a1ad-b80bc0aad486", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_14.pdf", "79", "2"],
