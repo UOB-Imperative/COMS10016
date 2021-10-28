@@ -37,7 +37,7 @@ var categories = [
 ["15", "<br/><div align='center' style='color:#777777'>REDUCED LECTURE LOAD</div>",   "#CCCCCC","0","",          "",              ], // empty slot
 ["16", "Live Session:",        "#DDE3FC","0","",    "",     ],
 ["17", "Optional Help Session:", "#DDE3FC","0","",    "",     ],
-["18", "Optional Support:", "#DDDDDD","0","",    "",     ],
+["18", "Optional Live Support:", "#DDDDDD","0","",    "",     ],
 ];
 
 //WEEKLY ACTIVITIES
