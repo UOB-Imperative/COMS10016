@@ -259,14 +259,14 @@ var files = [
 [  "98", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Practicals/Simplify/Poly.hs", "Poly.hs"],
 [  "99", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Practicals/Simplify/Poly.hs", "Poly.hs"],
 [  "100", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Sheets/sheetBonus4.pdf", "Sheet of Death"],
-[  "101", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Sheets/sheetBonus4Dyslexic.pdf", "Sheet of Death (Dyslexic Friendly)"],
-[  "102", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Sheets/codeBonus4.hs", "Bonus Code Three"],
+//[  "101", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Sheets/sheetBonus4Dyslexic.pdf", "Sheet of Death (Dyslexic Friendly)"],
+//[  "102", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Sheets/codeBonus4.hs", "Bonus Code Three"],
 [  "103", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Sheets/answerBonus4.pdf", "Sheet of Death - Answers"],
 [  "104", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Sheets/answerBonus4Dyslexic.pdf", "Sheet of Death - Answers (Dyslexic Friendly)"],
 [  "105", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Practicals/Famous/FamousInstrs.pdf", "Instructions"],
 [  "106", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Practicals/Famous/FamousInstrsDyslexic.pdf", "Instructions (Dyslexic Friendly)"],
 [  "101", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/HO.hs", "HO.hs"],
-[  "103", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/BinaryTrees.hs", "BinaryTrees.hs"],
+[  "102", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/BinaryTrees.hs", "BinaryTrees.hs"],
 
 
 // file list from last year:
