@@ -85,7 +85,7 @@ var activities = [
 ["6", "during weekly labs", "TRIANGLE CHALLENGE<br/><a target='_blank' href='https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/week04/sample/triangle.c'>(Triangle Sample Solution)</a><br/><a target='_blank' href='https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/week04/sample/strings.c'>(Strings Sample Solution)</a>",              "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/week04/index.html", "", "44", "4"],
 
 //WEEK 05 - WORKING WITH POINTERS
-["16", "Tue 26/10/21<br/>03:00pm<br/>CHEM LT1", "DYNAMIC STRUCTURES",  "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/tuesday.html", "", "0", "0"],
+["1", "Tue 26/10/21<br/>03:00pm<br/>CHEM LT1", "DYNAMIC STRUCTURES",  "https://web.microsoftstream.com/video/27b32d65-ce56-4530-9a89-b6758ceb4074", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_Week05.pdf", "162", "1"],
 ["0", "watch before Tue<br/>22min",   "STRUCTURES &amp; USER TYPES",     "https://mediasite.bris.ac.uk/Mediasite/Play/7d3fe970d51b4ce69c1de4f69a99629a1d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_12.pdf", "59", "2"],
 ["0", "in your own time",   "DYNAMIC DATA",                    "https://web.microsoftstream.com/video/1c746e39-efab-4eea-9d42-35dfa9a876f9", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_13.pdf", "81", "5"],
 ["8", "",                   "",        "", ""],
@@ -98,19 +98,19 @@ var activities = [
 ["17", "Mon 01/11/21<br/>04:00pm<br/>MVB2.11", "Pointer Surgery<br/>with Sion and Tilo",  "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/monday.html", "", "0", "0"],
 ["12","",                   "",        "", ""],
 ["12","",                   "",        "", ""],
-["7", "in your own time and during labs", "LIST ASSIGNMENT<hr/>Submission Deadline:<br/>Fri 12/11/21<br/>01:00pm UK time",              "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/week06/index.html", "", "91", "3"],
+["7", "in your own time and during labs", "LIST ASSIGNMENT<hr/>", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/week06/index.html", "", "91", "3"],
 ["18", "Online on Teams", "TA Help Slots (TBA)",  "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/teamslink.html", "", "0", "0"],
 ["10", "",                  "",        "", ""],
 ["10", "",                  "",        "", ""],
-["8", "",                   "",        "", ""],
+["8", "Submission Deadline:<br/>Fri 12/11/21<br/>01:00pm UK time",                   "",        "", ""],
  
  //buffer
- ["9", "",                     "",                                "", "", "0", "0"],
- ["9", "",                     "",                                "", "", "0", "0"],
+["16", "Tue 09/11/21<br/>03:00pm<br/>CHEM LT1", "TREES &amp; SORTING",  "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/tuesday.html", "", "0", "0"],
+["0", "watch before Tue<br/>XXmin",   "TREES",                          "https://mediasite.bris.ac.uk/Mediasite/Play/ba910510d107433b8ef0b94b1e92d2d81d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_16.pdf", "94", "1"],
  ["15","",                   "",        "", ""],
  ["8", "",                   "",        "", ""],
- ["9", "",                     "",                                "", "", "0", "0"],
- ["9", "",                     "",                                "", "", "0", "0"],
+["4", "in your own time",   "CELLULAR",             "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_Task05.pdf", "", "88", "1"],
+["0", "watch before Tue<br/>XXmin",   "SORTING",                         "https://mediasite.bris.ac.uk/Mediasite/Play/ab93766ee4b64918925dd1d8e18f8e111d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_17.pdf", "105", "1"],
  ["10", "",                     "",                                "", "", "0", "0"],
  ["3", "Wed 10/11/21<br/>10am-1pm<br/>MVB2.11", "LIST ASSIGNMENT", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/wednesday.html", "", "0", "0"],
  
@@ -360,4 +360,5 @@ var files = [
 [ "158","https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_Week02f.pdf", "Functional Slides"],
 [ "159","https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_Week03f.pdf", "Functional Slides"],
 [ "160","https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_Week04f.pdf", "Functional Slides"],
+[ "161","https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_Week05f.pdf", "Functional Slides"],
 ];
