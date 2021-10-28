@@ -37,6 +37,7 @@ var categories = [
 ["15", "<br/><div align='center' style='color:#777777'>REDUCED LECTURE LOAD</div>",   "#CCCCCC","0","",          "",              ], // empty slot
 ["16", "Live Session:",        "#DDE3FC","0","",    "",     ],
 ["17", "Optional Help Session:", "#DDE3FC","0","",    "",     ],
+["18", "Optional Support:", "#DDDDDD","0","",    "",     ],
 ];
 
 //WEEKLY ACTIVITIES
@@ -94,11 +95,11 @@ var activities = [
 ["3", "Wed 27/10/21<br/>10am-1pm<br/>MVB2.11", "TRIANGLE CHALLENGE 2/2", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/wednesday.html", "", "0", "0"],
 
 //WEEK 06 - READING WEEK
-["17", "Mon 01/11/21<br/>04:00pm<br/>MVB2.11", "Pointer Surgery with Sion and Tilo",  "", "", "0", "0"],
+["17", "Mon 01/11/21<br/>04:00pm<br/>MVB2.11", "Pointer Surgery<br/>with Sion and Tilo",  "", "", "0", "0"],
 ["12","",                   "",        "", ""],
 ["12","",                   "",        "", ""],
 ["7", "in your own time and during labs", "LIST ASSIGNMENT<hr/>Submission Deadline:<br/>12/11/21 | 1pm UK time",              "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/week06/index.html", "", "91", "3"],
-["9", "",                   "",        "", ""],
+["17", "Online on Teams", "TA Help Slots",  "", "", "0", "0"],
 ["10", "",                  "",        "", ""],
 ["10", "",                  "",        "", ""],
 ["8", "",                   "",        "", ""],
