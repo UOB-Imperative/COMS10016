@@ -98,7 +98,7 @@ var activities = [
 ["17", "Mon 01/11/21<br/>04:00pm<br/>MVB2.11", "Pointer Surgery<br/>with Sion and Tilo",  "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/monday.html", "", "0", "0"],
 ["12","",                   "",        "", ""],
 ["12","",                   "",        "", ""],
-["7", "in your own time and during labs", "LIST ASSIGNMENT<hr/>Submission Deadline:<br/>12/11/21 | 1pm UK time",              "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/week06/index.html", "", "91", "3"],
+["7", "in your own time and during labs", "LIST ASSIGNMENT<hr/>Submission Deadline:<br/>Fri 12/11/21<br/>01:00pm UK time",              "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/week06/index.html", "", "91", "3"],
 ["18", "Online on Teams", "TA Help Slots (TBA)",  "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/teamslink.html", "", "0", "0"],
 ["10", "",                  "",        "", ""],
 ["10", "",                  "",        "", ""],
