@@ -220,6 +220,11 @@ var files = [
 [  "58", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Sheets/code05.hs", "Code Five"],
 [  "59", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Sheets/answer05.pdf", "Sheet Five - Answers"],
 [  "60", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Sheets/answer05Dyslexic.pdf", "Sheet Five - Answers (Dyslexic Friendly)"],
+[  "61", ".", ""], // it got upset i missed numbers
+[  "62", ".", ""], // it got upset i missed numbers
+[  "63", ".", ""], // it got upset i missed numbers
+[  "64", ".", ""], // it got upset i missed numbers
+[  "65", ".", ""], // it got upset i missed numbers
 [  "66", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Notes/FunctionRecipe.pdf", "Recipe for Writing Functions"],
 [  "67", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Notes/copro.pdf", "How to Design \"Co\"-Programs"],
 [  "68", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Notes/PreludeFunctionsCheatsheet.pdf", "Functions Cheatsheet"],
