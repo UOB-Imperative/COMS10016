@@ -106,11 +106,11 @@ var activities = [
  
 //WEEK 07 - TREES AND SORTING
 ["16", "Tue 09/11/21<br/>03:00pm<br/>CHEM LT1", "TREES &amp; SORTING",  "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/tuesday.html", "", "0", "0"],
-["0", "watch before Tue<br/>XXmin",   "TREES",                          "https://mediasite.bris.ac.uk/Mediasite/Play/ba910510d107433b8ef0b94b1e92d2d81d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_16.pdf", "94", "1"],
+["0", "watch before Tue<br/>33min",   "TREES",                          "https://mediasite.bris.ac.uk/Mediasite/Play/ba910510d107433b8ef0b94b1e92d2d81d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_16.pdf", "94", "1"],
 ["15","",                   "",        "", ""],
 ["8", "",                   "",        "", ""],
 ["4", "in your own time",   "CELLULAR",             "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_Task05.pdf", "", "88", "1"],
-["0", "watch before Tue<br/>XXmin",   "SORTING",                         "https://mediasite.bris.ac.uk/Mediasite/Play/ab93766ee4b64918925dd1d8e18f8e111d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_17.pdf", "105", "1"],
+["0", "watch before Tue<br/>21min",   "SORTING",                         "https://mediasite.bris.ac.uk/Mediasite/Play/ab93766ee4b64918925dd1d8e18f8e111d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_17.pdf", "105", "1"],
 ["10", "",                     "",                                "", "", "0", "0"],
 ["3", "Wed 10/11/21<br/>10am-1pm<br/>MVB2.11", "LIST ASSIGNMENT", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/wednesday.html", "", "0", "0"],
  
