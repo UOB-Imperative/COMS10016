@@ -40,7 +40,7 @@ var categories = [
 ["18", "Lecture",             "#CCCFFF","0","",    "Code",     ],
 ["19", "Sample Exam questions",             "#CCCFFF","0","",    "Materials",     ],
 ["20", "Formative Sheet",       "#EEEEDD","1","",    "Materials",     ],
-["21", "History",       "#EEEEDD","1","",    "Materials",     ],
+["21", "History",       "#EEEEDD","0","",    "Materials",     ],
 ];
 
 var activities = [
