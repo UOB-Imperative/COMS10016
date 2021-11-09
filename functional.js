@@ -36,9 +36,11 @@ var categories = [
 ["14", "Q&A",                "#94e5bf","0","",          "",              ],
 ["15", "Lecture",            "#CCCFFF","0","Slides with Voice",    "",     ],
 ["16", "<br/><div align='center' style='color:#777777'>LECTURE-FREE WEEK</div>",   "#CCCCCC","0","",          "",              ], // empty slot
-["17", "Bonus Bounty",       "#EEEEDD","1","",    "Materials",     ],
+["17", "Formative Practical Assignment",       "#EEEEDD","1","",    "Materials",     ],
 ["18", "Lecture",             "#CCCFFF","0","",    "Code",     ],
 ["19", "Sample Exam questions",             "#CCCFFF","0","",    "Materials",     ],
+["20", "Formative Sheet",       "#EEEEDD","1","",    "Materials",     ],
+["21", "History",       "#EEEEDD","1","",    "Materials",     ],
 ];
 
 var activities = [
@@ -62,7 +64,7 @@ var activities = [
 ["9", "",                   "",             "", "", "0", "0"],
 ["15", "watch before Tue",   "Case and Recursion", "https://mediasite.bris.ac.uk/Mediasite/Play/056c02fa85cc4f4290edbf8f2a8ae36c1d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/slides/case&recursion.zip",    "0", "0"],
 ["13", "in your own time",  "",             "", "", "2", "8"],
-["17", "(optional)",         "History of Haskell",              "", "", "25", "2"],
+["21", "(optional)",         "History of Haskell",              "", "", "25", "2"],
 //WEEK 03
 ["9", "",                   "",             "", "", "0", "0"],
 ["0", "watch before Tue",   "Modelling&Datatypes",       "https://mediasite.bris.ac.uk/Mediasite/Play/b1707b1a799d441980f7d6f349a261d91d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/slides/modelling&datatypes.zip", "27", "1"],
@@ -80,7 +82,7 @@ var activities = [
 ["9", "",                   "",                                "", "", "0", "1"],
 ["9", "",                   "",                                "", "", "0", "1"],
 ["13", "in your own time", "",           "", "", "33", "2"],
-["17", "(optional)", "Structural Inductive Proofs", "", "", "35", "6"],
+["20", "(optional)", "Structural Inductive Proofs", "", "", "35", "6"],
 //WEEK 05
 ["9", "", "",                         "", "", "0", "0"],
 ["15", "watch before Tue",   "HO function",                 "https://mediasite.bris.ac.uk/Mediasite/Play/fcbf2a224b344ccf9a6a31629ee699741d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/slides/HO function.zip", "", ""],
@@ -107,7 +109,7 @@ var activities = [
 ["9", "",                   "",                            "", "", "0",  "1"],
 ["18", "view before Tue","Trees","https://mediasite.bris.ac.uk/Mediasite/Play/b3fcbbfaf52a4ea0a850d131b088c8ac1d", "", "102",  "1"],
 ["13", "in your own time",  "",                            "", "", "66", "3"],
-["17", "(optional)",        "Monoids",                     "", "", "69", "4"],
+["20", "(optional)",        "Monoids",                     "", "", "69", "4"],
 //WEEK 08
 ["14", "30/11/20 | 04:30pm", "Q&A",                         "", "", "0", "0"],
 ["0",  "view by 07/12/20",   "IO",                       "https://mediasite.bris.ac.uk/Mediasite/Play/3cd46d621c9f412b83426dd5fbc25e021d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/IO.zip", "5", "1"],
@@ -127,7 +129,7 @@ var activities = [
 ["9", "",                   "",                                "", "", "0",  "1"],
 ["18", "view by 14/12/20","Arithmetical Expressions","https://mediasite.bris.ac.uk/Mediasite/Play/07d9b659879b4d7289eb13130f68b4191d", "", "71",  "1"],
 ["9", "",                   "",                                "", "", "0",  "1"],
-["17", "(optional)",        "Data.Map and Tries",              "", "", "90", "3"],
+["20", "(optional)",        "Data.Map and Tries",              "", "", "90", "3"],
 //WEEK 10
 ["14", "14/12/20 | 04:30pm", "Q&A",                         "", "", "0", "0"],
 ["18", "",                   "Reasoning about Programs I", "https://mediasite.bris.ac.uk/Mediasite/Play/dd2ddc538cdd411aac7c91aea80a13291d", "", "72", "1"],
