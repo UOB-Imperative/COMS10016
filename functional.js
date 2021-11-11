@@ -112,7 +112,7 @@ var activities = [
 ["20", "(optional)",        "Monoids",                     "", "", "69", "4"],
 //WEEK 08
 ["9", "", "",                         "", "", "0", "0"],
-["0",  "watch before Tue",   "IO",                       "https://mediasite.bris.ac.uk/Mediasite/Play/3cd46d621c9f412b83426dd5fbc25e021d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/slides/IO.zip", "104", "1"],
+["0",  "watch before Tue",   "IO",                       "https://mediasite.bris.ac.uk/Mediasite/Play/3cd46d621c9f412b83426dd5fbc25e021d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/slides/IO.zip", "105", "1"],
 ["15", "watch before Tue",   "QC Generator",                 "https://mediasite.bris.ac.uk/Mediasite/Play/d916544af76e4f20a1638fb20b6c96971d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/slides/QC Generator.zip", "", ""],
 //["15", "view by 7/12/20",   "IO",                 "", "", "", ""],
 //["15", "view by 7/12/20",   "QC Generator",                 "", "", "", ""],
