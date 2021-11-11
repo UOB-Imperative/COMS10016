@@ -111,9 +111,9 @@ var activities = [
 ["13", "in your own time",  "",                            "", "", "66", "3"],
 ["20", "(optional)",        "Monoids",                     "", "", "69", "4"],
 //WEEK 08
-["14", "30/11/20 | 04:30pm", "Q&A",                         "", "", "0", "0"],
-["0",  "view by 07/12/20",   "IO",                       "https://mediasite.bris.ac.uk/Mediasite/Play/3cd46d621c9f412b83426dd5fbc25e021d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/IO.zip", "5", "1"],
-["15", "view by 07/12/20",   "QC Generator",                 "https://mediasite.bris.ac.uk/Mediasite/Play/d916544af76e4f20a1638fb20b6c96971d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/QC Generator.zip", "", ""],
+["9", "", "",                         "", "", "0", "0"],
+["0",  "watch before Tue",   "IO",                       "https://mediasite.bris.ac.uk/Mediasite/Play/3cd46d621c9f412b83426dd5fbc25e021d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/slides/IO.zip", "103", "1"],
+["15", "watch before Tue",   "QC Generator",                 "https://mediasite.bris.ac.uk/Mediasite/Play/d916544af76e4f20a1638fb20b6c96971d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/slides/QC Generator.zip", "", ""],
 //["15", "view by 7/12/20",   "IO",                 "", "", "", ""],
 //["15", "view by 7/12/20",   "QC Generator",                 "", "", "", ""],
 ["3", "18/11/21<br/>1pm-4pm<br/>MVB2.11", "Join Session Virtually",                       "", "", "76", "3"],
@@ -272,6 +272,8 @@ var files = [
 [  "101", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/HO.hs", "HO.hs"],
 [  "102", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/BinaryTrees.hs", "BinaryTrees.hs"],
 [  "102", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/BinaryTrees.hs", "BinaryTrees.hs"],
+[  "103", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/ExampleIO.hs", "ExampleIO.hs"],
+[  "103", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/ExampleIO.hs", "ExampleIO.hs"],
 
 
 // file list from last year:
