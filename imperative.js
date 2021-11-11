@@ -26,7 +26,7 @@ var categories = [
 ["4", "Optional Exercises",  "#D8CCFF","1","",          "Sample Solutions",],
 ["5", "PrepTask",            "#DDDDDD","1","",          "",              ],
 ["6", "Formative Coursework","#EEEEDD","1","",          "Materials",     ],
-["7", "Individual Summative Coursework","#EEEEDD","1","",          "",     ],
+["7", "Individual Summative Coursework","#EEEECC","1","",          "",     ],
 ["8",  "",                   "#EEEEDD","0","",          "",              ], // multi-week coursework
 ["9",  "",                   "#CCCCCC","0","",          "",              ], // empty slot
 ["10", "",                   "#CCCCCC","0","",          "",              ], // multi-week empty
