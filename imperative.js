@@ -102,7 +102,7 @@ var activities = [
 ["18", "Online on Teams", "TA Help Slots:<br/>29/10/21|2-3<br/>01-05/11/21|10-12",  "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/teamslink.html", "", "0", "0"],
 ["10", "",                  "",        "", ""],
 ["10", "",                  "",        "", ""],
-["8", "Submission Deadline:<br/>Fri 12/11/21<br/>01:00pm UK time",                   "",        "", ""],
+["8", "<a href='https://www.ole.bris.ac.uk/webapps/assignment/uploadAssignment?content_id=_6168668_1&course_id=_247722_1' target='_blank'>Submission Deadline:<br/>Fri 12/11/21<br/>01:00pm UK time<\a>",                   "",        "", ""],
  
 //WEEK 07 - TREES AND SORTING
 ["16", "Tue 09/11/21<br/>03:00pm<br/>CHEM LT1", "TREES &amp; SORTING",  "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/tuesday.html", "", "0", "0"],
