@@ -124,6 +124,15 @@ var activities = [
 ["10", "",                  "",        "", ""],
 ["6", "during weekly labs", "TEXT CHALLENGE", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/week08/index.html", "", "96", "4"],
 
+//WEEK 09 - WORKING WITH POINTERS
+["9","",                   "",        "", ""],
+["9","",                   "",        "", ""],
+["10","",                   "",        "", ""],
+["9", "",                   "",        "", ""],
+["10","",                   "",        "", ""],
+["10", "",                  "",        "", ""],
+["10", "",                  "",        "", ""],
+["10","",                   "",        "", ""],
  
 //WEEK 05 - WORKING WITH POINTERS
 ["1", "02/11/20 | 04:00pm", "STRINGS &amp; POINTERS",          "", "imperative/week05/COMS10016_StringsPointers.pdf", "61", "4"],
