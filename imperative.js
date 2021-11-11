@@ -115,12 +115,12 @@ var activities = [
 ["3", "Wed 10/11/21<br/>10am-1pm<br/>MVB2.11", "LIST ASSIGNMENT", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/wednesday.html", "", "0", "0"],
  
 //WEEK 08 - FUNCTION POINTERS AND I/O
-["9","",                   "",        "", ""],
-["0", "watch before Tue<br/>21min",   "FUNCTION POINTERS",               "https://mediasite.bris.ac.uk/Mediasite/Play/434d2a8c7d8940c5ada2244ed17243bb1d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_18.pdf", "101", "3"],
+["16", "Tue 16/11/21<br/>03:00pm<br/>CHEM LT1", "FUNCTION POINTERS &amp; STREMAS",  "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/tuesday.html", "", "0", "0"],
+["0", "watch before Tue<br/>29min",   "FUNCTION POINTERS",               "https://mediasite.bris.ac.uk/Mediasite/Play/434d2a8c7d8940c5ada2244ed17243bb1d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_18.pdf", "101", "3"],
 ["10", "",                  "",        "", ""],
 ["9","",                   "",        "", ""],
-["10", "",                  "",        "", ""],
-["0", "watch before Tue<br/>21min",   "INPUT &amp; OUTPUT",              "https://mediasite.bris.ac.uk/Mediasite/Play/5d0479bdadf5499a8c252f4911f5883f1d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_19.pdf", "121", "9"],
+["4", "in your own time",   "BUBBLE SORT",                     "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_Task06.pdf", "", "95", "1"],
+["0", "watch before Tue<br/>38min",   "INPUT &amp; OUTPUT",              "https://mediasite.bris.ac.uk/Mediasite/Play/5d0479bdadf5499a8c252f4911f5883f1d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_19.pdf", "121", "9"],
 ["10", "",                  "",        "", ""],
 ["10", "",                  "",        "", ""],
  
