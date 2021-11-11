@@ -105,7 +105,7 @@ var activities = [
 ["8", "<a href='https://www.ole.bris.ac.uk/webapps/assignment/uploadAssignment?content_id=_6168668_1&course_id=_247722_1' target='_blank'>SUBMIT HERE (Blackboard)<hr/>Submission Deadline:<br/>Fri 12/11/21<br/>01:00pm UK time<\a>",                   "",        "", ""],
  
 //WEEK 07 - TREES AND SORTING
-["16", "Tue 09/11/21<br/>03:00pm<br/>CHEM LT1", "TREES &amp; SORTING",  "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/tuesday.html", "", "0", "0"],
+["1", "Tue 09/11/21<br/>03:00pm<br/>CHEM LT1", "TREES &amp; SORTING",  "https://web.microsoftstream.com/video/bb088247-9fae-4e58-b5df-9dd1131d4678", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_Week07.pdf", "163", "1"],
 ["0", "watch before Tue<br/>33min",   "TREES",                          "https://mediasite.bris.ac.uk/Mediasite/Play/ba910510d107433b8ef0b94b1e92d2d81d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_16.pdf", "94", "1"],
 ["15","",                   "",        "", ""],
 ["8", "",                   "",        "", ""],
@@ -372,4 +372,5 @@ var files = [
 [ "159","https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_Week03f.pdf", "Functional Slides"],
 [ "160","https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_Week04f.pdf", "Functional Slides"],
 [ "161","https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_Week05f.pdf", "Functional Slides"],
+[ "162","https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_Week07f.pdf", "Functional Slides"],
 ];
