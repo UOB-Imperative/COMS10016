@@ -147,7 +147,7 @@ var activities = [
 ["9",  "",                   "",                            "", "", "0", "1"],
 ["9",  "",                   "",                            "", "", "0", "1"],
 ["9",  "",                   "",                            "", "", "0", "1"],
-["9",  "",                   "",                            "", "", "0", "1"], //TODO tetris
+["17",  "(optional)",        "Tetris",                      "", "", "110", "6"],
 //WEEK 12
 ["9",  "",                   "",                            "", "", "0", "1"],
 ["9",  "",                   "",                            "", "", "0", "1"],
@@ -271,6 +271,12 @@ var files = [
 [  "107", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/HO.hs", "HO.hs"],
 [  "108", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/BinaryTrees.hs", "BinaryTrees.hs"],
 [  "109", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/ExampleIO.hs", "ExampleIO.hs"],
+[  "110", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Practicals/Tetris/CodeWorldGUI.hs", "CodeWorldGUI.hs"],
+[  "111", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Practicals/Tetris/ConsoleGUI.hs", "ConsoleGUI.hs"],
+[  "112", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Practicals/Tetris/GameInterface.hs", "GameInterface.hs"],
+[  "113", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Practicals/Tetris/Shapes.hs", "Shapes.hs"],
+[  "114", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Practicals/Tetris/Tetris.hs ", "Tetris.hs"],
+[  "115", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Practicals/Tetris/TetrisInstrs.pdf", "TetrisInstrs.pdf"],
 
 
 // file list from last year:
