@@ -123,18 +123,18 @@ var activities = [
 ["17", "(optional)",        "Blackjack",                          "", "", "81", "3"],
 //WEEK 09
 ["14", "07/12/20 | 04:30pm", "Q&A",                         "", "", "0", "0"],
-["18", "view by 14/12/20","Trees","https://mediasite.bris.ac.uk/Mediasite/Play/b3fcbbfaf52a4ea0a850d131b088c8ac1d", "", "69",  "1"],
-["18", "view by 14/12/20","Words in a Novel","https://mediasite.bris.ac.uk/Mediasite/Play/3ac8c04df60b443597c1d82eebfbf8d91d", "", "70",  "1"],
-["3", "25/11/21<br/>1pm-4pm<br/>MVB2.11", "Join Session Virtually",                     "", "", "85", "3"],
+["9", "",                   "",                                "", "", "0",  "1"],// TODO(James): upload videos
 ["9", "",                   "",                                "", "", "0",  "1"],
-["18", "view by 14/12/20","Arithmetical Expressions","https://mediasite.bris.ac.uk/Mediasite/Play/07d9b659879b4d7289eb13130f68b4191d", "", "71",  "1"],
+["3", "25/11/21<br/>1pm-4pm<br/>MVB2.11", "Join Session Virtually",                     "", "", "0", "0"], // TODO(James): upload sheet
+["9", "",                   "",                                "", "", "0",  "1"],
+["9", "",                   "",                                "", "", "0",  "1"],
 ["9", "",                   "",                                "", "", "0",  "1"],
 ["20", "(optional)",        "Data.Map and Tries",              "", "", "90", "3"],
 //WEEK 10
 ["14", "14/12/20 | 04:30pm", "Q&A",                         "", "", "0", "0"],
-["18", "",                   "Reasoning about Programs I", "https://mediasite.bris.ac.uk/Mediasite/Play/dd2ddc538cdd411aac7c91aea80a13291d", "", "72", "1"],
-["18", "",                   "Reasoning about Programs II", "https://mediasite.bris.ac.uk/Mediasite/Play/d0025ea23ae14c22ac01c4b0b76f1b241d", "", "73", "1"],
-["3", "02/12/21<br/>1pm-4pm<br/>MVB2.11", "Join Session Virtually",                     "", "", "0", "0"], // TODO waiting on sheet from James
+["9", "",                   "",                                "", "", "0",  "1"],// TODO(Sam): upload videos
+["9", "",                   "",                                "", "", "0",  "1"],
+["3", "02/12/21<br/>1pm-4pm<br/>MVB2.11", "Join Session Virtually",                     "", "", "0", "0"], // TODO(James): upload sheet
 ["19", "", "Sample exam questions",                         "", "", "74", "2"],
 ["9", "",                   "",                                "", "", "0", "1"],
 ["9", "",                   "",                                "", "", "0", "1"],
@@ -143,7 +143,7 @@ var activities = [
 ["9",  "",                   "",                            "", "", "0", "1"],
 ["9",  "",                   "",                            "", "", "0", "1"],
 ["9",  "",                   "",                            "", "", "0", "1"],
-["3",  "09/12/21<br/>1pm-4pm<br/>MVB2.11", "Join Session Virtually",                    "", "", "0", "0"], // TODO waiting on sheet from Sam
+["3",  "09/12/21<br/>1pm-4pm<br/>MVB2.11", "Join Session Virtually",                    "", "", "0", "0"],
 ["9",  "",                   "",                            "", "", "0", "1"],
 ["9",  "",                   "",                            "", "", "0", "1"],
 ["9",  "",                   "",                            "", "", "0", "1"],
@@ -152,7 +152,7 @@ var activities = [
 ["9",  "",                   "",                            "", "", "0", "1"],
 ["9",  "",                   "",                            "", "", "0", "1"],
 ["9",  "",                   "",                            "", "", "0", "1"],
-["3",  "16/12/21<br/>1pm-4pm<br/>MVB2.11", "Join Session Virtually",                    "", "", "0", "0"], // TODO waiting on sheet from W
+["3",  "16/12/21<br/>1pm-4pm<br/>MVB2.11", "Join Session Virtually",                    "", "", "0", "0"],
 ["9",  "",                   "",                            "", "", "0", "1"],
 ["9",  "",                   "",                            "", "", "0", "1"],
 ["9",  "",                   "",                            "", "", "0", "1"],
@@ -231,6 +231,7 @@ var files = [
 [  "67", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Notes/copro.pdf", "How to Design \"Co\"-Programs"],
 [  "68", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Notes/PreludeFunctionsCheatsheet.pdf", "Functions Cheatsheet"],
 [  "69", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Notes/Monoids.pdf", "Monoids"],
+[  "70", ".", ""], // it got upset i missed numbers
 [  "71", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Sheets/sheetBonus2.pdf", "Bonus Sheet Two"],
 [  "72", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Sheets/sheetBonus2Dyslexic.pdf", "Bonus Sheet Two (Dyslexic Friendly)"],
 [  "73", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Sheets/codeBonus2.hs", "Bonus Code Two"],
