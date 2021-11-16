@@ -86,10 +86,10 @@ var activities = [
 //WEEK 05
 ["9", "", "",                         "", "", "0", "0"],
 ["15", "watch before Tue",   "HO function",                 "https://mediasite.bris.ac.uk/Mediasite/Play/fcbf2a224b344ccf9a6a31629ee699741d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/slides/HO function.zip", "", ""],
-["0",  "watch before Tue",   "foldr",                       "https://mediasite.bris.ac.uk/Mediasite/Play/02ba4aefcd214153bbfc9840f7776c871d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/slides/foldr.zip", "101", "1"],
+["0",  "watch before Tue",   "foldr",                       "https://mediasite.bris.ac.uk/Mediasite/Play/02ba4aefcd214153bbfc9840f7776c871d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/slides/foldr.zip", "107", "1"],
 ["3",  "28/10/21<br/>1pm-4pm<br/>MVB2.11", "Join Session Virtually", "", "", "41", "5"],
 ["9",  "",                   "",                            "", "", "0", "1"],
-["0",  "watch before Tue",   "More HO functions",           "https://mediasite.bris.ac.uk/Mediasite/Play/919dfd46f7bb4812856b31e803608ebe1d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/slides/more HO functions.zip", "101", "1"],
+["0",  "watch before Tue",   "More HO functions",           "https://mediasite.bris.ac.uk/Mediasite/Play/919dfd46f7bb4812856b31e803608ebe1d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/slides/more HO functions.zip", "107", "1"],
 ["13", "in your own time",   "",                            "", "", "46", "5"],
 ["17", "(optional)",         "Sudoku", "", "", "51", "5"],
 //WEEK 06 - reading week
@@ -112,7 +112,7 @@ var activities = [
 ["20", "(optional)",        "Monoids",                     "", "", "69", "4"],
 //WEEK 08
 ["9", "", "",                         "", "", "0", "0"],
-["0",  "watch before Tue",   "IO",                       "https://mediasite.bris.ac.uk/Mediasite/Play/3cd46d621c9f412b83426dd5fbc25e021d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/slides/IO.zip", "105", "1"],
+["0",  "watch before Tue",   "IO",                       "https://mediasite.bris.ac.uk/Mediasite/Play/3cd46d621c9f412b83426dd5fbc25e021d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/slides/IO.zip", "109", "1"],
 ["15", "watch before Tue",   "QC Generator",                 "https://mediasite.bris.ac.uk/Mediasite/Play/d916544af76e4f20a1638fb20b6c96971d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/slides/QC Generator.zip", "", ""],
 //["15", "view by 7/12/20",   "IO",                 "", "", "", ""],
 //["15", "view by 7/12/20",   "QC Generator",                 "", "", "", ""],
