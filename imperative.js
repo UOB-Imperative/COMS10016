@@ -126,23 +126,24 @@ var activities = [
 
 //WEEK 09 - WORKING WITH POINTERS
 ["9","",                   "",        "", ""],
-["9","",                   "",        "", ""],
+["0", "watch before Tue<br/>38min",   "MODULES",  "https://mediasite.bris.ac.uk/Mediasite/Play/2b6abb9643bb40d5a6b4b0b1e42deef11d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_20.pdf", "113", "8"],
 ["10","",                   "",        "", ""],
 ["9", "",                   "",        "", ""],
 ["10","",                   "",        "", ""],
-["10", "",                  "",        "", ""],
+["0", "watch before Tue<br/>38min",   "PREPROCESSOR", "https://mediasite.bris.ac.uk/Mediasite/Play/554d0dcf701a44eca46968749456ee851d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_21.pdf", "112", "1"],
 ["10", "",                  "",        "", ""],
 ["10","",                   "",        "", ""],
 
 //WEEK 10 - DEVELOPMENT, DESIGN AND GRAPHICS
 ["9","",                   "",        "", ""],
-["9","",                   "",        "", ""],
+["0", "watch before Tue<br/>38min",   "DESIGN", "https://mediasite.bris.ac.uk/Mediasite/Play/f205eea1d0014aa286f0bf98d613ee5f1d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_22.pdf", "112", "1"],
 ["10","",                   "",        "", ""],
 ["9", "",                   "",        "", ""],
 ["10","",                   "",        "", ""],
-["10", "",                  "",        "", ""],
+["0", "watch before Tue<br/>38min", "LIBRARIES", "https://mediasite.bris.ac.uk/Mediasite/Play/3d51c01de15c41ad8a6492b99775bb981d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_23.pdf", "108", "3"],
 ["10", "",                  "",        "", ""],
 ["10","",                   "",        "", ""],
+ 
 //WEEK 05 - WORKING WITH POINTERS
 ["1", "02/11/20 | 04:00pm", "STRINGS &amp; POINTERS",          "", "imperative/week05/COMS10016_StringsPointers.pdf", "61", "4"],
 ["0", "in your own time",   "BITS",                            "https://mediasite.bris.ac.uk/Mediasite/Play/a3533af3bc4e4fc0906e5ca4f2133dcf1d", "imperative/COMS10016_10.pdf", "56", "1"],
