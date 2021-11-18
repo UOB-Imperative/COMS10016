@@ -122,27 +122,27 @@ var activities = [
 ["4", "in your own time",   "BUBBLE SORT",                     "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_Task06.pdf", "", "95", "1"],
 ["0", "watch before Tue<br/>38min",   "INPUT &amp; OUTPUT",              "https://mediasite.bris.ac.uk/Mediasite/Play/5d0479bdadf5499a8c252f4911f5883f1d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_19.pdf", "121", "9"],
 ["10", "",                  "",        "", ""],
-["6", "during weekly labs", "TEXT CHALLENGE", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/week08/index.html", "", "96", "4"],
+["6", "during weekly labs", "TEXT CHALLENGE<br/><a target='_blank' href='https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/week08/sample/text.c'>(Text Sample Solution)</a><br/><a target='_blank' href='https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/week08/sample/bits.c'>(Bits Sample Solution)</a>", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/week08/index.html", "", "96", "4"],
 
 //WEEK 09 - WORKING WITH POINTERS
-["9","",                   "",        "", ""],
-["0", "watch before Tue<br/>38min",   "MODULES",  "https://mediasite.bris.ac.uk/Mediasite/Play/2b6abb9643bb40d5a6b4b0b1e42deef11d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_20.pdf", "113", "8"],
+["16", "Tue 23/11/21<br/>03:00pm<br/>CHEM LT1", "MULTI-MODULE PROGRAMS",  "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/tuesday.html", "", "0", "0"],
+["0", "watch before Tue<br/>19min",   "MODULES",  "https://mediasite.bris.ac.uk/Mediasite/Play/2b6abb9643bb40d5a6b4b0b1e42deef11d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_20.pdf", "113", "8"],
 ["10","",                   "",        "", ""],
-["9", "",                   "",        "", ""],
+["3", "Wed 24/11/21<br/>10am-1pm<br/>MVB2.11", "GRAPHICS CHALLENGE", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/wednesday.html", "", "0", "0"],
 ["10","",                   "",        "", ""],
-["0", "watch before Tue<br/>38min",   "PREPROCESSOR", "https://mediasite.bris.ac.uk/Mediasite/Play/554d0dcf701a44eca46968749456ee851d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_21.pdf", "112", "1"],
+["0", "watch before Tue<br/>20min",   "PREPROCESSOR", "https://mediasite.bris.ac.uk/Mediasite/Play/554d0dcf701a44eca46968749456ee851d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_21.pdf", "112", "1"],
 ["10", "",                  "",        "", ""],
-["10","",                   "",        "", ""],
+["6", "during weekly labs and in your own time", "GRAPHICS CHALLENGE", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/week09/index.html", "", "107", "6"],
 
 //WEEK 10 - DEVELOPMENT, DESIGN AND GRAPHICS
-["9","",                   "",        "", ""],
-["0", "watch before Tue<br/>38min",   "DESIGN", "https://mediasite.bris.ac.uk/Mediasite/Play/f205eea1d0014aa286f0bf98d613ee5f1d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_22.pdf", "112", "1"],
+["16", "Tue 30/11/21<br/>03:00pm<br/>CHEM LT1", "DESIGN &amp; GRAPHICS",  "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/tuesday.html", "", "0", "0"],
+["0", "watch before Tue<br/>26min",   "DESIGN", "https://mediasite.bris.ac.uk/Mediasite/Play/f205eea1d0014aa286f0bf98d613ee5f1d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_22.pdf", "112", "1"],
 ["10","",                   "",        "", ""],
 ["9", "",                   "",        "", ""],
-["10","",                   "",        "", ""],
-["0", "watch before Tue<br/>38min", "LIBRARIES", "https://mediasite.bris.ac.uk/Mediasite/Play/3d51c01de15c41ad8a6492b99775bb981d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_23.pdf", "108", "3"],
+["3", "Wed 31/12/21<br/>10am-1pm<br/>MVB2.11", "ASSIGNMENT SUPPORT LAB", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/wednesday.html", "", "0", "0"],
+["0", "watch before Tue<br/>16min", "LIBRARIES", "https://mediasite.bris.ac.uk/Mediasite/Play/3d51c01de15c41ad8a6492b99775bb981d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_23.pdf", "108", "3"],
 ["10", "",                  "",        "", ""],
-["10","",                   "",        "", ""],
+["7", "in your own time and during labs", "SECOND ASSIGNMENT<hr/>", "", "", "0", "0"],
  
 //WEEK 05 - WORKING WITH POINTERS
 ["1", "02/11/20 | 04:00pm", "STRINGS &amp; POINTERS",          "", "imperative/week05/COMS10016_StringsPointers.pdf", "61", "4"],
