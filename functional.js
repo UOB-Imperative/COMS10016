@@ -1,5 +1,5 @@
 //LAYOUT CUSTOMIZATION
-var currentWeek   = 8;                        // current week [releases content fully visible up to this week]
+var currentWeek   = 9;                        // current week [releases content fully visible up to this week]
 var activityNum   = 8;                         // number of activities per week (empty slots possible)
 var columnNum     = 4;                         // desired columns per week (yet, autofitted to max 2 rows per week)
 var title         = "FUNCTIONAL PROGRAMMING";  // content title (different to unitName since multiple content streams maybe in one unit)
@@ -105,11 +105,11 @@ var activities = [
 ["9", "", "",                         "", "", "0", "0"],
 ["15", "watch before Tue",   "Design w. HO functions",                 "https://mediasite.bris.ac.uk/Mediasite/Play/2a7c3b77e49b4f24b61a707fca1d53e91d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/slides/design w HO.zip", "", ""],
 ["15", "watch before Tue",   "Type classes",                 "https://mediasite.bris.ac.uk/Mediasite/Play/b56703cfd8484e3e9d36e1980515da711d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/slides/type classes.zip", "", ""],
-["3", "11/11/21 (Remembrance Day)<br/>1pm-4pm<br/>MVB2.11", "Join Session Virtually",                  "", "", "56", "3"],
+["3", "11/11/21 (Remembrance Day)<br/>1pm-4pm<br/>MVB2.11", "Join Session Virtually",                  "", "", "56", "5"],
 ["9", "",                   "",                            "", "", "0",  "1"],
 ["18", "view before Tue","Trees","https://mediasite.bris.ac.uk/Mediasite/Play/b3fcbbfaf52a4ea0a850d131b088c8ac1d", "", "107",  "3"],
 ["13", "in your own time",  "",                            "", "", "66", "3"],
-["20", "(optional)",        "Monoids",                     "", "", "69", "4"],
+["20", "(optional)",        "Monoids",                     "", "", "70", "6"],
 //WEEK 08
 ["9", "", "",                         "", "", "0", "0"],
 ["0",  "watch before Tue",   "IO",                       "https://mediasite.bris.ac.uk/Mediasite/Play/3cd46d621c9f412b83426dd5fbc25e021d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/slides/IO.zip", "109", "1"],
@@ -230,8 +230,8 @@ var files = [
 [  "66", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Notes/FunctionRecipe.pdf", "Recipe for Writing Functions"],
 [  "67", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Notes/copro.pdf", "How to Design \"Co\"-Programs"],
 [  "68", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Notes/PreludeFunctionsCheatsheet.pdf", "Functions Cheatsheet"],
-[  "69", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Notes/Monoids.pdf", "Monoids"],
-[  "70", ".", ""], // it got upset i missed numbers
+[  "79", ".", ""], // it got upset i missed numbers
+[  "70", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Notes/Monoids.pdf", "Monoids"],
 [  "71", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Sheets/sheetBonus2.pdf", "Bonus Sheet Two"],
 [  "72", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Sheets/sheetBonus2Dyslexic.pdf", "Bonus Sheet Two (Dyslexic Friendly)"],
 [  "73", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Sheets/codeBonus2.hs", "Bonus Code Two"],
