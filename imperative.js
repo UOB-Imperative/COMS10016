@@ -142,7 +142,7 @@ var activities = [
 ["10","",                   "",        "", ""],
 ["0", "watch before Tue<br/>16min", "LIBRARIES", "https://mediasite.bris.ac.uk/Mediasite/Play/3d51c01de15c41ad8a6492b99775bb981d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_23.pdf", "108", "3"],
 ["10", "",                  "",        "", ""],
-["7", "in your own time and during labs", "SECOND ASSIGNMENT<hr/>", "", "", "0", "0"],
+["7", "Release: 25/11/21<br/> Deadline: 10/12/21-1pm", "", "", "", "0", "0"],
  
 //WEEK 05 - WORKING WITH POINTERS
 ["1", "02/11/20 | 04:00pm", "STRINGS &amp; POINTERS",          "", "imperative/week05/COMS10016_StringsPointers.pdf", "61", "4"],
