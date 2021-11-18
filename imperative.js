@@ -133,7 +133,16 @@ var activities = [
 ["10", "",                  "",        "", ""],
 ["10", "",                  "",        "", ""],
 ["10","",                   "",        "", ""],
- 
+
+//WEEK 10 - DEVELOPMENT, DESIGN AND GRAPHICS
+["9","",                   "",        "", ""],
+["9","",                   "",        "", ""],
+["10","",                   "",        "", ""],
+["9", "",                   "",        "", ""],
+["10","",                   "",        "", ""],
+["10", "",                  "",        "", ""],
+["10", "",                  "",        "", ""],
+["10","",                   "",        "", ""],
 //WEEK 05 - WORKING WITH POINTERS
 ["1", "02/11/20 | 04:00pm", "STRINGS &amp; POINTERS",          "", "imperative/week05/COMS10016_StringsPointers.pdf", "61", "4"],
 ["0", "in your own time",   "BITS",                            "https://mediasite.bris.ac.uk/Mediasite/Play/a3533af3bc4e4fc0906e5ca4f2133dcf1d", "imperative/COMS10016_10.pdf", "56", "1"],
