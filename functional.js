@@ -123,9 +123,8 @@ var activities = [
 ["17", "(optional)",        "Blackjack",                          "", "", "81", "4"],
 //WEEK 09
 ["9", "", "",                         "", "", "0", "0"],
-// ["9", "",                   "",                                "", "", "0",  "1"],// TODO(James): upload videos
 ["18", "watch before Tue","Functors","https://web.microsoftstream.com/video/73561218-e307-44d2-9b2e-dbffed287f9d", "", "116",  "1"],
-["9", "",                   "",                                "", "", "0",  "1"],
+["18", "watch before Tue","Applicatives","https://web.microsoftstream.com/video/d613cc29-e391-401f-af4c-ad6c5c86d541", "", "116",  "2"],
 ["3", "25/11/21<br/>1pm-4pm<br/>MVB2.11", "Join Session Virtually",                     "", "", "0", "0"], // TODO(James): upload sheet
 ["9", "",                   "",                                "", "", "0",  "1"],
 ["9", "",                   "",                                "", "", "0",  "1"],
