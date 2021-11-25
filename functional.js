@@ -135,7 +135,7 @@ var activities = [
 ["9", "",                   "",                                "", "", "0",  "1"],// TODO(Sam): upload videos
 ["9", "",                   "",                                "", "", "0",  "1"],
 ["3", "02/12/21<br/>1pm-4pm<br/>MVB2.11", "Join Session Virtually",                     "", "", "118", "3"], // TODO(sam): upload sheet
-["19", "", "Sample exam questions",                         "", "", "74", "2"],
+["9", "",                   "",                                "", "", "0",  "1"],
 ["9", "",                   "",                                "", "", "0", "1"],
 ["9", "",                   "",                                "", "", "0", "1"],
 ["17", "(optional)",        "Simplify",                  "", "", "95", "4"],
