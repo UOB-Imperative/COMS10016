@@ -116,7 +116,7 @@ var activities = [
 ["15", "watch before Tue",   "QC Generator",                 "https://mediasite.bris.ac.uk/Mediasite/Play/d916544af76e4f20a1638fb20b6c96971d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/slides/QC Generator.zip", "", ""],
 //["15", "view by 7/12/20",   "IO",                 "", "", "", ""],
 //["15", "view by 7/12/20",   "QC Generator",                 "", "", "", ""],
-["3", "18/11/21<br/>1pm-4pm<br/>MVB2.11", "Join Session Virtually",                       "", "", "76", "3"],
+["3", "18/11/21<br/>1pm-4pm<br/>MVB2.11", "Join Session Virtually",                       "", "", "76", "5"],
 ["9", "",                   "",                                "", "", "0",  "1"],
 ["9", "",                   "",                                "", "", "0",  "1"],
 ["9", "",                   "",                                "", "", "0",  "1"],
