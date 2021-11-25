@@ -134,7 +134,7 @@ var activities = [
 ["9", "", "",                         "", "", "0", "0"],
 ["9", "",                   "",                                "", "", "0",  "1"],// TODO(Sam): upload videos
 ["9", "",                   "",                                "", "", "0",  "1"],
-["3", "02/12/21<br/>1pm-4pm<br/>MVB2.11", "Join Session Virtually",                     "", "", "0", "0"], // TODO(sam): upload sheet
+["3", "02/12/21<br/>1pm-4pm<br/>MVB2.11", "Join Session Virtually",                     "", "", "118", "3"], // TODO(sam): upload sheet
 ["19", "", "Sample exam questions",                         "", "", "74", "2"],
 ["9", "",                   "",                                "", "", "0", "1"],
 ["9", "",                   "",                                "", "", "0", "1"],
@@ -279,6 +279,12 @@ var files = [
 [  "115", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Practicals/Tetris/TetrisInstrs.pdf", "TetrisInstrs.pdf"],
 [  "116", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Functors.hs", "Functors.hs"],
 [  "117", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Applicatives.hs", "Applicatives.hs"],
+[  "118", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Sheets/sheet08.pdf", "Sheet Eight"],
+[  "119", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Sheets/sheet08Dyslexic.pdf", "Sheet Eight (Dyslexic Friendly)"],
+[  "120", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Sheets/code08.hs", "Code Eight"],
+[  "121", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Sheets/answer08.pdf", "Sheet Eight - Example Solutions"],
+[  "122", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Sheets/answer08Dyslexic.pdf", "Sheet Eight - Example Solutions (Dyslexic Friendly)"],
+
 
 
 // file list from last year:
