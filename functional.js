@@ -41,6 +41,7 @@ var categories = [
 ["19", "Sample Exam questions",             "#CCCFFF","0","",    "Materials",     ],
 ["20", "Formative Sheet",       "#EEEEDD","1","",    "Materials",     ],
 ["21", "History",       "#EEEEDD","0","",    "Materials",     ],
+["22", "Lecture",            "#CCCFFF","0","Slides",    "",     ],
 ];
 
 var activities = [
@@ -133,14 +134,14 @@ var activities = [
 //WEEK 10
 ["9", "", "",                         "", "", "0", "0"],
 ["9", "",   "",       "", "", "0",  "1"],// TODO(James): upload video (Monads)
-["18", "watch before Tue",   "Embedding Part I", "https://web.microsoftstream.com/video/9acfe070-bfcb-4743-8479-1e305b16cb6c", "https://docs.google.com/presentation/d/10wf-nPV-66mhulP8Bb_1ElC--qIldsTeWfrpXqT4rWA/edit?usp=sharing", "123",  "1"],
+["22", "watch before Tue",   "Embedding Part I", "https://web.microsoftstream.com/video/9acfe070-bfcb-4743-8479-1e305b16cb6c", "https://docs.google.com/presentation/d/10wf-nPV-66mhulP8Bb_1ElC--qIldsTeWfrpXqT4rWA/edit?usp=sharing", "123",  "1"],
 ["3", "02/12/21<br/>1pm-4pm<br/>MVB2.11", "Join Session Virtually",                     "", "", "118", "3"],
 ["9", "",                   "",                                "", "", "0",  "1"],
 ["9", "",                   "",                                "", "", "0", "1"],
 ["9", "",                   "",                                "", "", "0", "1"],
 ["17", "(optional)",        "Simplify",                  "", "", "95", "4"],
 //WEEK 11
-["18",  "watch before Tue",  "Embedding Part II",            "", "https://docs.google.com/presentation/d/1uZM44OzxS3u0MjMnPLsp8kKUxtiBFGW1J2p84zxDQ_Y/edit?usp=sharing", "124", "1"],// TODO(Sam): upload video
+["22",  "watch before Tue",  "Embedding Part II",            "", "https://docs.google.com/presentation/d/1uZM44OzxS3u0MjMnPLsp8kKUxtiBFGW1J2p84zxDQ_Y/edit?usp=sharing", "124", "1"],// TODO(Sam): upload video
 ["9",  "",                   "",                            "", "", "0", "1"],// TODO(Meng): upload video (josef)
 ["9",  "",                   "",                            "", "", "0", "1"],
 ["3",  "09/12/21<br/>1pm-4pm<br/>MVB2.11", "Join Session Virtually",                    "", "", "0", "0"],  // TODO(James): upload Monad sheet
