@@ -133,7 +133,7 @@ var activities = [
 ["20", "(optional)",        "Data.Map and Tries",              "", "", "90", "3"],
 //WEEK 10
 ["9", "", "",                         "", "", "0", "0"],
-["9", "",   "",       "", "", "0",  "1"],// TODO(James): upload video (Monads)
+["22", "watch before Tue","Monads","https://web.microsoftstream.com/video/728e6fb3-907d-4bc1-8259-77386009a481", "https://quizizz.com/join/lesson/61a1077bf56186001dc1301e/start", "125",  "1"],
 ["22", "watch before Tue",   "Embedding Part I", "https://web.microsoftstream.com/video/9acfe070-bfcb-4743-8479-1e305b16cb6c", "https://docs.google.com/presentation/d/10wf-nPV-66mhulP8Bb_1ElC--qIldsTeWfrpXqT4rWA/edit?usp=sharing", "123",  "1"],
 ["3", "02/12/21<br/>1pm-4pm<br/>MVB2.11", "Join Session Virtually",                     "", "", "118", "3"],
 ["9", "",                   "",                                "", "", "0",  "1"],
@@ -287,6 +287,7 @@ var files = [
 [  "122", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Sheets/answer08Dyslexic.pdf", "Sheet Eight - Example Solutions (Dyslexic Friendly)"],
 [  "123", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/EmbeddingPartI.hs", "EmbeddingPartI.hs"],
 [  "124", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/EmbeddingPartII.hs", "EmbeddingPartII.hs"],
+[  "125", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Monads.hs", "Monads.hs"],
 
 
 
