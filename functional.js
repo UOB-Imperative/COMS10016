@@ -143,7 +143,7 @@ var activities = [
 ["9", "",                   "",                                "", "", "0", "1"],
 ["17", "(optional)",        "Simplify",                  "", "", "95", "4"],
 //WEEK 11
-["22",  "watch before Tue",  "Embedding Part II",            "", "https://docs.google.com/presentation/d/1uZM44OzxS3u0MjMnPLsp8kKUxtiBFGW1J2p84zxDQ_Y/edit?usp=sharing", "124", "1"],// TODO(Sam): upload video
+["22",  "watch before Tue",  "Embedding Part II",            "https://web.microsoftstream.com/video/85b52444-fbe7-4f67-a7e2-b9083f2690a6", "https://docs.google.com/presentation/d/1uZM44OzxS3u0MjMnPLsp8kKUxtiBFGW1J2p84zxDQ_Y/edit?usp=sharing", "124", "1"],
 ["9",  "",                   "",                            "", "", "0", "1"],// TODO(Meng): upload video (josef)
 ["9",  "",                   "",                            "", "", "0", "1"],
 ["9",  "",                   "",                            "", "", "0", "1"],
