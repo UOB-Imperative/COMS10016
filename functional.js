@@ -109,7 +109,7 @@ var activities = [
 ["3", "11/11/21 (Remembrance Day)<br/>1pm-4pm<br/>MVB2.11", "Join Session Virtually",                  "", "", "56", "5"],
 ["9", "",                   "",                            "", "", "0",  "1"],
 ["18", "view before Tue","Trees","https://mediasite.bris.ac.uk/Mediasite/Play/b3fcbbfaf52a4ea0a850d131b088c8ac1d", "", "107",  "3"],
-["13", "in your own time",  "",                            "", "", "66", "3"],
+["13", "in your own time",  "",                            "", "", "66", "4"],
 ["20", "(optional)",        "Monoids",                     "", "", "70", "6"],
 //WEEK 08
 ["9", "", "",                         "", "", "0", "0"],
@@ -235,7 +235,7 @@ var files = [
 [  "66", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Notes/FunctionRecipe.pdf", "Recipe for Writing Functions"],
 [  "67", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Notes/copro.pdf", "How to Design \"Co\"-Programs"],
 [  "68", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Notes/PreludeFunctionsCheatsheet.pdf", "Functions Cheatsheet"],
-[  "79", ".", ""], // it got upset i missed numbers
+[  "69", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Notes/TypeClasses.pdf", "Type Classes"],
 [  "70", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Notes/Monoids.pdf", "Monoids"],
 [  "71", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Sheets/sheetBonus2.pdf", "Bonus Sheet Two"],
 [  "72", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Sheets/sheetBonus2Dyslexic.pdf", "Bonus Sheet Two (Dyslexic Friendly)"],
