@@ -38,6 +38,7 @@ var categories = [
 ["16", "Live Session:",        "#DDE3FC","0","",    "",     ],
 ["17", "Optional Help Session:", "#DDE3FC","0","",    "",     ],
 ["18", "Optional Live Support:", "#DDDDDD","0","",    "",     ],
+["19", "Optional Content Slides",             "#CCCFFF","0","",    "",          ],
 ];
 
 //WEEKLY ACTIVITIES
@@ -143,6 +144,17 @@ var activities = [
 ["0", "watch before Tue<br/>16min", "LIBRARIES", "https://mediasite.bris.ac.uk/Mediasite/Play/3d51c01de15c41ad8a6492b99775bb981d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_23.pdf", "108", "3"],
 ["10", "",                  "",        "", ""],
 ["7", "in your own time and during labs", "SKETCH ASSIGNMENT<hr/>Submission Deadline:<br/>Fri 10/12/21<br/>01:00pm UK time", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/week10/index.html", "", "133", "19"],
+ 
+//WEEK 11 - ADVANCED CONCEPTS
+["16", "Tue 07/12/21<br/>03:00pm<br/>CHEM LT1", "ADVANCED CONCEPTS",  "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/tuesday.html", "", "0", "0"],
+["0", "watch before Tue<br/>35min", "ADVANCED CONCEPTS",           "https://mediasite.bris.ac.uk/Mediasite/Play/ff1c3ff560064ad0b8101bbe6cb2c90d1d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_24.pdf", "152", "7"],
+["10","",                   "",        "", ""],
+["3", "Wed 31/12/21<br/>10am-1pm<br/>MVB2.11", "ASSIGNMENT SUPPORT LAB", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/wednesday.html", "", "0", "0"],
+["10","",                   "",        "", ""],
+["19", "consider anytime", "CORRECTNESS", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_24.pdf", "", "0", "0"],
+["10", "",                  "",        "", ""],
+["7", "in your own time and during labs", "SKETCH ASSIGNMENT<hr/>Submission Deadline:<br/>Fri 10/12/21<br/>01:00pm UK time", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/week10/index.html", "", "133", "19"],
+ 
  
 //WEEK 05 - WORKING WITH POINTERS
 ["1", "02/11/20 | 04:00pm", "STRINGS &amp; POINTERS",          "", "imperative/week05/COMS10016_StringsPointers.pdf", "61", "4"],
@@ -386,7 +398,7 @@ var files = [
 [ "154","https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/asm.c",                       "asm.c"],
 [ "155","https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/signals.c",                   "signals.c"],
 [ "156","https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/catchsignal.c",               "catchsignal.c"],
-[ "157","imperative/volatile.c",                  "volatile.c"],
+[ "157","https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/volatile.c",                  "volatile.c"],
 [ "158","https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_Week02f.pdf", "Functional Slides"],
 [ "159","https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_Week03f.pdf", "Functional Slides"],
 [ "160","https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_Week04f.pdf", "Functional Slides"],
