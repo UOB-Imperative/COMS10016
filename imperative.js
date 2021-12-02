@@ -38,7 +38,7 @@ var categories = [
 ["16", "Live Session:",        "#DDE3FC","0","",    "",     ],
 ["17", "Optional Help Session:", "#DDE3FC","0","",    "",     ],
 ["18", "Optional Live Support:", "#DDDDDD","0","",    "",     ],
-["19", "Optional Content Slides",             "#CCCFFF","0","",    "",          ],
+["19", "Optional Content",             "#CCCFFF","0","",    "",          ],
 ];
 
 //WEEKLY ACTIVITIES
@@ -139,21 +139,21 @@ var activities = [
 ["16", "Tue 30/11/21<br/>03:00pm<br/>CHEM LT1", "DESIGN &amp; GRAPHICS",  "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/tuesday.html", "", "0", "0"],
 ["0", "watch before Tue<br/>26min",   "DESIGN", "https://mediasite.bris.ac.uk/Mediasite/Play/f205eea1d0014aa286f0bf98d613ee5f1d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_22.pdf", "112", "1"],
 ["10","",                   "",        "", ""],
-["3", "Wed 31/12/21<br/>10am-1pm<br/>MVB2.11", "ASSIGNMENT SUPPORT LAB", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/wednesday.html", "", "0", "0"],
+["3", "Wed 01/12/21<br/>10am-1pm<br/>MVB2.11", "ASSIGNMENT SUPPORT LAB", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/wednesday.html", "", "0", "0"],
 ["10","",                   "",        "", ""],
 ["0", "watch before Tue<br/>16min", "LIBRARIES", "https://mediasite.bris.ac.uk/Mediasite/Play/3d51c01de15c41ad8a6492b99775bb981d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_23.pdf", "108", "3"],
 ["10", "",                  "",        "", ""],
-["7", "in your own time and during labs", "SKETCH ASSIGNMENT<hr/>Submission Deadline:<br/>Fri 10/12/21<br/>01:00pm UK time", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/week10/index.html", "", "133", "19"],
+["7", "in your own time and during labs", "SKETCH ASSIGNMENT<hr/>", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/week10/index.html", "", "133", "19"],
  
 //WEEK 11 - ADVANCED CONCEPTS
-["16", "Tue 07/12/21<br/>03:00pm<br/>CHEM LT1", "ADVANCED CONCEPTS",  "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/tuesday.html", "", "0", "0"],
+["16", "Tue 07/12/21<br/>03:00pm<br/>CHEM LT1", "SUMMARY",  "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/tuesday.html", "", "0", "0"],
 ["0", "watch before Tue<br/>35min", "ADVANCED CONCEPTS",           "https://mediasite.bris.ac.uk/Mediasite/Play/ff1c3ff560064ad0b8101bbe6cb2c90d1d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_24.pdf", "152", "7"],
 ["10","",                   "",        "", ""],
-["3", "Wed 31/12/21<br/>10am-1pm<br/>MVB2.11", "ASSIGNMENT SUPPORT LAB", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/wednesday.html", "", "0", "0"],
+["8", "<a href='https://www.ole.bris.ac.uk/webapps/assignment/uploadAssignment?content_id=_6168669_1&course_id=_247722_1' target='_blank'>SUBMIT HERE (Blackboard)<hr/>Submission Deadline:<br/>Fri 10/12/21<br/>01:00pm UK time<\a>",                   "",        "", ""],
 ["10","",                   "",        "", ""],
-["19", "consider anytime", "CORRECTNESS", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_24.pdf", "", "0", "0"],
+["19", "consider anytime", "CORRECTNESS", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_25.pdf", "", "0", "0"],
 ["10", "",                  "",        "", ""],
-["7", "in your own time and during labs", "SKETCH ASSIGNMENT<hr/>Submission Deadline:<br/>Fri 10/12/21<br/>01:00pm UK time", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/week10/index.html", "", "133", "19"],
+["3", "Wed 08/12/21<br/>10am-1pm<br/>MVB2.11", "ASSIGNMENT SUPPORT LAB", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/wednesday.html", "", "0", "0"],
  
  
 //WEEK 05 - WORKING WITH POINTERS
