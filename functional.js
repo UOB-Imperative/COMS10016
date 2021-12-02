@@ -1,5 +1,5 @@
 //LAYOUT CUSTOMIZATION
-var currentWeek   = 10;                        // current week [releases content fully visible up to this week]
+var currentWeek   = 11;                        // current week [releases content fully visible up to this week]
 var activityNum   = 8;                         // number of activities per week (empty slots possible)
 var columnNum     = 4;                         // desired columns per week (yet, autofitted to max 2 rows per week)
 var title         = "FUNCTIONAL PROGRAMMING";  // content title (different to unitName since multiple content streams maybe in one unit)
@@ -144,7 +144,7 @@ var activities = [
 ["17", "(optional)",        "Simplify",                  "", "", "95", "4"],
 //WEEK 11
 ["22",  "watch before Tue",  "Embedding Part II",            "https://web.microsoftstream.com/video/85b52444-fbe7-4f67-a7e2-b9083f2690a6", "https://docs.google.com/presentation/d/1uZM44OzxS3u0MjMnPLsp8kKUxtiBFGW1J2p84zxDQ_Y/edit?usp=sharing", "124", "1"],
-["9",  "",                   "",                            "", "", "0", "1"],// TODO(Meng): upload video (josef)
+["22",  "watch before Tue",                   "Haskell at Facebook",                            "https://web.microsoftstream.com/video/17f0fbf7-461c-4cf1-937f-21e8407a137e?list=user&userId=11ae9db5-365e-4f65-9ce4-94bfea847835", "", "0", "1"],// TODO(Meng): upload video (josef)
 ["9",  "",                   "",                            "", "", "0", "1"],
 ["9",  "",                   "",                            "", "", "0", "1"],
 ["9",  "",                   "",                            "", "", "0", "1"],
