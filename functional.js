@@ -143,12 +143,10 @@ var activities = [
 ["9", "",                   "",                                "", "", "0", "1"],
 ["17", "(optional)",        "Simplify",                  "", "", "95", "4"],
 //WEEK 11
+["9",  "",                   "",                            "", "", "0", "1"],
 ["22",  "watch before Tue",  "Embedding Part II",            "https://web.microsoftstream.com/video/85b52444-fbe7-4f67-a7e2-b9083f2690a6", "https://docs.google.com/presentation/d/1uZM44OzxS3u0MjMnPLsp8kKUxtiBFGW1J2p84zxDQ_Y/edit?usp=sharing", "124", "1"],
 ["22",  "watch before Tue",                   "Haskell at Facebook",                            "https://web.microsoftstream.com/video/17f0fbf7-461c-4cf1-937f-21e8407a137e?list=user&userId=11ae9db5-365e-4f65-9ce4-94bfea847835", "", "0", "1"],// TODO(Meng): upload video (josef)
-["9",  "",                   "",                            "", "", "0", "1"],
-["9",  "",                   "",                            "", "", "0", "1"],
-["9",  "",                   "",                            "", "", "0", "1"],
-["3",  "09/12/21<br/>1pm-4pm<br/>MVB2.11", "Join Session Virtually",                    "", "", "123", "4"],
+["3",  "09/12/21<br/>1pm-4pm<br/>MVB2.11", "Join Session Virtually",                    "", "", "0", "0"],  // TODO(James): upload Monad sheet
 ["9",  "",                   "",                            "", "", "0", "1"],
 ["9",  "",                   "",                            "", "", "0", "1"],
 ["9",  "",                   "",                            "", "", "0", "1"],
