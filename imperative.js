@@ -149,7 +149,7 @@ var activities = [
 ["16", "Tue 07/12/21<br/>03:00pm<br/>CHEM LT1", "SUMMARY",  "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/tuesday.html", "", "0", "0"],
 ["0", "watch before Tue<br/>35min", "ADVANCED CONCEPTS",           "https://mediasite.bris.ac.uk/Mediasite/Play/ff1c3ff560064ad0b8101bbe6cb2c90d1d", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_24.pdf", "152", "7"],
 ["10","",                   "",        "", ""],
-["8", "<a href='https://www.ole.bris.ac.uk/webapps/assignment/uploadAssignment?content_id=_6168669_1&course_id=_247722_1' target='_blank'>SUBMIT HERE (Blackboard)<hr/>Submission Deadline:<br/>Fri 10/12/21<br/>01:00pm UK time<\a>",                   "",        "", ""],
+["8", "<a href='https://www.ole.bris.ac.uk/webapps/assignment/uploadAssignment?content_id=_6168669_1&course_id=_247722_1' target='_blank'>SUBMIT HERE (Blackboard)<hr/>Submission Deadline:<br/>Fri 10/12/21<br/>01:00pm UK time<\a>",                   "",        "0", "0"],
 ["10","",                   "",        "", ""],
 ["19", "consider anytime", "CORRECTNESS", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/COMS10016_25.pdf", "", "0", "0"],
 ["10", "",                  "",        "", ""],
