@@ -38,7 +38,7 @@ var categories = [
 ["16", "Live Session:",        "#DDE3FC","0","",    "",     ],
 ["17", "Optional Help Session:", "#DDE3FC","0","",    "",     ],
 ["18", "Optional Live Support:", "#DDDDDD","0","",    "",     ],
-["19", "Optional Content",             "#CCCFFF","0","",    "",          ],
+["19", "Extra Materials",    "#CCCFFF","0","",    "",          ],
 ];
 
 //WEEKLY ACTIVITIES
