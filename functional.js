@@ -288,12 +288,15 @@ var files = [
 [  "120", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Sheets/code08.hs", "Code Eight"],
 [  "121", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Sheets/answer08.pdf", "Sheet Eight - Example Solutions"],
 [  "122", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Sheets/answer08Dyslexic.pdf", "Sheet Eight - Example Solutions (Dyslexic Friendly)"],
-[  "123", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/MonadLawsChecker.hs", "MonadLawsChecker.hs"],
-[  "124", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Sheets/sheet0.pdf", "Sheet Nine"],
-[  "125", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Sheets/sheet09Dyslexic.pdf", "Sheet Nine (Dyslexic Friendly)"],
-[  "126", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Sheets/code09.hs", "Code Nine"],
-[  "127", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Sheets/answer09.pdf", "Sheet Nine - Example Solutions"],
-[  "128", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Sheets/answer09Dyslexic.pdf", "Sheet Nine - Example Solutions (Dyslexic Friendly)"],
+[  "123", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/EmbeddingPartI.hs", "EmbeddingPartI.hs"],
+[  "124", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/EmbeddingPartII.hs", "EmbeddingPartII.hs"],
+[  "125", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Monads.hs", "Monads.hs"],
+[  "126", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/MonadLawsChecker.hs", "MonadLawsChecker.hs"],
+[  "127", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Sheets/sheet09.pdf", "Sheet Nine"],
+[  "128", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Sheets/sheet09Dyslexic.pdf", "Sheet Nine (Dyslexic Friendly)"],
+[  "129", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Sheets/code09.hs", "Code Nine"],
+[  "130", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Sheets/answer09.pdf", "Sheet Nine - Example Solutions"],
+[  "131", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/Sheets/answer09Dyslexic.pdf", "Sheet Nine - Example Solutions (Dyslexic Friendly)"],
 
 
 
