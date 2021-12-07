@@ -1,5 +1,5 @@
 //LAYOUT CUSTOMIZATION
-var currentWeek   = 12;                        // current week [releases content fully visible up to this week]
+var currentWeek   = 11;                        // current week [releases content fully visible up to this week]
 var activityNum   = 8;                         // number of activities per week (empty slots possible)
 var columnNum     = 4;                         // desired columns per week (yet, autofitted to max 2 rows per week)
 var title         = "FUNCTIONAL PROGRAMMING";  // content title (different to unitName since multiple content streams maybe in one unit)
