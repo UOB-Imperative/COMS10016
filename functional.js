@@ -1,5 +1,5 @@
 //LAYOUT CUSTOMIZATION
-var currentWeek   = 11;                        // current week [releases content fully visible up to this week]
+var currentWeek   = 12;                        // current week [releases content fully visible up to this week]
 var activityNum   = 8;                         // number of activities per week (empty slots possible)
 var columnNum     = 4;                         // desired columns per week (yet, autofitted to max 2 rows per week)
 var title         = "FUNCTIONAL PROGRAMMING";  // content title (different to unitName since multiple content streams maybe in one unit)
@@ -154,9 +154,9 @@ var activities = [
 ["17",  "(optional)",        "Tetris",                      "", "", "110", "6"],
 //WEEK 12
 ["9",  "",                   "",                            "", "", "0", "1"],
+["0",  "",   "Exam preparation",                       "", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/slides/exam.zip", "0", "0"],
 ["9",  "",                   "",                            "", "", "0", "1"],
-["9",  "",                   "",                            "", "", "0", "1"],
-["3",  "16/12/21<br/>1pm-4pm<br/>MVB2.11", "Join Session Virtually",                    "", "", "0", "0"],
+["3",  "", "",                    "", "", "0", "0"],
 ["9",  "",                   "",                            "", "", "0", "1"],
 ["9",  "",                   "",                            "", "", "0", "1"],
 ["9",  "",                   "",                            "", "", "0", "1"],
