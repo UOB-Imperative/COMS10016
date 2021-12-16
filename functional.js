@@ -156,11 +156,11 @@ var activities = [
 ["9",  "",                   "",                            "", "", "0", "1"],
 ["15",  "",   "Exam preparation",                       "", "https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/functional/slides/exam.zip", "0", "0"],
 ["9",  "",                   "",                            "", "", "0", "1"],
-["3",  "", "",                    "", "", "0", "0"],
+["9",  "", "",                    "", "", "0", "0"],
 ["9",  "",                   "",                            "", "", "0", "1"],
 ["9",  "",                   "",                            "", "", "0", "1"],
 ["9",  "",                   "",                            "", "", "0", "1"],
-["17",  "(optional)",        "Practical and Sheet",         "", "", "0", "0"],
+["9",  "",                   "",         "", "", "0", "0"],
 ];
 
 //UNIT RESOURCES & MATERIALS
