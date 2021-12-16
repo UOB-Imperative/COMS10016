@@ -125,8 +125,8 @@ var activities = [
 ["17", "(optional)",        "Blackjack",                          "", "", "81", "4"],
 //WEEK 09
 ["9", "", "",                         "", "", "0", "0"],
-["18", "watch before Tue","Functors","https://web.microsoftstream.com/video/73561218-e307-44d2-9b2e-dbffed287f9d", "", "116",  "1"],
-["18", "watch before Tue","Applicatives","https://web.microsoftstream.com/video/d613cc29-e391-401f-af4c-ad6c5c86d541", "", "116",  "2"],
+["22", "watch before Tue","Functors","https://web.microsoftstream.com/video/73561218-e307-44d2-9b2e-dbffed287f9d", "https://quizizz.com/admin/presentation/619be26fa9afb8001d4e68fa", "116",  "1"],
+["22", "watch before Tue","Applicatives","https://web.microsoftstream.com/video/d613cc29-e391-401f-af4c-ad6c5c86d541", "https://quizizz.com/admin/presentation/619be26fa9afb8001d4e68fa", "116",  "2"],
 ["3", "25/11/21<br/>1pm-4pm<br/>MVB2.11", "Join Session Virtually",                     "", "", "85", "3"],
 ["9", "",                   "",                                "", "", "0",  "1"],
 ["9", "",                   "",                                "", "", "0",  "1"],
