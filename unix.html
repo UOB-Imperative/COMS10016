@@ -46,17 +46,26 @@ It is your responsibility to keep your personal system and passwords safe.
 <li>type "exit" and press enter to close the Linux terminal window</li>
 </ul>
 
-<h2>INSTALL THE ATOM EDITOR</h2>
+<h2>INSTALL THE VSCODE EDITOR</h2>
+<h3>Option 1: Ubuntu Software Center</h3>
 <ul>
-<li>right-click on the desktop and click on "Open Terminal", a Linux terminal window will open</li>
-<li>type "sudo add-apt-repository ppa:webupd8team/atom", then press enter and the update process will begin</li>
-<li>if asked, enter the administrator password</li>
-<li>type "sudo apt update", then press enter and the update process will begin</li>
-<li>in case you are queried about disk usage during the installation type "Y" and press enter to confirm</li>
-<li>once ready, type "sudo apt-get install atom", then press enter and the installation will begin</li>
-<li>in case you are queried about disk usage during the installation type "Y" and press enter to confirm</li>
-<li>once ready, the atom editor should be installed</li>
-<li>type "exit" and press enter to close the Linux terminal window</li>
+<li>open Ubuntu Software Center</li>
+<li>search for 'vscode'</li>
+<li>select the 'code' result</li>
+<li>click install and enter the administrator password</li>
+</ul>
+
+<h3>Option 2: Terminal</h3>
+<ul>
+<li>go to <a href="https://code.visualstudio.com/">https://code.visualstudio.com/</a></li>
+<li>download the .deb file</li>
+<li>open a terminal and navigate to the directory you downloaded the .deb file to (if you saved it to the Downloads folder, run `cd ~/Downloads` in the terminal)</li>
+<li>run `sudo apt install ./[file name].deb` (replace '[file name].deb' with the actual name of the .deb file you downloaded)</li>
+<li>enter the administrator password when prompted</li>
+<li>run `sudo apt install apt-transport-https`</li>
+<li>run `sudo apt update`</li>
+<li>run `sudo apt install code`</li>
+<li>VSCode should now be installed</li>
 </ul>
 
 <h2>INSTALL HASKELL AND QUICKCHECK</h2>

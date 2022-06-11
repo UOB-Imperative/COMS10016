@@ -42,34 +42,18 @@ Ensure that your user account is listed as 'Admin', otherwise log in with an Adm
 <li>Open the Terminal (Mac command prompt). For example, press <b>CMD + Space</b> and type: <code>Terminal</code> then select <b>Terminal.app</b> - a Terminal window will open.</li>
 <li>Type: <code>clang --version</code> to see if the C compiler is already available.<br />You should get ONE of the following responses:</li>
 <ul>
-<li>Information shown such as 'Apple LLVM version 10.0.1 (...)'.<br />The compiler is already installed, move on to Installing the Atom Editor.</li>
-<li><i>OR: </i>A dialogue box pops up suggesting you install the Command Line Developer Tools.<br />Select <b>Install</b> and follow the wizard steps to install these Tools.<br />After this is complete, again type: <code>clang --version</code><br />You should now get output as above, move on to Installing the Atom Editor.</li>
+<li>Information shown such as 'Apple LLVM version 10.0.1 (...)'.<br />The compiler is already installed, move on to Installing the VSCode Editor.</li>
+<li><i>OR: </i>A dialogue box pops up suggesting you install the Command Line Developer Tools.<br />Select <b>Install</b> and follow the wizard steps to install these Tools.<br />After this is complete, again type: <code>clang --version</code><br />You should now get output as above, move on to Installing the VSCode Editor.</li>
 <li><i>OR: </i>An error showing that the command is not found.<br />Enter: <code>xcode-select --install</code> to start the Command Line Developer Tools install dialogue - follow instructions as above.</li>
 </ul>
 If the above fails install 'Xcode12' and 'Command Line Tools for Xcode 12' from <a href="https://developer.apple.com/download/more" target="_blank">https://developer.apple.com/download/more</a>.
 </ol>
 
-<h2>INSTALL THE ATOM EDITOR</h2>
-Note that Atom is the recommended text editor for this unit, but you can substitute it with your preferred editor/IDE if you wish.
+<h2>INSTALL THE VSCODE EDITOR</h2>
+Note that VSCode is the recommended text editor for this unit, but you can substitute it with your preferred editor/IDE if you wish.
 <ol>
-<li>In your web browser, navigate to: <a href="https://atom.io/" target="_blank">https://atom.io</a></li>
-<li>Click <b>Download</b> to download the zip file (approx. size: 160MB)</li>
-<li>In the Finder file browser, double-click the downloaded zip file to unzip it.</li>
-<li>Drag the <b>Atom.app</b> file into your Applications folder (drop it on the <b>Applications</b> shortcut on the left of the Finder window).</li>
-<li>Start the Atom app. For example, press <b>CMD + Space</b> and type: <code>Atom</code> then select <b>Atom.app</b> - click <b>Open</b> at the security prompt. </li>
-<li>Command line access:</li>
-<ul>
-<li>Close Atom if it is open. At a Terminal command prompt, type: <code>atom test.c</code></li>
-<li>The Atom editor should open with a new blank test.c file.<br />
-If a 'command not found' error is shown in Terminal:</li>
-<ul>
-<li>Open Atom in the GUI as above.</li>
-<li>In the Atom menu select <b>Atom</b> &gt; <b>Install Shell Commands</b>.</li>
-<li>Close Atom, close and reopen the Terminal and try again.</li>
-</ul>
-<li><i>Note 1: </i>You can also open a complete directory in Atom, for example to open the current working directory type: <code>atom .</code></li>
-<li><i>Note 2: </i>Installing shell commands can add further automation options to Atom, see: <a href="https://atom.io/packages/atom-shell-commands" target="_blank">Atom Shell Commands Package</a>.</li>
-</ul>
+<li>In your web browser, navigate to: <a href="https://code.visualstudio.com/docs/setup/mac">https://code.visualstudio.com/docs/setup/mac</a></li>
+<li>Follow the 'Installation' and 'Launching from the command line' instructions</li>
 </ol>
 
 <h2>INSTALL HASKELL AND QUICKCHECK</h2>
