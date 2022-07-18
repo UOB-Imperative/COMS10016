@@ -1,5 +1,5 @@
 //UNIT DETAILS
-var unitName      = "Imperative and Functional Programming";
+var unitName      = "COMS10016<hr/><a href='https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10016_2021_TB-1/content/imperative/resit/index.html'>IMPERATIVE COURSEWORK RESIT TASKS - SUMMER 2021/22</a><hr/>";
 var unitCode      = "COMS10016";
 var startWeekNum  = 1;                         // start week number [usual start is week 1 or 13]
 var totalWeeks    = 12;                        // total teaching weeks for unit [usually 12]
