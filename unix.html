@@ -1,116 +1,12 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb">
-
+<!DOCTYPE html>
+<html>
 <head>
-<meta name="style" content="cs" />
-<title>University of Bristol - Computer Science - COMS10016: Imperative and Functional Programming</title>
-<link rel="stylesheet" type="text/css" href="corporate.css">
-<link rel="stylesheet" type="text/css" href="uob.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/highlight.js/9.9.0/styles/xcode.min.css"/>
-<script src="https://cdn.jsdelivr.net/highlight.js/9.9.0/highlight.min.js"></script>
-<script src="https://cdn.jsdelivr.net/highlight.js/9.9.0/languages/cpp.min.js"></script>
-<script>
-  addEventListener('load', start);
-  function start() {
-    var pres = document.querySelectorAll("pre");
-    for (var i in pres) hljs.highlightBlock(pres[i]);
-  }
-</script>
-<style>
-  body { font-size: 120%; }
-  pre, .indent { margin-left: 40px; }
-  details[open] { background-color: #cfc; }
-  body { counter-reset: step; }
-  h2::before { counter-increment: step; content: "Step " counter(step) ": "; }
-</style>
+<link rel="canonical" href="https://uob-coms10016.github.io/2025/unix.html"/>
+<meta http-equiv="refresh" content="0;url=https://uob-coms10016.github.io/2025/unix.html" />
 </head>
-<body bgcolor="#EEEEFF" style="margin:0; padding:30px;">
-
-<div align="center"><img src="linux.jpg" width="100px"><br/>COMS10016 | Week 01 | Preparation<br/><h1>SYSTEM SETUP FOR UBUNTU LINUX</h1></div>
-
-This is a brief tutorial on how to setup your personal Linux Ubuntu system to be ready for the COMS10016 unit. 
-The below steps represent one out of many ways of setting up your system for the unit. Many of the steps can be shortened 
-and they are outlined as is for clarity. Before you start make sure your system is up-to-date with respect to updates and features. 
-It is your responsibility to keep your personal system and passwords safe.
-
-<h2>INSTALL THE CLANG COMPILER</h2>
-<ul>
-<li>right-click on the desktop and click on "Open Terminal", a Linux terminal window will open</li>
-<li>type "sudo apt update", then press enter and the update process will begin</li>
-<li>if asked, enter the administrator password</li>
-<li>in case you are queried about disk usage during the installation type "Y" and press enter to confirm</li>
-<li>once ready, type "sudo apt-get install clang", then press enter and the installation will begin</li>
-<li>in case you are queried about disk usage during the installation type "Y" and press enter to confirm</li>
-<li>once ready, the clang compiler should be installed</li>
-<li>type "exit" and press enter to close the Linux terminal window</li>
-</ul>
-
-<h2>INSTALL THE VSCODE EDITOR</h2>
-<h3>Option 1: Ubuntu Software Center</h3>
-<ul>
-<li>open Ubuntu Software Center</li>
-<li>search for 'vscode'</li>
-<li>select the 'code' result</li>
-<li>click install and enter the administrator password</li>
-</ul>
-
-<h3>Option 2: Terminal</h3>
-<ul>
-<li>go to <a href="https://code.visualstudio.com/">https://code.visualstudio.com/</a></li>
-<li>download the .deb file</li>
-<li>open a terminal and navigate to the directory you downloaded the .deb file to (if you saved it to the Downloads folder, run `cd ~/Downloads` in the terminal)</li>
-<li>run `sudo apt install ./[file name].deb` (replace '[file name].deb' with the actual name of the .deb file you downloaded)</li>
-<li>enter the administrator password when prompted</li>
-<li>run `sudo apt install apt-transport-https`</li>
-<li>run `sudo apt update`</li>
-<li>run `sudo apt install code`</li>
-<li>VSCode should now be installed</li>
-</ul>
-
-<h2>INSTALL HASKELL AND QUICKCHECK</h2>
-<ul>
-<li>right-click on the desktop and click on "Open Terminal", a Linux terminal window will open</li>
-<li>type "curl -sSL https://get.haskellstack.org/ | sh", then press enter and the update process will begin</li><hr/>
-<li>Note: you will be asked for your root password for sudo purposes (approx. 2 times)</li>
-<li>Note: after the installation, you may need to add "~/.local/bin" to your PATH variable. You can do this with the following terminal command: "PATH=$PATH:~/.local/bin"</li>
-<li>Note: if you out of disk space, try deleting ".stack". This is a hidden file that you can see using "ls -a", and delete using "rm -fr .stack"</li>
-<li>Note: if you have any further installation issues, try checking these <a href="https://docs.haskellstack.org/en/stable/faq/" target="_blank">FAQs</a>. The Teaching Assistants (TAs) will be there in the first lab to help you with this in the setup labs.</li>
-<hr/>
-<li>after a successful installation, you can run the Haskell GHCi interpreter by typing "stack ghci" in the terminal and pressing enter</li>
-<li>after a successful installation, you can run the Haskell GHCi interpreter with the QuickCheck package by typing "stack ghci --package QuickCheck" in the terminal and pressing enter</li>
-<li>after a successful installation, you can interpret Haskell files (such as a file "File.hs") by adding the file as a final argument to your stack command like "stack ghci --package QuickCheck File.hs" in the terminal and pressing enter</li>
-<li>after a successful installation, you can compile Haskell files (such as a file "File.hs") by adding the file as a final argument to your stack command like "stack ghc --package QuickCheck File.hs" in the terminal and pressing enter</li>
-<hr/>
-<li>Note: once you verify that GHCi is running, you can use the :q command to exit it and go back to the command prompt.</li>
-<hr/>
-<b>IMPORTANT NOTE:</b> If the Haskell installation does not work for you then hold on and use the setup labs during week 1 to get help from a TA. 
-Only if after asking TAs for help you have not been able to install Haskell successfully, then consider looking into more complicated <a href="haskellextra.html" target="_blank">alternatives</a>.
-</ul>
-
-At this point your system is ready for most of the COMS10016 unit and you are ready to start programming in C and Haskell. Further installations
-are optional at the beginning of the unit. However, during the last part of the unit we will use graphics, and for this we will need the SDL2 graphics libraries 
-and a Linux desktop environment...
-
-<h2>INSTALL THE SDL2 DEVELOPMENT PACKAGE</h2>
-<ul>
-<li>right-click on the desktop and click on "Open Terminal", a Linux terminal window will open</li>
-<li>type "sudo apt update", then press enter and the update process will begin</li>
-<li>if asked, enter the administrator password</li>
-<li>in case you are queried about disk usage during the installation type "Y" and press enter to confirm</li>
-<li>once ready, type "sudo apt-get install libsdl2-dev", then press enter and the installation will begin</li>
-<li>in case you are queried about disk usage during the installation type "Y" and press enter to confirm</li>
-<li>once ready, the SDL2 library should be installed</li>
-<li>type "exit" and press enter to close the Linux terminal window</li>
-</ul>
-
-<h2>CHECK SDL2 GRAPHICS</h2>
-<ul>
-<li>download the program <a href="hellosdl.c" target="_blank">hellosdl.c</a></li>
-<li>compile the program, for instance via "clang -std=c11 -Wall hellosdl.c -lSDL2 -o hellosdl", where the 'l' in -lSDL2 stands for link</li>
-<li>if this did not work try compilation via "clang -std=c11 -Wall hellosdl.c -I/usr/include/SDL2 -lSDL2 -o hellosdl"</li>
-<li>run the program, for instance via "./hellosdl" - if you see a sky blue window appear then SDL2 is working properly</li>
-<li>note that some ports of the SDL library unfortunately have memory leaks, which may be reported back to the terminal...you have to live with it</li>
-</ul>
+<body>
+    <h1>Redirecting...</h1>
+      <a href="https://uob-coms10016.github.io/2025/unix.html">Click here if you are not redirected.<a>
+      <script>location='https://uob-coms10016.github.io/2025/unix.html'</script>
 </body>
 </html>
