@@ -1,1 +1,1 @@
-Moved to: https://uob-coms10016.github.io/2025/
+Moved to: https://uob-coms10016.github.io/
